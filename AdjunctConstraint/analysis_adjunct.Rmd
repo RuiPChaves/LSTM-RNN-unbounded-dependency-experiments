@@ -1,0 +1,192 @@
+---
+title: "Analysis for adjunct islands"
+output:
+  pdf_document:
+    latex_engine: xelatex
+---
+```{r}
+rm(list = ls())
+library(tidyverse)
+library(brms)
+library(lme4)
+library(lmerTest)
+library(plotrix)
+library(stringr)
+library(readxl)
+
+remove_na = function(x) {
+  x[!is.na(x)]
+}
+
+REGION_ORDER = c("prefix", "adjunct setup", "preposition", "subject", "modifier", "verb", "object", "continuation", "End")
+REGION_EXEMPLARS = c("I know who/that", "the storm rooled in", "while", "the student", "in the first year", "was studdying for", "the test", "with great enthusiasm", ". <eos>")
+NUM_REGIONS = length(REGION_ORDER)
+
+d1 = read_csv("combined_results_high.csv") %>%
+  select(-1, -2) %>%
+  mutate(unk=unk == "True") %>%
+  mutate(region=if_else(region == "prefix" | region == "that" | region=="what", "prefix", region),
+             region=factor(region, levels=REGION_ORDER)) %>%  
+  separate(condition, sep="_", into=c("wh", "gap", "island"))
+
+d1_agg = d1 %>% 
+  group_by(model, region, sent_index, wh, gap, island) %>% 
+    summarise(surprisal=sum(surprisal),
+              unk=any(unk)) %>%
+    ungroup() %>% 
+  filter(!unk) %>%
+  mutate(wh_numeric=if_else(wh == "what", 1, -1),
+         wh=factor(wh, levels=c("what", "that")),
+         gap=factor(gap, levels=c("no-gap", "gap")),
+         island=factor(island, levels=c("obj", "adj-back", "adj-front")))
+
+
+d2 = read_csv("combined_results_low.csv") %>%
+  select(-1, -2) %>%
+  mutate(unk=unk == "True") %>%
+  mutate(region=if_else(region == "prefix" | region == "that" | region=="what", "prefix", region),
+             region=factor(region, levels=REGION_ORDER)) %>%  
+  separate(condition, sep="_", into=c("wh", "gap", "island"))
+
+d2_agg = d2 %>% 
+  group_by(model, region, sent_index, wh, gap, island) %>% 
+    summarise(surprisal=sum(surprisal),
+              unk=any(unk)) %>%
+    ungroup() %>% 
+  filter(!unk) %>%
+  mutate(wh_numeric=if_else(wh == "what", 1, -1),
+         wh=factor(wh, levels=c("what", "that")),
+         gap=factor(gap, levels=c("no-gap", "gap")),
+         island=factor(island, levels=c("obj", "adj-back", "adj-front")))
+
+d1_agg$Type <- "High"
+d2_agg$Type <- "Low"
+d_agg <- rbind(d1_agg,d2_agg)
+
+```
+
+### Post-gap material
+
+Let's start by looking at the wh-effect for both models:
+
+```{r}
+d_wh_effect = d_agg %>%
+  filter(region == "continuation") %>%
+  select(-wh_numeric) %>%
+  spread(wh, surprisal) %>%
+  mutate(wh_effect=what-`that`) 
+
+d_wh_effect %>% 
+  group_by(model, gap, island,Type) %>%
+    summarise(m=mean(wh_effect),
+              s=std.error(wh_effect),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+      ungroup() %>%
+  ggplot(aes(x=island, y=m, ymin=lower, ymax=upper, fill=gap)) +
+    geom_bar(stat="identity", position="dodge") +
+    xlab("Surprisal with wh-phrase vs. surprisal without wh-phrase") +
+  scale_x_discrete(labels= c("Object Position", "Adjunct Back", "Adjunct Front")) +
+  theme_bw(base_size=18) + 
+   theme(
+      axis.text.x = element_text(angle=45, hjust=1)) +
+    ylab("Surprisal with wh-phrase vs. surprisal without wh-phrase") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9)) +
+    facet_grid(.~model + Type) +
+  ggsave("adj-sur.eps",height=7.1,width=15)
+```
+
+The licensing effects disapper when the extraction is from the adjucnt, and the profile is nearly identical to LEVI's.
+
+
+
+Great, so we can see the licensing effects in the non-island condition (red) and then we see those effects disappear when the item is extracted out of an adjunct in both the front and back conditions, for google, and certianly the back condition -- but quite possibly not the front condition -- for gulordava.
+
+Lets take a look at the contribution of each effect for the island conditions. That is, in the island condition what is accounting for the reducing in licensing effect? Is it the shrinking of the red bars ("no-gap") or the increase of the blue bars ("gap"):
+
+```{r}
+d_contrib = d_agg %>%
+  filter(region == "continuation") %>%
+  select(-wh_numeric) %>%
+  spread(wh, surprisal) %>%
+  mutate(wh_effect=what-`that`) %>%
+  select(-what, -that) %>%
+  spread(gap, `wh_effect`) %>%
+  mutate(wh_interaction = `no-gap`-gap) %>%
+  mutate(`no-gap` = if_else(`no-gap` > 0, `no-gap`, 0)) %>%
+  mutate(gap = if_else(gap < 0, gap, 0)) %>%
+  mutate(gap_contrib = abs(gap) / (`no-gap`-gap))
+
+
+d_contrib %>%
+  group_by(model, island,Type) %>%
+    summarise(gap_contrib=mean(gap_contrib, na.rm=T),
+              m=mean(wh_interaction, na.rm=T),
+              s=std.error(wh_interaction, na.rm=T),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+    ungroup() %>%
+  mutate(gap = m * gap_contrib) %>%
+  mutate(no_gap = (1-gap_contrib) * m) %>%
+  gather("gapped", "contribution", gap, no_gap) %>%
+  ggplot(aes(x=island, y=contribution, ymin=lower, ymax=upper, fill=island, alpha=factor(gapped))) +
+    scale_alpha_discrete(range=c(0.7, 1)) +
+    geom_bar(stat="identity") +
+    geom_errorbar(color="black", width=.5) +
+    ylab("Licensing Interaction") +
+    xlab("Location of Extraction Domain") +
+    theme(axis.text.x = element_text(angle=45, hjust=1)) +
+    facet_wrap(~model+Type) +
+    ggtitle("Post-Gap Material")
+ggsave("adj-nn.pdf",height=4.5,width=3.5)
+
+```
+
+
+Full licensing interaction:
+
+
+```{r}
+d_full_interaction = d_agg %>%
+  filter(region == "continuation") %>%
+  select(-wh_numeric) %>%
+  spread(gap, surprisal) %>%
+  mutate(gap_effect=`no-gap`-gap) %>%
+  select(-unk, -gap, -`no-gap`) %>%
+  spread(wh, gap_effect) %>%
+  mutate(wh_interaction=what-`that`) %>%
+
+  #Error Calculation
+  #Across condition mean response
+  group_by(model, sent_index, Type) %>%
+    mutate(across_condition_mean = mean(wh_interaction)) %>%
+  ungroup() %>%
+  #Item mean-extracted-response measure
+  mutate(item_mean = wh_interaction - across_condition_mean) %>%
+  #Across item item-mean error
+  group_by(model, island, Type) %>%
+    mutate(err = std.error(item_mean, na.rm=T)) %>%
+  ungroup() %>%
+  select(-item_mean, -across_condition_mean)
+
+d_full_interaction %>%
+  group_by(model, island, Type) %>%
+    summarise(m=mean(wh_interaction, na.rm=T),
+              s=mean(err),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+    ungroup() %>%
+  ggplot(aes(x=island, y=m, ymin=lower, ymax=upper, fill=island)) +
+    geom_bar(stat="identity") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9)) +
+    theme(legend.position="none") +
+    ylab("Licensing Interaction") +
+    xlab("Location of Extraction Domain") +
+    scale_x_discrete(labels= c("Object Position", "Adjunct Back", "Adjunct Front")) +
+    theme(axis.text.x = element_text(angle=45, hjust=1)) +
+    facet_wrap(~model+Type) +
+    ggtitle("Post-Gap Material")
+ggsave("~/Desktop/adj_interaction.eps",height=4.5,width=3.5)
+```
+
+

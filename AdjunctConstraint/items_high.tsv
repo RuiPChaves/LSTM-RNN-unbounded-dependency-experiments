@@ -1,0 +1,989 @@
+	sent_index	word_index	word	region	condition
+0	0	0	I	prefix	that_no-gap_obj
+1	0	1	know	prefix	that_no-gap_obj
+2	0	2	that	that	that_no-gap_obj
+3	0	3	they	subject	that_no-gap_obj
+4	0	4	likely	modifier	that_no-gap_obj
+5	0	5	could	verb	that_no-gap_obj
+6	0	6	speak	verb	that_no-gap_obj
+7	0	7	to	verb	that_no-gap_obj
+8	0	8	the	object	that_no-gap_obj
+9	0	9	reporter	object	that_no-gap_obj
+10	0	10	in	continuation	that_no-gap_obj
+11	0	11	private	continuation	that_no-gap_obj
+12	0	13	.	End	that_no-gap_obj
+13	0	14	<eos>	End	that_no-gap_obj
+14	1	0	I	prefix	that_no-gap_obj
+15	1	1	know	prefix	that_no-gap_obj
+16	1	2	that	that	that_no-gap_obj
+17	1	3	the	subject	that_no-gap_obj
+18	1	4	students	subject	that_no-gap_obj
+19	1	5	sometimes	modifier	that_no-gap_obj
+20	1	6	cleaned	verb	that_no-gap_obj
+21	1	7	the	object	that_no-gap_obj
+22	1	8	classroom	object	that_no-gap_obj
+23	1	9	during	continuation	that_no-gap_obj
+24	1	10	the	continuation	that_no-gap_obj
+25	1	11	break	continuation	that_no-gap_obj
+26	1	13	.	End	that_no-gap_obj
+27	1	14	<eos>	End	that_no-gap_obj
+28	2	0	I	prefix	that_no-gap_obj
+29	2	1	know	prefix	that_no-gap_obj
+30	2	2	that	that	that_no-gap_obj
+31	2	3	she	subject	that_no-gap_obj
+32	2	4	unfortunately	modifier	that_no-gap_obj
+33	2	5	missed	verb	that_no-gap_obj
+34	2	6	the	object	that_no-gap_obj
+35	2	7	reception	object	that_no-gap_obj
+36	2	8	in	continuation	that_no-gap_obj
+37	2	9	the	continuation	that_no-gap_obj
+38	2	10	evening	continuation	that_no-gap_obj
+39	2	12	.	End	that_no-gap_obj
+40	2	13	<eos>	End	that_no-gap_obj
+41	3	0	I	prefix	that_no-gap_obj
+42	3	1	know	prefix	that_no-gap_obj
+43	3	2	that	that	that_no-gap_obj
+44	3	3	he	subject	that_no-gap_obj
+45	3	4	often	modifier	that_no-gap_obj
+46	3	5	forgot	verb	that_no-gap_obj
+47	3	6	the	object	that_no-gap_obj
+48	3	7	diapers	object	that_no-gap_obj
+49	3	8	in	continuation	that_no-gap_obj
+50	3	9	the	continuation	that_no-gap_obj
+51	3	10	car	continuation	that_no-gap_obj
+52	3	12	.	End	that_no-gap_obj
+53	3	13	<eos>	End	that_no-gap_obj
+54	4	0	I	prefix	that_no-gap_obj
+55	4	1	know	prefix	that_no-gap_obj
+56	4	2	that	that	that_no-gap_obj
+57	4	3	they	subject	that_no-gap_obj
+58	4	4	usually	modifier	that_no-gap_obj
+59	4	5	are	verb	that_no-gap_obj
+60	4	6	told	verb	that_no-gap_obj
+61	4	7	to	verb	that_no-gap_obj
+62	4	8	do	verb	that_no-gap_obj
+63	4	9	the	object	that_no-gap_obj
+64	4	10	homework	object	that_no-gap_obj
+65	4	11	in	continuation	that_no-gap_obj
+66	4	12	the	continuation	that_no-gap_obj
+67	4	13	morning	continuation	that_no-gap_obj
+68	4	15	.	End	that_no-gap_obj
+69	4	16	<eos>	End	that_no-gap_obj
+70	0	0	I	prefix	that_gap_obj
+71	0	1	know	prefix	that_gap_obj
+72	0	2	that	that	that_gap_obj
+73	0	3	they	subject	that_gap_obj
+74	0	4	likely	modifier	that_gap_obj
+75	0	5	could	verb	that_gap_obj
+76	0	6	speak	verb	that_gap_obj
+77	0	7	to	verb	that_gap_obj
+78	0	8	in	continuation	that_gap_obj
+79	0	9	private	continuation	that_gap_obj
+80	0	11	.	End	that_gap_obj
+81	0	12	<eos>	End	that_gap_obj
+82	1	0	I	prefix	that_gap_obj
+83	1	1	know	prefix	that_gap_obj
+84	1	2	that	that	that_gap_obj
+85	1	3	the	subject	that_gap_obj
+86	1	4	students	subject	that_gap_obj
+87	1	5	sometimes	modifier	that_gap_obj
+88	1	6	cleaned	verb	that_gap_obj
+89	1	7	during	continuation	that_gap_obj
+90	1	8	the	continuation	that_gap_obj
+91	1	9	break	continuation	that_gap_obj
+92	1	11	.	End	that_gap_obj
+93	1	12	<eos>	End	that_gap_obj
+94	2	0	I	prefix	that_gap_obj
+95	2	1	know	prefix	that_gap_obj
+96	2	2	that	that	that_gap_obj
+97	2	3	she	subject	that_gap_obj
+98	2	4	unfortunately	modifier	that_gap_obj
+99	2	5	missed	verb	that_gap_obj
+100	2	6	in	continuation	that_gap_obj
+101	2	7	the	continuation	that_gap_obj
+102	2	8	evening	continuation	that_gap_obj
+103	2	10	.	End	that_gap_obj
+104	2	11	<eos>	End	that_gap_obj
+105	3	0	I	prefix	that_gap_obj
+106	3	1	know	prefix	that_gap_obj
+107	3	2	that	that	that_gap_obj
+108	3	3	he	subject	that_gap_obj
+109	3	4	often	modifier	that_gap_obj
+110	3	5	forgot	verb	that_gap_obj
+111	3	6	in	continuation	that_gap_obj
+112	3	7	the	continuation	that_gap_obj
+113	3	8	car	continuation	that_gap_obj
+114	3	10	.	End	that_gap_obj
+115	3	11	<eos>	End	that_gap_obj
+116	4	0	I	prefix	that_gap_obj
+117	4	1	know	prefix	that_gap_obj
+118	4	2	that	that	that_gap_obj
+119	4	3	they	subject	that_gap_obj
+120	4	4	usually	modifier	that_gap_obj
+121	4	5	are	verb	that_gap_obj
+122	4	6	told	verb	that_gap_obj
+123	4	7	to	verb	that_gap_obj
+124	4	8	do	verb	that_gap_obj
+125	4	9	in	continuation	that_gap_obj
+126	4	10	the	continuation	that_gap_obj
+127	4	11	morning	continuation	that_gap_obj
+128	4	13	.	End	that_gap_obj
+129	4	14	<eos>	End	that_gap_obj
+130	0	0	I	prefix	what_no-gap_obj
+131	0	1	know	prefix	what_no-gap_obj
+132	0	2	who	what	what_no-gap_obj
+133	0	3	they	subject	what_no-gap_obj
+134	0	4	likely	modifier	what_no-gap_obj
+135	0	5	could	verb	what_no-gap_obj
+136	0	6	speak	verb	what_no-gap_obj
+137	0	7	to	verb	what_no-gap_obj
+138	0	8	the	object	what_no-gap_obj
+139	0	9	reporter	object	what_no-gap_obj
+140	0	10	in	continuation	what_no-gap_obj
+141	0	11	private	continuation	what_no-gap_obj
+142	0	13	.	End	what_no-gap_obj
+143	0	14	<eos>	End	what_no-gap_obj
+144	1	0	I	prefix	what_no-gap_obj
+145	1	1	know	prefix	what_no-gap_obj
+146	1	2	what	what	what_no-gap_obj
+147	1	3	the	subject	what_no-gap_obj
+148	1	4	students	subject	what_no-gap_obj
+149	1	5	sometimes	modifier	what_no-gap_obj
+150	1	6	cleaned	verb	what_no-gap_obj
+151	1	7	the	object	what_no-gap_obj
+152	1	8	classroom	object	what_no-gap_obj
+153	1	9	during	continuation	what_no-gap_obj
+154	1	10	the	continuation	what_no-gap_obj
+155	1	11	break	continuation	what_no-gap_obj
+156	1	13	.	End	what_no-gap_obj
+157	1	14	<eos>	End	what_no-gap_obj
+158	2	0	I	prefix	what_no-gap_obj
+159	2	1	know	prefix	what_no-gap_obj
+160	2	2	what	what	what_no-gap_obj
+161	2	3	she	subject	what_no-gap_obj
+162	2	4	unfortunately	modifier	what_no-gap_obj
+163	2	5	missed	verb	what_no-gap_obj
+164	2	6	the	object	what_no-gap_obj
+165	2	7	reception	object	what_no-gap_obj
+166	2	8	in	continuation	what_no-gap_obj
+167	2	9	the	continuation	what_no-gap_obj
+168	2	10	evening	continuation	what_no-gap_obj
+169	2	12	.	End	what_no-gap_obj
+170	2	13	<eos>	End	what_no-gap_obj
+171	3	0	I	prefix	what_no-gap_obj
+172	3	1	know	prefix	what_no-gap_obj
+173	3	2	what	what	what_no-gap_obj
+174	3	3	he	subject	what_no-gap_obj
+175	3	4	often	modifier	what_no-gap_obj
+176	3	5	forgot	verb	what_no-gap_obj
+177	3	6	the	object	what_no-gap_obj
+178	3	7	diapers	object	what_no-gap_obj
+179	3	8	in	continuation	what_no-gap_obj
+180	3	9	the	continuation	what_no-gap_obj
+181	3	10	car	continuation	what_no-gap_obj
+182	3	12	.	End	what_no-gap_obj
+183	3	13	<eos>	End	what_no-gap_obj
+184	4	0	I	prefix	what_no-gap_obj
+185	4	1	know	prefix	what_no-gap_obj
+186	4	2	what	what	what_no-gap_obj
+187	4	3	they	subject	what_no-gap_obj
+188	4	4	usually	modifier	what_no-gap_obj
+189	4	5	are	verb	what_no-gap_obj
+190	4	6	told	verb	what_no-gap_obj
+191	4	7	to	verb	what_no-gap_obj
+192	4	8	do	verb	what_no-gap_obj
+193	4	9	the	object	what_no-gap_obj
+194	4	10	homework	object	what_no-gap_obj
+195	4	11	in	continuation	what_no-gap_obj
+196	4	12	the	continuation	what_no-gap_obj
+197	4	13	morning	continuation	what_no-gap_obj
+198	4	15	.	End	what_no-gap_obj
+199	4	16	<eos>	End	what_no-gap_obj
+200	0	0	I	prefix	what_gap_obj
+201	0	1	know	prefix	what_gap_obj
+202	0	2	who	what	what_gap_obj
+203	0	3	they	subject	what_gap_obj
+204	0	4	likely	modifier	what_gap_obj
+205	0	5	could	verb	what_gap_obj
+206	0	6	speak	verb	what_gap_obj
+207	0	7	to	verb	what_gap_obj
+208	0	8	in	continuation	what_gap_obj
+209	0	9	private	continuation	what_gap_obj
+210	0	11	.	End	what_gap_obj
+211	0	12	<eos>	End	what_gap_obj
+212	1	0	I	prefix	what_gap_obj
+213	1	1	know	prefix	what_gap_obj
+214	1	2	what	what	what_gap_obj
+215	1	3	the	subject	what_gap_obj
+216	1	4	students	subject	what_gap_obj
+217	1	5	sometimes	modifier	what_gap_obj
+218	1	6	cleaned	verb	what_gap_obj
+219	1	7	during	continuation	what_gap_obj
+220	1	8	the	continuation	what_gap_obj
+221	1	9	break	continuation	what_gap_obj
+222	1	11	.	End	what_gap_obj
+223	1	12	<eos>	End	what_gap_obj
+224	2	0	I	prefix	what_gap_obj
+225	2	1	know	prefix	what_gap_obj
+226	2	2	what	what	what_gap_obj
+227	2	3	she	subject	what_gap_obj
+228	2	4	unfortunately	modifier	what_gap_obj
+229	2	5	missed	verb	what_gap_obj
+230	2	6	in	continuation	what_gap_obj
+231	2	7	the	continuation	what_gap_obj
+232	2	8	evening	continuation	what_gap_obj
+233	2	10	.	End	what_gap_obj
+234	2	11	<eos>	End	what_gap_obj
+235	3	0	I	prefix	what_gap_obj
+236	3	1	know	prefix	what_gap_obj
+237	3	2	what	what	what_gap_obj
+238	3	3	he	subject	what_gap_obj
+239	3	4	often	modifier	what_gap_obj
+240	3	5	forgot	verb	what_gap_obj
+241	3	6	in	continuation	what_gap_obj
+242	3	7	the	continuation	what_gap_obj
+243	3	8	car	continuation	what_gap_obj
+244	3	10	.	End	what_gap_obj
+245	3	11	<eos>	End	what_gap_obj
+246	4	0	I	prefix	what_gap_obj
+247	4	1	know	prefix	what_gap_obj
+248	4	2	what	what	what_gap_obj
+249	4	3	they	subject	what_gap_obj
+250	4	4	usually	modifier	what_gap_obj
+251	4	5	are	verb	what_gap_obj
+252	4	6	told	verb	what_gap_obj
+253	4	7	to	verb	what_gap_obj
+254	4	8	do	verb	what_gap_obj
+255	4	9	in	continuation	what_gap_obj
+256	4	10	the	continuation	what_gap_obj
+257	4	11	morning	continuation	what_gap_obj
+258	4	13	.	End	what_gap_obj
+259	4	14	<eos>	End	what_gap_obj
+260	0	0	I	prefix	that_no-gap_adj-back
+261	0	1	know	prefix	that_no-gap_adj-back
+262	0	2	that	that	that_no-gap_adj-back
+263	0	3	the	adjunct setup	that_no-gap_adj-back
+264	0	4	kids	adjunct setup	that_no-gap_adj-back
+265	0	5	would	adjunct setup	that_no-gap_adj-back
+266	0	6	be	adjunct setup	that_no-gap_adj-back
+267	0	7	really	adjunct setup	that_no-gap_adj-back
+268	0	8	happy	adjunct setup	that_no-gap_adj-back
+269	0	9	if	preposition	that_no-gap_adj-back
+270	0	10	they	subject	that_no-gap_adj-back
+271	0	11	could	verb	that_no-gap_adj-back
+272	0	12	speak	verb	that_no-gap_adj-back
+273	0	13	to	verb	that_no-gap_adj-back
+274	0	14	the	object	that_no-gap_adj-back
+275	0	15	reporter	object	that_no-gap_adj-back
+276	0	16	in	continuation	that_no-gap_adj-back
+277	0	17	private	continuation	that_no-gap_adj-back
+278	0	19	.	End	that_no-gap_adj-back
+279	0	20	<eos>	End	that_no-gap_adj-back
+280	1	0	I	prefix	that_no-gap_adj-back
+281	1	1	know	prefix	that_no-gap_adj-back
+282	1	2	that	that	that_no-gap_adj-back
+283	1	3	the	adjunct setup	that_no-gap_adj-back
+284	1	4	teacher	adjunct setup	that_no-gap_adj-back
+285	1	5	would	adjunct setup	that_no-gap_adj-back
+286	1	6	be	adjunct setup	that_no-gap_adj-back
+287	1	7	impressed	adjunct setup	that_no-gap_adj-back
+288	1	8	if	preposition	that_no-gap_adj-back
+289	1	9	the	subject	that_no-gap_adj-back
+290	1	10	students	subject	that_no-gap_adj-back
+291	1	11	cleaned	verb	that_no-gap_adj-back
+292	1	12	the	object	that_no-gap_adj-back
+293	1	13	classroom	object	that_no-gap_adj-back
+294	1	14	during	continuation	that_no-gap_adj-back
+295	1	15	the	continuation	that_no-gap_adj-back
+296	1	16	break	continuation	that_no-gap_adj-back
+297	1	18	.	End	that_no-gap_adj-back
+298	1	19	<eos>	End	that_no-gap_adj-back
+299	2	0	I	prefix	that_no-gap_adj-back
+300	2	1	know	prefix	that_no-gap_adj-back
+301	2	2	that	that	that_no-gap_adj-back
+302	2	3	she	adjunct setup	that_no-gap_adj-back
+303	2	4	would	adjunct setup	that_no-gap_adj-back
+304	2	5	get	adjunct setup	that_no-gap_adj-back
+305	2	6	very	adjunct setup	that_no-gap_adj-back
+306	2	7	angry	adjunct setup	that_no-gap_adj-back
+307	2	8	if	preposition	that_no-gap_adj-back
+308	2	9	she	subject	that_no-gap_adj-back
+309	2	10	missed	verb	that_no-gap_adj-back
+310	2	11	the	object	that_no-gap_adj-back
+311	2	12	reception	object	that_no-gap_adj-back
+312	2	13	in	continuation	that_no-gap_adj-back
+313	2	14	the	continuation	that_no-gap_adj-back
+314	2	15	evening	continuation	that_no-gap_adj-back
+315	2	17	.	End	that_no-gap_adj-back
+316	2	18	<eos>	End	that_no-gap_adj-back
+317	3	0	I	prefix	that_no-gap_adj-back
+318	3	1	know	prefix	that_no-gap_adj-back
+319	3	2	that	that	that_no-gap_adj-back
+320	3	3	the	adjunct setup	that_no-gap_adj-back
+321	3	4	boy	adjunct setup	that_no-gap_adj-back
+322	3	5	would	adjunct setup	that_no-gap_adj-back
+323	3	6	get	adjunct setup	that_no-gap_adj-back
+324	3	7	really	adjunct setup	that_no-gap_adj-back
+325	3	8	upset	adjunct setup	that_no-gap_adj-back
+326	3	9	if	preposition	that_no-gap_adj-back
+327	3	10	he	subject	that_no-gap_adj-back
+328	3	11	forgot	verb	that_no-gap_adj-back
+329	3	12	the	object	that_no-gap_adj-back
+330	3	13	diapers	object	that_no-gap_adj-back
+331	3	14	in	continuation	that_no-gap_adj-back
+332	3	15	the	continuation	that_no-gap_adj-back
+333	3	16	car	continuation	that_no-gap_adj-back
+334	3	18	.	End	that_no-gap_adj-back
+335	3	19	<eos>	End	that_no-gap_adj-back
+336	4	0	I	prefix	that_no-gap_adj-back
+337	4	1	know	prefix	that_no-gap_adj-back
+338	4	2	that	that	that_no-gap_adj-back
+339	4	3	the	adjunct setup	that_no-gap_adj-back
+340	4	4	kids	adjunct setup	that_no-gap_adj-back
+341	4	5	get	adjunct setup	that_no-gap_adj-back
+342	4	6	grumpy	adjunct setup	that_no-gap_adj-back
+343	4	7	if	preposition	that_no-gap_adj-back
+344	4	8	they	subject	that_no-gap_adj-back
+345	4	9	are	verb	that_no-gap_adj-back
+346	4	10	told	verb	that_no-gap_adj-back
+347	4	11	to	verb	that_no-gap_adj-back
+348	4	12	do	verb	that_no-gap_adj-back
+349	4	13	the	object	that_no-gap_adj-back
+350	4	14	homework	object	that_no-gap_adj-back
+351	4	15	in	continuation	that_no-gap_adj-back
+352	4	16	the	continuation	that_no-gap_adj-back
+353	4	17	morning	continuation	that_no-gap_adj-back
+354	4	19	.	End	that_no-gap_adj-back
+355	4	20	<eos>	End	that_no-gap_adj-back
+356	0	0	I	prefix	that_gap_adj-back
+357	0	1	know	prefix	that_gap_adj-back
+358	0	2	that	that	that_gap_adj-back
+359	0	3	the	adjunct setup	that_gap_adj-back
+360	0	4	kids	adjunct setup	that_gap_adj-back
+361	0	5	would	adjunct setup	that_gap_adj-back
+362	0	6	be	adjunct setup	that_gap_adj-back
+363	0	7	really	adjunct setup	that_gap_adj-back
+364	0	8	happy	adjunct setup	that_gap_adj-back
+365	0	9	if	preposition	that_gap_adj-back
+366	0	10	they	subject	that_gap_adj-back
+367	0	11	could	verb	that_gap_adj-back
+368	0	12	speak	verb	that_gap_adj-back
+369	0	13	to	verb	that_gap_adj-back
+370	0	14	in	continuation	that_gap_adj-back
+371	0	15	private	continuation	that_gap_adj-back
+372	0	17	.	End	that_gap_adj-back
+373	0	18	<eos>	End	that_gap_adj-back
+374	1	0	I	prefix	that_gap_adj-back
+375	1	1	know	prefix	that_gap_adj-back
+376	1	2	that	that	that_gap_adj-back
+377	1	3	the	adjunct setup	that_gap_adj-back
+378	1	4	teacher	adjunct setup	that_gap_adj-back
+379	1	5	would	adjunct setup	that_gap_adj-back
+380	1	6	be	adjunct setup	that_gap_adj-back
+381	1	7	impressed	adjunct setup	that_gap_adj-back
+382	1	8	if	preposition	that_gap_adj-back
+383	1	9	the	subject	that_gap_adj-back
+384	1	10	students	subject	that_gap_adj-back
+385	1	11	cleaned	verb	that_gap_adj-back
+386	1	12	during	continuation	that_gap_adj-back
+387	1	13	the	continuation	that_gap_adj-back
+388	1	14	break	continuation	that_gap_adj-back
+389	1	16	.	End	that_gap_adj-back
+390	1	17	<eos>	End	that_gap_adj-back
+391	2	0	I	prefix	that_gap_adj-back
+392	2	1	know	prefix	that_gap_adj-back
+393	2	2	that	that	that_gap_adj-back
+394	2	3	she	adjunct setup	that_gap_adj-back
+395	2	4	would	adjunct setup	that_gap_adj-back
+396	2	5	get	adjunct setup	that_gap_adj-back
+397	2	6	very	adjunct setup	that_gap_adj-back
+398	2	7	angry	adjunct setup	that_gap_adj-back
+399	2	8	if	preposition	that_gap_adj-back
+400	2	9	she	subject	that_gap_adj-back
+401	2	10	missed	verb	that_gap_adj-back
+402	2	11	in	continuation	that_gap_adj-back
+403	2	12	the	continuation	that_gap_adj-back
+404	2	13	evening	continuation	that_gap_adj-back
+405	2	15	.	End	that_gap_adj-back
+406	2	16	<eos>	End	that_gap_adj-back
+407	3	0	I	prefix	that_gap_adj-back
+408	3	1	know	prefix	that_gap_adj-back
+409	3	2	that	that	that_gap_adj-back
+410	3	3	the	adjunct setup	that_gap_adj-back
+411	3	4	boy	adjunct setup	that_gap_adj-back
+412	3	5	would	adjunct setup	that_gap_adj-back
+413	3	6	get	adjunct setup	that_gap_adj-back
+414	3	7	really	adjunct setup	that_gap_adj-back
+415	3	8	upset	adjunct setup	that_gap_adj-back
+416	3	9	if	preposition	that_gap_adj-back
+417	3	10	he	subject	that_gap_adj-back
+418	3	11	forgot	verb	that_gap_adj-back
+419	3	12	in	continuation	that_gap_adj-back
+420	3	13	the	continuation	that_gap_adj-back
+421	3	14	car	continuation	that_gap_adj-back
+422	3	16	.	End	that_gap_adj-back
+423	3	17	<eos>	End	that_gap_adj-back
+424	4	0	I	prefix	that_gap_adj-back
+425	4	1	know	prefix	that_gap_adj-back
+426	4	2	that	that	that_gap_adj-back
+427	4	3	the	adjunct setup	that_gap_adj-back
+428	4	4	kids	adjunct setup	that_gap_adj-back
+429	4	5	get	adjunct setup	that_gap_adj-back
+430	4	6	grumpy	adjunct setup	that_gap_adj-back
+431	4	7	if	preposition	that_gap_adj-back
+432	4	8	they	subject	that_gap_adj-back
+433	4	9	are	verb	that_gap_adj-back
+434	4	10	told	verb	that_gap_adj-back
+435	4	11	to	verb	that_gap_adj-back
+436	4	12	do	verb	that_gap_adj-back
+437	4	13	in	continuation	that_gap_adj-back
+438	4	14	the	continuation	that_gap_adj-back
+439	4	15	morning	continuation	that_gap_adj-back
+440	4	17	.	End	that_gap_adj-back
+441	4	18	<eos>	End	that_gap_adj-back
+442	0	0	I	prefix	what_no-gap_adj-back
+443	0	1	know	prefix	what_no-gap_adj-back
+444	0	2	who	what	what_no-gap_adj-back
+445	0	3	the	adjunct setup	what_no-gap_adj-back
+446	0	4	kids	adjunct setup	what_no-gap_adj-back
+447	0	5	would	adjunct setup	what_no-gap_adj-back
+448	0	6	be	adjunct setup	what_no-gap_adj-back
+449	0	7	really	adjunct setup	what_no-gap_adj-back
+450	0	8	happy	adjunct setup	what_no-gap_adj-back
+451	0	9	if	preposition	what_no-gap_adj-back
+452	0	10	they	subject	what_no-gap_adj-back
+453	0	11	could	verb	what_no-gap_adj-back
+454	0	12	speak	verb	what_no-gap_adj-back
+455	0	13	to	verb	what_no-gap_adj-back
+456	0	14	the	object	what_no-gap_adj-back
+457	0	15	reporter	object	what_no-gap_adj-back
+458	0	16	in	continuation	what_no-gap_adj-back
+459	0	17	private	continuation	what_no-gap_adj-back
+460	0	19	.	End	what_no-gap_adj-back
+461	0	20	<eos>	End	what_no-gap_adj-back
+462	1	0	I	prefix	what_no-gap_adj-back
+463	1	1	know	prefix	what_no-gap_adj-back
+464	1	2	what	what	what_no-gap_adj-back
+465	1	3	the	adjunct setup	what_no-gap_adj-back
+466	1	4	teacher	adjunct setup	what_no-gap_adj-back
+467	1	5	would	adjunct setup	what_no-gap_adj-back
+468	1	6	be	adjunct setup	what_no-gap_adj-back
+469	1	7	impressed	adjunct setup	what_no-gap_adj-back
+470	1	8	if	preposition	what_no-gap_adj-back
+471	1	9	the	subject	what_no-gap_adj-back
+472	1	10	students	subject	what_no-gap_adj-back
+473	1	11	cleaned	verb	what_no-gap_adj-back
+474	1	12	the	object	what_no-gap_adj-back
+475	1	13	classroom	object	what_no-gap_adj-back
+476	1	14	during	continuation	what_no-gap_adj-back
+477	1	15	the	continuation	what_no-gap_adj-back
+478	1	16	break	continuation	what_no-gap_adj-back
+479	1	18	.	End	what_no-gap_adj-back
+480	1	19	<eos>	End	what_no-gap_adj-back
+481	2	0	I	prefix	what_no-gap_adj-back
+482	2	1	know	prefix	what_no-gap_adj-back
+483	2	2	what	what	what_no-gap_adj-back
+484	2	3	she	adjunct setup	what_no-gap_adj-back
+485	2	4	would	adjunct setup	what_no-gap_adj-back
+486	2	5	get	adjunct setup	what_no-gap_adj-back
+487	2	6	very	adjunct setup	what_no-gap_adj-back
+488	2	7	angry	adjunct setup	what_no-gap_adj-back
+489	2	8	if	preposition	what_no-gap_adj-back
+490	2	9	she	subject	what_no-gap_adj-back
+491	2	10	missed	verb	what_no-gap_adj-back
+492	2	11	the	object	what_no-gap_adj-back
+493	2	12	reception	object	what_no-gap_adj-back
+494	2	13	in	continuation	what_no-gap_adj-back
+495	2	14	the	continuation	what_no-gap_adj-back
+496	2	15	evening	continuation	what_no-gap_adj-back
+497	2	17	.	End	what_no-gap_adj-back
+498	2	18	<eos>	End	what_no-gap_adj-back
+499	3	0	I	prefix	what_no-gap_adj-back
+500	3	1	know	prefix	what_no-gap_adj-back
+501	3	2	what	what	what_no-gap_adj-back
+502	3	3	the	adjunct setup	what_no-gap_adj-back
+503	3	4	boy	adjunct setup	what_no-gap_adj-back
+504	3	5	would	adjunct setup	what_no-gap_adj-back
+505	3	6	get	adjunct setup	what_no-gap_adj-back
+506	3	7	really	adjunct setup	what_no-gap_adj-back
+507	3	8	upset	adjunct setup	what_no-gap_adj-back
+508	3	9	if	preposition	what_no-gap_adj-back
+509	3	10	he	subject	what_no-gap_adj-back
+510	3	11	forgot	verb	what_no-gap_adj-back
+511	3	12	the	object	what_no-gap_adj-back
+512	3	13	diapers	object	what_no-gap_adj-back
+513	3	14	in	continuation	what_no-gap_adj-back
+514	3	15	the	continuation	what_no-gap_adj-back
+515	3	16	car	continuation	what_no-gap_adj-back
+516	3	18	.	End	what_no-gap_adj-back
+517	3	19	<eos>	End	what_no-gap_adj-back
+518	4	0	I	prefix	what_no-gap_adj-back
+519	4	1	know	prefix	what_no-gap_adj-back
+520	4	2	what	what	what_no-gap_adj-back
+521	4	3	the	adjunct setup	what_no-gap_adj-back
+522	4	4	kids	adjunct setup	what_no-gap_adj-back
+523	4	5	get	adjunct setup	what_no-gap_adj-back
+524	4	6	grumpy	adjunct setup	what_no-gap_adj-back
+525	4	7	if	preposition	what_no-gap_adj-back
+526	4	8	they	subject	what_no-gap_adj-back
+527	4	9	are	verb	what_no-gap_adj-back
+528	4	10	told	verb	what_no-gap_adj-back
+529	4	11	to	verb	what_no-gap_adj-back
+530	4	12	do	verb	what_no-gap_adj-back
+531	4	13	the	object	what_no-gap_adj-back
+532	4	14	homework	object	what_no-gap_adj-back
+533	4	15	in	continuation	what_no-gap_adj-back
+534	4	16	the	continuation	what_no-gap_adj-back
+535	4	17	morning	continuation	what_no-gap_adj-back
+536	4	19	.	End	what_no-gap_adj-back
+537	4	20	<eos>	End	what_no-gap_adj-back
+538	0	0	I	prefix	what_gap_adj-back
+539	0	1	know	prefix	what_gap_adj-back
+540	0	2	who	what	what_gap_adj-back
+541	0	3	the	adjunct setup	what_gap_adj-back
+542	0	4	kids	adjunct setup	what_gap_adj-back
+543	0	5	would	adjunct setup	what_gap_adj-back
+544	0	6	be	adjunct setup	what_gap_adj-back
+545	0	7	really	adjunct setup	what_gap_adj-back
+546	0	8	happy	adjunct setup	what_gap_adj-back
+547	0	9	if	preposition	what_gap_adj-back
+548	0	10	they	subject	what_gap_adj-back
+549	0	11	could	verb	what_gap_adj-back
+550	0	12	speak	verb	what_gap_adj-back
+551	0	13	to	verb	what_gap_adj-back
+552	0	14	in	continuation	what_gap_adj-back
+553	0	15	private	continuation	what_gap_adj-back
+554	0	17	.	End	what_gap_adj-back
+555	0	18	<eos>	End	what_gap_adj-back
+556	1	0	I	prefix	what_gap_adj-back
+557	1	1	know	prefix	what_gap_adj-back
+558	1	2	what	what	what_gap_adj-back
+559	1	3	the	adjunct setup	what_gap_adj-back
+560	1	4	teacher	adjunct setup	what_gap_adj-back
+561	1	5	would	adjunct setup	what_gap_adj-back
+562	1	6	be	adjunct setup	what_gap_adj-back
+563	1	7	impressed	adjunct setup	what_gap_adj-back
+564	1	8	if	preposition	what_gap_adj-back
+565	1	9	the	subject	what_gap_adj-back
+566	1	10	students	subject	what_gap_adj-back
+567	1	11	cleaned	verb	what_gap_adj-back
+568	1	12	during	continuation	what_gap_adj-back
+569	1	13	the	continuation	what_gap_adj-back
+570	1	14	break	continuation	what_gap_adj-back
+571	1	16	.	End	what_gap_adj-back
+572	1	17	<eos>	End	what_gap_adj-back
+573	2	0	I	prefix	what_gap_adj-back
+574	2	1	know	prefix	what_gap_adj-back
+575	2	2	what	what	what_gap_adj-back
+576	2	3	she	adjunct setup	what_gap_adj-back
+577	2	4	would	adjunct setup	what_gap_adj-back
+578	2	5	get	adjunct setup	what_gap_adj-back
+579	2	6	very	adjunct setup	what_gap_adj-back
+580	2	7	angry	adjunct setup	what_gap_adj-back
+581	2	8	if	preposition	what_gap_adj-back
+582	2	9	she	subject	what_gap_adj-back
+583	2	10	missed	verb	what_gap_adj-back
+584	2	11	in	continuation	what_gap_adj-back
+585	2	12	the	continuation	what_gap_adj-back
+586	2	13	evening	continuation	what_gap_adj-back
+587	2	15	.	End	what_gap_adj-back
+588	2	16	<eos>	End	what_gap_adj-back
+589	3	0	I	prefix	what_gap_adj-back
+590	3	1	know	prefix	what_gap_adj-back
+591	3	2	what	what	what_gap_adj-back
+592	3	3	the	adjunct setup	what_gap_adj-back
+593	3	4	boy	adjunct setup	what_gap_adj-back
+594	3	5	would	adjunct setup	what_gap_adj-back
+595	3	6	get	adjunct setup	what_gap_adj-back
+596	3	7	really	adjunct setup	what_gap_adj-back
+597	3	8	upset	adjunct setup	what_gap_adj-back
+598	3	9	if	preposition	what_gap_adj-back
+599	3	10	he	subject	what_gap_adj-back
+600	3	11	forgot	verb	what_gap_adj-back
+601	3	12	in	continuation	what_gap_adj-back
+602	3	13	the	continuation	what_gap_adj-back
+603	3	14	car	continuation	what_gap_adj-back
+604	3	16	.	End	what_gap_adj-back
+605	3	17	<eos>	End	what_gap_adj-back
+606	4	0	I	prefix	what_gap_adj-back
+607	4	1	know	prefix	what_gap_adj-back
+608	4	2	what	what	what_gap_adj-back
+609	4	3	the	adjunct setup	what_gap_adj-back
+610	4	4	kids	adjunct setup	what_gap_adj-back
+611	4	5	get	adjunct setup	what_gap_adj-back
+612	4	6	grumpy	adjunct setup	what_gap_adj-back
+613	4	7	if	preposition	what_gap_adj-back
+614	4	8	they	subject	what_gap_adj-back
+615	4	9	are	verb	what_gap_adj-back
+616	4	10	told	verb	what_gap_adj-back
+617	4	11	to	verb	what_gap_adj-back
+618	4	12	do	verb	what_gap_adj-back
+619	4	13	in	continuation	what_gap_adj-back
+620	4	14	the	continuation	what_gap_adj-back
+621	4	15	morning	continuation	what_gap_adj-back
+622	4	17	.	End	what_gap_adj-back
+623	4	18	<eos>	End	what_gap_adj-back
+624	0	0	I	prefix	that_no-gap_adj-front
+625	0	1	know	prefix	that_no-gap_adj-front
+626	0	2	that	that	that_no-gap_adj-front
+627	0	3	if	preposition	that_no-gap_adj-front
+628	0	4	they	subject	that_no-gap_adj-front
+629	0	5	could	verb	that_no-gap_adj-front
+630	0	6	speak	verb	that_no-gap_adj-front
+631	0	7	to	verb	that_no-gap_adj-front
+632	0	8	the	object	that_no-gap_adj-front
+633	0	9	reporter	object	that_no-gap_adj-front
+634	0	10	in	continuation	that_no-gap_adj-front
+635	0	11	private	continuation	that_no-gap_adj-front
+636	0	12	the	adjunct setup	that_no-gap_adj-front
+637	0	13	kids	adjunct setup	that_no-gap_adj-front
+638	0	14	would	adjunct setup	that_no-gap_adj-front
+639	0	15	be	adjunct setup	that_no-gap_adj-front
+640	0	16	really	adjunct setup	that_no-gap_adj-front
+641	0	17	happy	adjunct setup	that_no-gap_adj-front
+642	0	19	.	End	that_no-gap_adj-front
+643	0	20	<eos>	End	that_no-gap_adj-front
+644	1	0	I	prefix	that_no-gap_adj-front
+645	1	1	know	prefix	that_no-gap_adj-front
+646	1	2	that	that	that_no-gap_adj-front
+647	1	3	if	preposition	that_no-gap_adj-front
+648	1	4	the	subject	that_no-gap_adj-front
+649	1	5	students	subject	that_no-gap_adj-front
+650	1	6	cleaned	verb	that_no-gap_adj-front
+651	1	7	the	object	that_no-gap_adj-front
+652	1	8	classroom	object	that_no-gap_adj-front
+653	1	9	during	continuation	that_no-gap_adj-front
+654	1	10	the	continuation	that_no-gap_adj-front
+655	1	11	break	continuation	that_no-gap_adj-front
+656	1	12	the	adjunct setup	that_no-gap_adj-front
+657	1	13	teacher	adjunct setup	that_no-gap_adj-front
+658	1	14	would	adjunct setup	that_no-gap_adj-front
+659	1	15	be	adjunct setup	that_no-gap_adj-front
+660	1	16	impressed	adjunct setup	that_no-gap_adj-front
+661	1	18	.	End	that_no-gap_adj-front
+662	1	19	<eos>	End	that_no-gap_adj-front
+663	2	0	I	prefix	that_no-gap_adj-front
+664	2	1	know	prefix	that_no-gap_adj-front
+665	2	2	that	that	that_no-gap_adj-front
+666	2	3	if	preposition	that_no-gap_adj-front
+667	2	4	she	subject	that_no-gap_adj-front
+668	2	5	missed	verb	that_no-gap_adj-front
+669	2	6	the	object	that_no-gap_adj-front
+670	2	7	reception	object	that_no-gap_adj-front
+671	2	8	in	continuation	that_no-gap_adj-front
+672	2	9	the	continuation	that_no-gap_adj-front
+673	2	10	evening	continuation	that_no-gap_adj-front
+674	2	11	she	adjunct setup	that_no-gap_adj-front
+675	2	12	would	adjunct setup	that_no-gap_adj-front
+676	2	13	get	adjunct setup	that_no-gap_adj-front
+677	2	14	very	adjunct setup	that_no-gap_adj-front
+678	2	15	angry	adjunct setup	that_no-gap_adj-front
+679	2	17	.	End	that_no-gap_adj-front
+680	2	18	<eos>	End	that_no-gap_adj-front
+681	3	0	I	prefix	that_no-gap_adj-front
+682	3	1	know	prefix	that_no-gap_adj-front
+683	3	2	that	that	that_no-gap_adj-front
+684	3	3	if	preposition	that_no-gap_adj-front
+685	3	4	he	subject	that_no-gap_adj-front
+686	3	5	forgot	verb	that_no-gap_adj-front
+687	3	6	the	object	that_no-gap_adj-front
+688	3	7	diapers	object	that_no-gap_adj-front
+689	3	8	in	continuation	that_no-gap_adj-front
+690	3	9	the	continuation	that_no-gap_adj-front
+691	3	10	car	continuation	that_no-gap_adj-front
+692	3	11	the	adjunct setup	that_no-gap_adj-front
+693	3	12	boy	adjunct setup	that_no-gap_adj-front
+694	3	13	would	adjunct setup	that_no-gap_adj-front
+695	3	14	get	adjunct setup	that_no-gap_adj-front
+696	3	15	really	adjunct setup	that_no-gap_adj-front
+697	3	16	upset	adjunct setup	that_no-gap_adj-front
+698	3	18	.	End	that_no-gap_adj-front
+699	3	19	<eos>	End	that_no-gap_adj-front
+700	4	0	I	prefix	that_no-gap_adj-front
+701	4	1	know	prefix	that_no-gap_adj-front
+702	4	2	that	that	that_no-gap_adj-front
+703	4	3	if	preposition	that_no-gap_adj-front
+704	4	4	they	subject	that_no-gap_adj-front
+705	4	5	are	verb	that_no-gap_adj-front
+706	4	6	told	verb	that_no-gap_adj-front
+707	4	7	to	verb	that_no-gap_adj-front
+708	4	8	do	verb	that_no-gap_adj-front
+709	4	9	the	object	that_no-gap_adj-front
+710	4	10	homework	object	that_no-gap_adj-front
+711	4	11	in	continuation	that_no-gap_adj-front
+712	4	12	the	continuation	that_no-gap_adj-front
+713	4	13	morning	continuation	that_no-gap_adj-front
+714	4	14	the	adjunct setup	that_no-gap_adj-front
+715	4	15	kids	adjunct setup	that_no-gap_adj-front
+716	4	16	get	adjunct setup	that_no-gap_adj-front
+717	4	17	grumpy	adjunct setup	that_no-gap_adj-front
+718	4	19	.	End	that_no-gap_adj-front
+719	4	20	<eos>	End	that_no-gap_adj-front
+720	0	0	I	prefix	that_gap_adj-front
+721	0	1	know	prefix	that_gap_adj-front
+722	0	2	that	that	that_gap_adj-front
+723	0	3	if	preposition	that_gap_adj-front
+724	0	4	they	subject	that_gap_adj-front
+725	0	5	could	verb	that_gap_adj-front
+726	0	6	speak	verb	that_gap_adj-front
+727	0	7	to	verb	that_gap_adj-front
+728	0	8	in	continuation	that_gap_adj-front
+729	0	9	private	continuation	that_gap_adj-front
+730	0	10	the	adjunct setup	that_gap_adj-front
+731	0	11	kids	adjunct setup	that_gap_adj-front
+732	0	12	would	adjunct setup	that_gap_adj-front
+733	0	13	be	adjunct setup	that_gap_adj-front
+734	0	14	really	adjunct setup	that_gap_adj-front
+735	0	15	happy	adjunct setup	that_gap_adj-front
+736	0	17	.	End	that_gap_adj-front
+737	0	18	<eos>	End	that_gap_adj-front
+738	1	0	I	prefix	that_gap_adj-front
+739	1	1	know	prefix	that_gap_adj-front
+740	1	2	that	that	that_gap_adj-front
+741	1	3	if	preposition	that_gap_adj-front
+742	1	4	the	subject	that_gap_adj-front
+743	1	5	students	subject	that_gap_adj-front
+744	1	6	cleaned	verb	that_gap_adj-front
+745	1	7	during	continuation	that_gap_adj-front
+746	1	8	the	continuation	that_gap_adj-front
+747	1	9	break	continuation	that_gap_adj-front
+748	1	10	the	adjunct setup	that_gap_adj-front
+749	1	11	teacher	adjunct setup	that_gap_adj-front
+750	1	12	would	adjunct setup	that_gap_adj-front
+751	1	13	be	adjunct setup	that_gap_adj-front
+752	1	14	impressed	adjunct setup	that_gap_adj-front
+753	1	16	.	End	that_gap_adj-front
+754	1	17	<eos>	End	that_gap_adj-front
+755	2	0	I	prefix	that_gap_adj-front
+756	2	1	know	prefix	that_gap_adj-front
+757	2	2	that	that	that_gap_adj-front
+758	2	3	if	preposition	that_gap_adj-front
+759	2	4	she	subject	that_gap_adj-front
+760	2	5	missed	verb	that_gap_adj-front
+761	2	6	in	continuation	that_gap_adj-front
+762	2	7	the	continuation	that_gap_adj-front
+763	2	8	evening	continuation	that_gap_adj-front
+764	2	9	she	adjunct setup	that_gap_adj-front
+765	2	10	would	adjunct setup	that_gap_adj-front
+766	2	11	get	adjunct setup	that_gap_adj-front
+767	2	12	very	adjunct setup	that_gap_adj-front
+768	2	13	angry	adjunct setup	that_gap_adj-front
+769	2	15	.	End	that_gap_adj-front
+770	2	16	<eos>	End	that_gap_adj-front
+771	3	0	I	prefix	that_gap_adj-front
+772	3	1	know	prefix	that_gap_adj-front
+773	3	2	that	that	that_gap_adj-front
+774	3	3	if	preposition	that_gap_adj-front
+775	3	4	he	subject	that_gap_adj-front
+776	3	5	forgot	verb	that_gap_adj-front
+777	3	6	in	continuation	that_gap_adj-front
+778	3	7	the	continuation	that_gap_adj-front
+779	3	8	car	continuation	that_gap_adj-front
+780	3	9	the	adjunct setup	that_gap_adj-front
+781	3	10	boy	adjunct setup	that_gap_adj-front
+782	3	11	would	adjunct setup	that_gap_adj-front
+783	3	12	get	adjunct setup	that_gap_adj-front
+784	3	13	really	adjunct setup	that_gap_adj-front
+785	3	14	upset	adjunct setup	that_gap_adj-front
+786	3	16	.	End	that_gap_adj-front
+787	3	17	<eos>	End	that_gap_adj-front
+788	4	0	I	prefix	that_gap_adj-front
+789	4	1	know	prefix	that_gap_adj-front
+790	4	2	that	that	that_gap_adj-front
+791	4	3	if	preposition	that_gap_adj-front
+792	4	4	they	subject	that_gap_adj-front
+793	4	5	are	verb	that_gap_adj-front
+794	4	6	told	verb	that_gap_adj-front
+795	4	7	to	verb	that_gap_adj-front
+796	4	8	do	verb	that_gap_adj-front
+797	4	9	in	continuation	that_gap_adj-front
+798	4	10	the	continuation	that_gap_adj-front
+799	4	11	morning	continuation	that_gap_adj-front
+800	4	12	the	adjunct setup	that_gap_adj-front
+801	4	13	kids	adjunct setup	that_gap_adj-front
+802	4	14	get	adjunct setup	that_gap_adj-front
+803	4	15	grumpy	adjunct setup	that_gap_adj-front
+804	4	17	.	End	that_gap_adj-front
+805	4	18	<eos>	End	that_gap_adj-front
+806	0	0	I	prefix	what_no-gap_adj-front
+807	0	1	know	prefix	what_no-gap_adj-front
+808	0	2	who	what	what_no-gap_adj-front
+809	0	3	if	preposition	what_no-gap_adj-front
+810	0	4	they	subject	what_no-gap_adj-front
+811	0	5	could	verb	what_no-gap_adj-front
+812	0	6	speak	verb	what_no-gap_adj-front
+813	0	7	to	verb	what_no-gap_adj-front
+814	0	8	the	object	what_no-gap_adj-front
+815	0	9	reporter	object	what_no-gap_adj-front
+816	0	10	in	continuation	what_no-gap_adj-front
+817	0	11	private	continuation	what_no-gap_adj-front
+818	0	12	the	adjunct setup	what_no-gap_adj-front
+819	0	13	kids	adjunct setup	what_no-gap_adj-front
+820	0	14	would	adjunct setup	what_no-gap_adj-front
+821	0	15	be	adjunct setup	what_no-gap_adj-front
+822	0	16	really	adjunct setup	what_no-gap_adj-front
+823	0	17	happy	adjunct setup	what_no-gap_adj-front
+824	0	19	.	End	what_no-gap_adj-front
+825	0	20	<eos>	End	what_no-gap_adj-front
+826	1	0	I	prefix	what_no-gap_adj-front
+827	1	1	know	prefix	what_no-gap_adj-front
+828	1	2	what	what	what_no-gap_adj-front
+829	1	3	if	preposition	what_no-gap_adj-front
+830	1	4	the	subject	what_no-gap_adj-front
+831	1	5	students	subject	what_no-gap_adj-front
+832	1	6	cleaned	verb	what_no-gap_adj-front
+833	1	7	the	object	what_no-gap_adj-front
+834	1	8	classroom	object	what_no-gap_adj-front
+835	1	9	during	continuation	what_no-gap_adj-front
+836	1	10	the	continuation	what_no-gap_adj-front
+837	1	11	break	continuation	what_no-gap_adj-front
+838	1	12	the	adjunct setup	what_no-gap_adj-front
+839	1	13	teacher	adjunct setup	what_no-gap_adj-front
+840	1	14	would	adjunct setup	what_no-gap_adj-front
+841	1	15	be	adjunct setup	what_no-gap_adj-front
+842	1	16	impressed	adjunct setup	what_no-gap_adj-front
+843	1	18	.	End	what_no-gap_adj-front
+844	1	19	<eos>	End	what_no-gap_adj-front
+845	2	0	I	prefix	what_no-gap_adj-front
+846	2	1	know	prefix	what_no-gap_adj-front
+847	2	2	what	what	what_no-gap_adj-front
+848	2	3	if	preposition	what_no-gap_adj-front
+849	2	4	she	subject	what_no-gap_adj-front
+850	2	5	missed	verb	what_no-gap_adj-front
+851	2	6	the	object	what_no-gap_adj-front
+852	2	7	reception	object	what_no-gap_adj-front
+853	2	8	in	continuation	what_no-gap_adj-front
+854	2	9	the	continuation	what_no-gap_adj-front
+855	2	10	evening	continuation	what_no-gap_adj-front
+856	2	11	she	adjunct setup	what_no-gap_adj-front
+857	2	12	would	adjunct setup	what_no-gap_adj-front
+858	2	13	get	adjunct setup	what_no-gap_adj-front
+859	2	14	very	adjunct setup	what_no-gap_adj-front
+860	2	15	angry	adjunct setup	what_no-gap_adj-front
+861	2	17	.	End	what_no-gap_adj-front
+862	2	18	<eos>	End	what_no-gap_adj-front
+863	3	0	I	prefix	what_no-gap_adj-front
+864	3	1	know	prefix	what_no-gap_adj-front
+865	3	2	what	what	what_no-gap_adj-front
+866	3	3	if	preposition	what_no-gap_adj-front
+867	3	4	he	subject	what_no-gap_adj-front
+868	3	5	forgot	verb	what_no-gap_adj-front
+869	3	6	the	object	what_no-gap_adj-front
+870	3	7	diapers	object	what_no-gap_adj-front
+871	3	8	in	continuation	what_no-gap_adj-front
+872	3	9	the	continuation	what_no-gap_adj-front
+873	3	10	car	continuation	what_no-gap_adj-front
+874	3	11	the	adjunct setup	what_no-gap_adj-front
+875	3	12	boy	adjunct setup	what_no-gap_adj-front
+876	3	13	would	adjunct setup	what_no-gap_adj-front
+877	3	14	get	adjunct setup	what_no-gap_adj-front
+878	3	15	really	adjunct setup	what_no-gap_adj-front
+879	3	16	upset	adjunct setup	what_no-gap_adj-front
+880	3	18	.	End	what_no-gap_adj-front
+881	3	19	<eos>	End	what_no-gap_adj-front
+882	4	0	I	prefix	what_no-gap_adj-front
+883	4	1	know	prefix	what_no-gap_adj-front
+884	4	2	what	what	what_no-gap_adj-front
+885	4	3	if	preposition	what_no-gap_adj-front
+886	4	4	they	subject	what_no-gap_adj-front
+887	4	5	are	verb	what_no-gap_adj-front
+888	4	6	told	verb	what_no-gap_adj-front
+889	4	7	to	verb	what_no-gap_adj-front
+890	4	8	do	verb	what_no-gap_adj-front
+891	4	9	the	object	what_no-gap_adj-front
+892	4	10	homework	object	what_no-gap_adj-front
+893	4	11	in	continuation	what_no-gap_adj-front
+894	4	12	the	continuation	what_no-gap_adj-front
+895	4	13	morning	continuation	what_no-gap_adj-front
+896	4	14	the	adjunct setup	what_no-gap_adj-front
+897	4	15	kids	adjunct setup	what_no-gap_adj-front
+898	4	16	get	adjunct setup	what_no-gap_adj-front
+899	4	17	grumpy	adjunct setup	what_no-gap_adj-front
+900	4	19	.	End	what_no-gap_adj-front
+901	4	20	<eos>	End	what_no-gap_adj-front
+902	0	0	I	prefix	what_gap_adj-front
+903	0	1	know	prefix	what_gap_adj-front
+904	0	2	who	what	what_gap_adj-front
+905	0	3	if	preposition	what_gap_adj-front
+906	0	4	they	subject	what_gap_adj-front
+907	0	5	could	verb	what_gap_adj-front
+908	0	6	speak	verb	what_gap_adj-front
+909	0	7	to	verb	what_gap_adj-front
+910	0	8	in	continuation	what_gap_adj-front
+911	0	9	private	continuation	what_gap_adj-front
+912	0	10	the	adjunct setup	what_gap_adj-front
+913	0	11	kids	adjunct setup	what_gap_adj-front
+914	0	12	would	adjunct setup	what_gap_adj-front
+915	0	13	be	adjunct setup	what_gap_adj-front
+916	0	14	really	adjunct setup	what_gap_adj-front
+917	0	15	happy	adjunct setup	what_gap_adj-front
+918	0	17	.	End	what_gap_adj-front
+919	0	18	<eos>	End	what_gap_adj-front
+920	1	0	I	prefix	what_gap_adj-front
+921	1	1	know	prefix	what_gap_adj-front
+922	1	2	what	what	what_gap_adj-front
+923	1	3	if	preposition	what_gap_adj-front
+924	1	4	the	subject	what_gap_adj-front
+925	1	5	students	subject	what_gap_adj-front
+926	1	6	cleaned	verb	what_gap_adj-front
+927	1	7	during	continuation	what_gap_adj-front
+928	1	8	the	continuation	what_gap_adj-front
+929	1	9	break	continuation	what_gap_adj-front
+930	1	10	the	adjunct setup	what_gap_adj-front
+931	1	11	teacher	adjunct setup	what_gap_adj-front
+932	1	12	would	adjunct setup	what_gap_adj-front
+933	1	13	be	adjunct setup	what_gap_adj-front
+934	1	14	impressed	adjunct setup	what_gap_adj-front
+935	1	16	.	End	what_gap_adj-front
+936	1	17	<eos>	End	what_gap_adj-front
+937	2	0	I	prefix	what_gap_adj-front
+938	2	1	know	prefix	what_gap_adj-front
+939	2	2	what	what	what_gap_adj-front
+940	2	3	if	preposition	what_gap_adj-front
+941	2	4	she	subject	what_gap_adj-front
+942	2	5	missed	verb	what_gap_adj-front
+943	2	6	in	continuation	what_gap_adj-front
+944	2	7	the	continuation	what_gap_adj-front
+945	2	8	evening	continuation	what_gap_adj-front
+946	2	9	she	adjunct setup	what_gap_adj-front
+947	2	10	would	adjunct setup	what_gap_adj-front
+948	2	11	get	adjunct setup	what_gap_adj-front
+949	2	12	very	adjunct setup	what_gap_adj-front
+950	2	13	angry	adjunct setup	what_gap_adj-front
+951	2	15	.	End	what_gap_adj-front
+952	2	16	<eos>	End	what_gap_adj-front
+953	3	0	I	prefix	what_gap_adj-front
+954	3	1	know	prefix	what_gap_adj-front
+955	3	2	what	what	what_gap_adj-front
+956	3	3	if	preposition	what_gap_adj-front
+957	3	4	he	subject	what_gap_adj-front
+958	3	5	forgot	verb	what_gap_adj-front
+959	3	6	in	continuation	what_gap_adj-front
+960	3	7	the	continuation	what_gap_adj-front
+961	3	8	car	continuation	what_gap_adj-front
+962	3	9	the	adjunct setup	what_gap_adj-front
+963	3	10	boy	adjunct setup	what_gap_adj-front
+964	3	11	would	adjunct setup	what_gap_adj-front
+965	3	12	get	adjunct setup	what_gap_adj-front
+966	3	13	really	adjunct setup	what_gap_adj-front
+967	3	14	upset	adjunct setup	what_gap_adj-front
+968	3	16	.	End	what_gap_adj-front
+969	3	17	<eos>	End	what_gap_adj-front
+970	4	0	I	prefix	what_gap_adj-front
+971	4	1	know	prefix	what_gap_adj-front
+972	4	2	what	what	what_gap_adj-front
+973	4	3	if	preposition	what_gap_adj-front
+974	4	4	they	subject	what_gap_adj-front
+975	4	5	are	verb	what_gap_adj-front
+976	4	6	told	verb	what_gap_adj-front
+977	4	7	to	verb	what_gap_adj-front
+978	4	8	do	verb	what_gap_adj-front
+979	4	9	in	continuation	what_gap_adj-front
+980	4	10	the	continuation	what_gap_adj-front
+981	4	11	morning	continuation	what_gap_adj-front
+982	4	12	the	adjunct setup	what_gap_adj-front
+983	4	13	kids	adjunct setup	what_gap_adj-front
+984	4	14	get	adjunct setup	what_gap_adj-front
+985	4	15	grumpy	adjunct setup	what_gap_adj-front
+986	4	17	.	End	what_gap_adj-front
+987	4	18	<eos>	End	what_gap_adj-front

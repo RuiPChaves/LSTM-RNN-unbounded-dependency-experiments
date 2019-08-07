@@ -1,0 +1,1969 @@
+,Unnamed: 0,sent_index,word_index,word,region,condition,model_word,surprisal,model,unk,final
+0,0,0,0,I,prefix,that_no-gap_obj,I,0.0,google,False,False
+1,1,0,1,know,prefix,that_no-gap_obj,know,12.60753345489502,google,False,False
+2,2,0,2,that,that,that_no-gap_obj,that,5.9504942893981925,google,False,False
+3,3,0,3,they,subject,that_no-gap_obj,they,5.022089004516602,google,False,False
+4,4,0,4,likely,modifier,that_no-gap_obj,likely,14.079256057739258,google,False,False
+5,5,0,5,could,verb,that_no-gap_obj,could,7.4468278884887695,google,False,False
+6,6,0,6,speak,verb,that_no-gap_obj,speak,11.261181831359865,google,False,False
+7,7,0,7,to,verb,that_no-gap_obj,to,2.626002788543701,google,False,False
+8,8,0,8,the,object,that_no-gap_obj,the,4.027209281921387,google,False,False
+9,9,0,9,reporter,object,that_no-gap_obj,reporter,10.938827514648438,google,False,False
+10,10,0,10,in,continuation,that_no-gap_obj,in,3.88015341758728,google,False,False
+11,11,0,11,private,continuation,that_no-gap_obj,private,7.512500762939452,google,False,False
+12,12,0,13,.,End,that_no-gap_obj,.,1.6121830940246582,google,False,False
+13,13,0,14,<eos>,End,that_no-gap_obj,<eos>,0.0,google,False,True
+14,14,1,0,I,prefix,that_no-gap_obj,I,0.0,google,False,False
+15,15,1,1,know,prefix,that_no-gap_obj,know,12.60753345489502,google,False,False
+16,16,1,2,that,that,that_no-gap_obj,that,5.9504942893981925,google,False,False
+17,17,1,3,we,subject,that_no-gap_obj,we,5.9197750091552725,google,False,False
+18,18,1,4,sometimes,modifier,that_no-gap_obj,sometimes,8.734156608581543,google,False,False
+19,19,1,5,cleaned,verb,that_no-gap_obj,cleaned,19.790040969848636,google,False,False
+20,20,1,6,the,object,that_no-gap_obj,the,4.180094242095946,google,False,False
+21,21,1,7,classroom,object,that_no-gap_obj,classroom,12.003669738769533,google,False,False
+22,22,1,8,during,continuation,that_no-gap_obj,during,7.491071701049805,google,False,False
+23,23,1,9,the,continuation,that_no-gap_obj,the,2.2659149169921875,google,False,False
+24,24,1,10,break,continuation,that_no-gap_obj,break,8.656593322753906,google,False,False
+25,25,1,12,.,End,that_no-gap_obj,.,1.5537039041519165,google,False,False
+26,26,1,13,<eos>,End,that_no-gap_obj,<eos>,0.0,google,False,True
+27,27,2,0,I,prefix,that_no-gap_obj,I,0.0,google,False,False
+28,28,2,1,know,prefix,that_no-gap_obj,know,12.60753345489502,google,False,False
+29,29,2,2,that,that,that_no-gap_obj,that,5.9504942893981925,google,False,False
+30,30,2,3,she,subject,that_no-gap_obj,she,8.208765029907228,google,False,False
+31,31,2,4,unfortunately,modifier,that_no-gap_obj,unfortunately,15.062318801879885,google,False,False
+32,32,2,5,missed,verb,that_no-gap_obj,missed,7.633244037628174,google,False,False
+33,33,2,6,the,object,that_no-gap_obj,the,2.8155057430267334,google,False,False
+34,34,2,7,reception,object,that_no-gap_obj,reception,14.090432167053224,google,False,False
+35,35,2,8,in,continuation,that_no-gap_obj,in,4.910979270935059,google,False,False
+36,36,2,9,the,continuation,that_no-gap_obj,the,1.4380838871002195,google,False,False
+37,37,2,10,evening,continuation,that_no-gap_obj,evening,7.8636298179626465,google,False,False
+38,38,2,12,.,End,that_no-gap_obj,.,1.2297513484954834,google,False,False
+39,39,2,13,<eos>,End,that_no-gap_obj,<eos>,0.0,google,False,True
+40,40,3,0,I,prefix,that_no-gap_obj,I,0.0,google,False,False
+41,41,3,1,know,prefix,that_no-gap_obj,know,12.60753345489502,google,False,False
+42,42,3,2,that,that,that_no-gap_obj,that,5.9504942893981925,google,False,False
+43,43,3,3,he,subject,that_no-gap_obj,he,4.9078407287597665,google,False,False
+44,44,3,4,often,modifier,that_no-gap_obj,often,8.918041229248047,google,False,False
+45,45,3,5,forgot,verb,that_no-gap_obj,forgot,9.10114288330078,google,False,False
+46,46,3,6,the,object,that_no-gap_obj,the,4.265774726867677,google,False,False
+47,47,3,7,diapers,object,that_no-gap_obj,diapers,17.310964584350586,google,False,False
+48,48,3,8,in,continuation,that_no-gap_obj,in,4.2925987243652335,google,False,False
+49,49,3,9,the,continuation,that_no-gap_obj,the,2.0623729228973393,google,False,False
+50,50,3,10,car,continuation,that_no-gap_obj,car,4.3026161193847665,google,False,False
+51,51,3,12,.,End,that_no-gap_obj,.,1.5486927032470703,google,False,False
+52,52,3,13,<eos>,End,that_no-gap_obj,<eos>,0.0,google,False,True
+53,53,4,0,I,prefix,that_no-gap_obj,I,0.0,google,False,False
+54,54,4,1,know,prefix,that_no-gap_obj,know,12.60753345489502,google,False,False
+55,55,4,2,that,that,that_no-gap_obj,that,5.9504942893981925,google,False,False
+56,56,4,3,they,subject,that_no-gap_obj,they,5.022089004516602,google,False,False
+57,57,4,4,usually,modifier,that_no-gap_obj,usually,8.322427749633789,google,False,False
+58,58,4,5,are,verb,that_no-gap_obj,are,5.368912220001222,google,False,False
+59,59,4,6,told,verb,that_no-gap_obj,told,10.193704605102539,google,False,False
+60,60,4,7,to,verb,that_no-gap_obj,to,1.9469786882400515,google,False,False
+61,61,4,8,do,verb,that_no-gap_obj,do,4.734405517578125,google,False,False
+62,62,4,9,the,object,that_no-gap_obj,the,4.258561611175537,google,False,False
+63,63,4,10,homework,object,that_no-gap_obj,homework,10.308714866638184,google,False,False
+64,64,4,11,in,continuation,that_no-gap_obj,in,5.064263820648193,google,False,False
+65,65,4,12,the,continuation,that_no-gap_obj,the,2.3315815925598145,google,False,False
+66,66,4,13,morning,continuation,that_no-gap_obj,morning,2.012596845626831,google,False,False
+67,67,4,15,.,End,that_no-gap_obj,.,1.7097572088241575,google,False,False
+68,68,4,16,<eos>,End,that_no-gap_obj,<eos>,0.0,google,False,True
+69,69,0,0,I,prefix,that_gap_obj,I,0.0,google,False,False
+70,70,0,1,know,prefix,that_gap_obj,know,12.60753345489502,google,False,False
+71,71,0,2,that,that,that_gap_obj,that,5.9504942893981925,google,False,False
+72,72,0,3,they,subject,that_gap_obj,they,5.022089004516602,google,False,False
+73,73,0,4,likely,modifier,that_gap_obj,likely,14.079256057739258,google,False,False
+74,74,0,5,could,verb,that_gap_obj,could,7.4468278884887695,google,False,False
+75,75,0,6,speak,verb,that_gap_obj,speak,11.261181831359865,google,False,False
+76,76,0,7,to,verb,that_gap_obj,to,2.626002788543701,google,False,False
+77,77,0,8,in,continuation,that_gap_obj,in,11.608306884765625,google,False,False
+78,78,0,9,private,continuation,that_gap_obj,private,6.812004566192628,google,False,False
+79,79,0,11,.,End,that_gap_obj,.,3.0264983177185063,google,False,False
+80,80,0,12,<eos>,End,that_gap_obj,<eos>,0.0,google,False,True
+81,81,1,0,I,prefix,that_gap_obj,I,0.0,google,False,False
+82,82,1,1,know,prefix,that_gap_obj,know,12.60753345489502,google,False,False
+83,83,1,2,that,that,that_gap_obj,that,5.9504942893981925,google,False,False
+84,84,1,3,we,subject,that_gap_obj,we,5.9197750091552725,google,False,False
+85,85,1,4,sometimes,modifier,that_gap_obj,sometimes,8.734156608581543,google,False,False
+86,86,1,5,cleaned,verb,that_gap_obj,cleaned,19.790040969848636,google,False,False
+87,87,1,6,during,continuation,that_gap_obj,during,12.48156452178955,google,False,False
+88,88,1,7,the,continuation,that_gap_obj,the,1.2955644130706787,google,False,False
+89,89,1,8,break,continuation,that_gap_obj,break,11.646963119506836,google,False,False
+90,90,1,10,.,End,that_gap_obj,.,1.8642433881759644,google,False,False
+91,91,1,11,<eos>,End,that_gap_obj,<eos>,0.0,google,False,True
+92,92,2,0,I,prefix,that_gap_obj,I,0.0,google,False,False
+93,93,2,1,know,prefix,that_gap_obj,know,12.60753345489502,google,False,False
+94,94,2,2,that,that,that_gap_obj,that,5.9504942893981925,google,False,False
+95,95,2,3,she,subject,that_gap_obj,she,8.208765029907228,google,False,False
+96,96,2,4,unfortunately,modifier,that_gap_obj,unfortunately,15.062318801879885,google,False,False
+97,97,2,5,missed,verb,that_gap_obj,missed,7.633244037628174,google,False,False
+98,98,2,6,in,continuation,that_gap_obj,in,9.350128173828123,google,False,False
+99,99,2,7,the,continuation,that_gap_obj,the,2.229463815689087,google,False,False
+100,100,2,8,evening,continuation,that_gap_obj,evening,9.555922508239746,google,False,False
+101,101,2,10,.,End,that_gap_obj,.,1.5661145448684692,google,False,False
+102,102,2,11,<eos>,End,that_gap_obj,<eos>,0.0,google,False,True
+103,103,3,0,I,prefix,that_gap_obj,I,0.0,google,False,False
+104,104,3,1,know,prefix,that_gap_obj,know,12.60753345489502,google,False,False
+105,105,3,2,that,that,that_gap_obj,that,5.9504942893981925,google,False,False
+106,106,3,3,he,subject,that_gap_obj,he,4.9078407287597665,google,False,False
+107,107,3,4,often,modifier,that_gap_obj,often,8.918041229248047,google,False,False
+108,108,3,5,forgot,verb,that_gap_obj,forgot,9.10114288330078,google,False,False
+109,109,3,6,in,continuation,that_gap_obj,in,8.636880874633789,google,False,False
+110,110,3,7,the,continuation,that_gap_obj,the,3.2751426696777344,google,False,False
+111,111,3,8,car,continuation,that_gap_obj,car,7.317028999328612,google,False,False
+112,112,3,10,.,End,that_gap_obj,.,2.572521448135376,google,False,False
+113,113,3,11,<eos>,End,that_gap_obj,<eos>,0.0,google,False,True
+114,114,4,0,I,prefix,that_gap_obj,I,0.0,google,False,False
+115,115,4,1,know,prefix,that_gap_obj,know,12.60753345489502,google,False,False
+116,116,4,2,that,that,that_gap_obj,that,5.9504942893981925,google,False,False
+117,117,4,3,they,subject,that_gap_obj,they,5.022089004516602,google,False,False
+118,118,4,4,usually,modifier,that_gap_obj,usually,8.322427749633789,google,False,False
+119,119,4,5,are,verb,that_gap_obj,are,5.368912220001222,google,False,False
+120,120,4,6,told,verb,that_gap_obj,told,10.193704605102539,google,False,False
+121,121,4,7,to,verb,that_gap_obj,to,1.9469786882400515,google,False,False
+122,122,4,8,do,verb,that_gap_obj,do,4.734405517578125,google,False,False
+123,123,4,9,in,continuation,that_gap_obj,in,9.038100242614746,google,False,False
+124,124,4,10,the,continuation,that_gap_obj,the,2.517132043838501,google,False,False
+125,125,4,11,morning,continuation,that_gap_obj,morning,4.250032901763916,google,False,False
+126,126,4,13,.,End,that_gap_obj,.,2.2849559783935547,google,False,False
+127,127,4,14,<eos>,End,that_gap_obj,<eos>,0.0,google,False,True
+128,128,0,0,I,prefix,what_no-gap_obj,I,0.0,google,False,False
+129,129,0,1,know,prefix,what_no-gap_obj,know,12.60753345489502,google,False,False
+130,130,0,2,who,what,what_no-gap_obj,who,6.528433322906494,google,False,False
+131,131,0,3,they,subject,what_no-gap_obj,they,4.4598731994628915,google,False,False
+132,132,0,4,likely,modifier,what_no-gap_obj,likely,16.90205955505371,google,False,False
+133,133,0,5,could,verb,what_no-gap_obj,could,7.487046718597412,google,False,False
+134,134,0,6,speak,verb,what_no-gap_obj,speak,11.070978164672852,google,False,False
+135,135,0,7,to,verb,what_no-gap_obj,to,0.5697346925735474,google,False,False
+136,136,0,8,the,object,what_no-gap_obj,the,9.757150650024414,google,False,False
+137,137,0,9,reporter,object,what_no-gap_obj,reporter,13.535717964172365,google,False,False
+138,138,0,10,in,continuation,what_no-gap_obj,in,5.165374279022217,google,False,False
+139,139,0,11,private,continuation,what_no-gap_obj,private,7.198971271514893,google,False,False
+140,140,0,13,.,End,what_no-gap_obj,.,1.0872517824172974,google,False,False
+141,141,0,14,<eos>,End,what_no-gap_obj,<eos>,0.0,google,False,True
+142,142,1,0,I,prefix,what_no-gap_obj,I,0.0,google,False,False
+143,143,1,1,know,prefix,what_no-gap_obj,know,12.60753345489502,google,False,False
+144,144,1,2,what,what,what_no-gap_obj,what,6.455548286437987,google,False,False
+145,145,1,3,we,subject,what_no-gap_obj,we,6.163180351257324,google,False,False
+146,146,1,4,sometimes,modifier,what_no-gap_obj,sometimes,14.391154289245605,google,False,False
+147,147,1,5,cleaned,verb,what_no-gap_obj,cleaned,22.235958099365234,google,False,False
+148,148,1,6,the,object,what_no-gap_obj,the,9.02654266357422,google,False,False
+149,149,1,7,classroom,object,what_no-gap_obj,classroom,12.23690128326416,google,False,False
+150,150,1,8,during,continuation,what_no-gap_obj,during,9.45188045501709,google,False,False
+151,151,1,9,the,continuation,what_no-gap_obj,the,2.365042209625244,google,False,False
+152,152,1,10,break,continuation,what_no-gap_obj,break,9.170857429504396,google,False,False
+153,153,1,12,.,End,what_no-gap_obj,.,1.5788747072219849,google,False,False
+154,154,1,13,<eos>,End,what_no-gap_obj,<eos>,0.0,google,False,True
+155,155,2,0,I,prefix,what_no-gap_obj,I,0.0,google,False,False
+156,156,2,1,know,prefix,what_no-gap_obj,know,12.60753345489502,google,False,False
+157,157,2,2,what,what,what_no-gap_obj,what,6.455548286437987,google,False,False
+158,158,2,3,she,subject,what_no-gap_obj,she,6.943095684051514,google,False,False
+159,159,2,4,unfortunately,modifier,what_no-gap_obj,unfortunately,22.23980712890625,google,False,False
+160,160,2,5,missed,verb,what_no-gap_obj,missed,11.347430229187012,google,False,False
+161,161,2,6,the,object,what_no-gap_obj,the,5.867740154266357,google,False,False
+162,162,2,7,reception,object,what_no-gap_obj,reception,16.527389526367188,google,False,False
+163,163,2,8,in,continuation,what_no-gap_obj,in,4.638028144836426,google,False,False
+164,164,2,9,the,continuation,what_no-gap_obj,the,2.271324634552002,google,False,False
+165,165,2,10,evening,continuation,what_no-gap_obj,evening,8.051406860351562,google,False,False
+166,166,2,12,.,End,what_no-gap_obj,.,1.2207376956939695,google,False,False
+167,167,2,13,<eos>,End,what_no-gap_obj,<eos>,0.0,google,False,True
+168,168,3,0,I,prefix,what_no-gap_obj,I,0.0,google,False,False
+169,169,3,1,know,prefix,what_no-gap_obj,know,12.60753345489502,google,False,False
+170,170,3,2,what,what,what_no-gap_obj,what,6.455548286437987,google,False,False
+171,171,3,3,he,subject,what_no-gap_obj,he,4.031899929046632,google,False,False
+172,172,3,4,often,modifier,what_no-gap_obj,often,17.573297500610348,google,False,False
+173,173,3,5,forgot,verb,what_no-gap_obj,forgot,12.736774444580078,google,False,False
+174,174,3,6,the,object,what_no-gap_obj,the,9.337911605834961,google,False,False
+175,175,3,7,diapers,object,what_no-gap_obj,diapers,19.27032470703125,google,False,False
+176,176,3,8,in,continuation,what_no-gap_obj,in,4.4855003356933585,google,False,False
+177,177,3,9,the,continuation,what_no-gap_obj,the,2.7786529064178467,google,False,False
+178,178,3,10,car,continuation,what_no-gap_obj,car,5.5416903495788565,google,False,False
+179,179,3,12,.,End,what_no-gap_obj,.,1.8279262781143188,google,False,False
+180,180,3,13,<eos>,End,what_no-gap_obj,<eos>,0.0,google,False,True
+181,181,4,0,I,prefix,what_no-gap_obj,I,0.0,google,False,False
+182,182,4,1,know,prefix,what_no-gap_obj,know,12.60753345489502,google,False,False
+183,183,4,2,what,what,what_no-gap_obj,what,6.455548286437987,google,False,False
+184,184,4,3,they,subject,what_no-gap_obj,they,3.5318102836608887,google,False,False
+185,185,4,4,usually,modifier,what_no-gap_obj,usually,14.780043601989744,google,False,False
+186,186,4,5,are,verb,what_no-gap_obj,are,4.041506767272948,google,False,False
+187,187,4,6,told,verb,what_no-gap_obj,told,11.612476348876953,google,False,False
+188,188,4,7,to,verb,what_no-gap_obj,to,3.3395121097564697,google,False,False
+189,189,4,8,do,verb,what_no-gap_obj,do,3.1440563201904297,google,False,False
+190,190,4,9,the,object,what_no-gap_obj,the,8.651110649108888,google,False,False
+191,191,4,10,homework,object,what_no-gap_obj,homework,10.767120361328123,google,False,False
+192,192,4,11,in,continuation,what_no-gap_obj,in,5.595438480377197,google,False,False
+193,193,4,12,the,continuation,what_no-gap_obj,the,3.020374298095703,google,False,False
+194,194,4,13,morning,continuation,what_no-gap_obj,morning,1.9996401071548464,google,False,False
+195,195,4,15,.,End,what_no-gap_obj,.,1.2569886445999146,google,False,False
+196,196,4,16,<eos>,End,what_no-gap_obj,<eos>,0.0,google,False,True
+197,197,0,0,I,prefix,what_gap_obj,I,0.0,google,False,False
+198,198,0,1,know,prefix,what_gap_obj,know,12.60753345489502,google,False,False
+199,199,0,2,who,what,what_gap_obj,who,6.528433322906494,google,False,False
+200,200,0,3,they,subject,what_gap_obj,they,4.4598731994628915,google,False,False
+201,201,0,4,likely,modifier,what_gap_obj,likely,16.90205955505371,google,False,False
+202,202,0,5,could,verb,what_gap_obj,could,7.487046718597412,google,False,False
+203,203,0,6,speak,verb,what_gap_obj,speak,11.070978164672852,google,False,False
+204,204,0,7,to,verb,what_gap_obj,to,0.5697346925735474,google,False,False
+205,205,0,8,in,continuation,what_gap_obj,in,4.889040470123291,google,False,False
+206,206,0,9,private,continuation,what_gap_obj,private,7.062957286834718,google,False,False
+207,207,0,11,.,End,what_gap_obj,.,1.1943237781524658,google,False,False
+208,208,0,12,<eos>,End,what_gap_obj,<eos>,0.0,google,False,True
+209,209,1,0,I,prefix,what_gap_obj,I,0.0,google,False,False
+210,210,1,1,know,prefix,what_gap_obj,know,12.60753345489502,google,False,False
+211,211,1,2,what,what,what_gap_obj,what,6.455548286437987,google,False,False
+212,212,1,3,we,subject,what_gap_obj,we,6.163180351257324,google,False,False
+213,213,1,4,sometimes,modifier,what_gap_obj,sometimes,14.391154289245605,google,False,False
+214,214,1,5,cleaned,verb,what_gap_obj,cleaned,22.235958099365234,google,False,False
+215,215,1,6,during,continuation,what_gap_obj,during,13.185400009155273,google,False,False
+216,216,1,7,the,continuation,what_gap_obj,the,1.2095332145690918,google,False,False
+217,217,1,8,break,continuation,what_gap_obj,break,10.62733554840088,google,False,False
+218,218,1,10,.,End,what_gap_obj,.,1.6709390878677368,google,False,False
+219,219,1,11,<eos>,End,what_gap_obj,<eos>,0.0,google,False,True
+220,220,2,0,I,prefix,what_gap_obj,I,0.0,google,False,False
+221,221,2,1,know,prefix,what_gap_obj,know,12.60753345489502,google,False,False
+222,222,2,2,what,what,what_gap_obj,what,6.455548286437987,google,False,False
+223,223,2,3,she,subject,what_gap_obj,she,6.943095684051514,google,False,False
+224,224,2,4,unfortunately,modifier,what_gap_obj,unfortunately,22.23980712890625,google,False,False
+225,225,2,5,missed,verb,what_gap_obj,missed,11.347430229187012,google,False,False
+226,226,2,6,in,continuation,what_gap_obj,in,5.45641040802002,google,False,False
+227,227,2,7,the,continuation,what_gap_obj,the,2.175592422485352,google,False,False
+228,228,2,8,evening,continuation,what_gap_obj,evening,8.723349571228027,google,False,False
+229,229,2,10,.,End,what_gap_obj,.,1.474324107170105,google,False,False
+230,230,2,11,<eos>,End,what_gap_obj,<eos>,0.0,google,False,True
+231,231,3,0,I,prefix,what_gap_obj,I,0.0,google,False,False
+232,232,3,1,know,prefix,what_gap_obj,know,12.60753345489502,google,False,False
+233,233,3,2,what,what,what_gap_obj,what,6.455548286437987,google,False,False
+234,234,3,3,he,subject,what_gap_obj,he,4.031899929046632,google,False,False
+235,235,3,4,often,modifier,what_gap_obj,often,17.573297500610348,google,False,False
+236,236,3,5,forgot,verb,what_gap_obj,forgot,12.736774444580078,google,False,False
+237,237,3,6,in,continuation,what_gap_obj,in,7.199292182922362,google,False,False
+238,238,3,7,the,continuation,what_gap_obj,the,2.8445622920989986,google,False,False
+239,239,3,8,car,continuation,what_gap_obj,car,8.14470386505127,google,False,False
+240,240,3,10,.,End,what_gap_obj,.,1.7881442308425903,google,False,False
+241,241,3,11,<eos>,End,what_gap_obj,<eos>,0.0,google,False,True
+242,242,4,0,I,prefix,what_gap_obj,I,0.0,google,False,False
+243,243,4,1,know,prefix,what_gap_obj,know,12.60753345489502,google,False,False
+244,244,4,2,what,what,what_gap_obj,what,6.455548286437987,google,False,False
+245,245,4,3,they,subject,what_gap_obj,they,3.5318102836608887,google,False,False
+246,246,4,4,usually,modifier,what_gap_obj,usually,14.780043601989744,google,False,False
+247,247,4,5,are,verb,what_gap_obj,are,4.041506767272948,google,False,False
+248,248,4,6,told,verb,what_gap_obj,told,11.612476348876953,google,False,False
+249,249,4,7,to,verb,what_gap_obj,to,3.3395121097564697,google,False,False
+250,250,4,8,do,verb,what_gap_obj,do,3.1440563201904297,google,False,False
+251,251,4,9,in,continuation,what_gap_obj,in,6.06597900390625,google,False,False
+252,252,4,10,the,continuation,what_gap_obj,the,2.046945095062256,google,False,False
+253,253,4,11,morning,continuation,what_gap_obj,morning,4.462590217590332,google,False,False
+254,254,4,13,.,End,what_gap_obj,.,1.262190341949463,google,False,False
+255,255,4,14,<eos>,End,what_gap_obj,<eos>,0.0,google,False,True
+256,256,0,0,I,prefix,that_no-gap_adj-back,I,0.0,google,False,False
+257,257,0,1,know,prefix,that_no-gap_adj-back,know,12.60753345489502,google,False,False
+258,258,0,2,that,that,that_no-gap_adj-back,that,5.9504942893981925,google,False,False
+259,259,0,3,the,adjunct setup,that_no-gap_adj-back,the,7.82368803024292,google,False,False
+260,260,0,4,students,adjunct setup,that_no-gap_adj-back,students,10.217584609985352,google,False,False
+261,261,0,5,would,adjunct setup,that_no-gap_adj-back,would,4.87528133392334,google,False,False
+262,262,0,6,be,adjunct setup,that_no-gap_adj-back,be,3.0808770656585693,google,False,False
+263,263,0,7,really,adjunct setup,that_no-gap_adj-back,really,8.667393684387207,google,False,False
+264,264,0,8,happy,adjunct setup,that_no-gap_adj-back,happy,2.913040399551392,google,False,False
+265,265,0,9,if,preposition,that_no-gap_adj-back,if,3.1489288806915283,google,False,False
+266,266,0,10,they,subject,that_no-gap_adj-back,they,1.6436564922332764,google,False,False
+267,267,0,11,could,verb,that_no-gap_adj-back,could,2.531338930130005,google,False,False
+268,268,0,12,speak,verb,that_no-gap_adj-back,speak,7.216463565826416,google,False,False
+269,269,0,13,to,verb,that_no-gap_adj-back,to,2.006354093551636,google,False,False
+270,270,0,14,the,object,that_no-gap_adj-back,the,3.588913917541504,google,False,False
+271,271,0,15,reporter,object,that_no-gap_adj-back,reporter,9.631918907165527,google,False,False
+272,272,0,16,in,continuation,that_no-gap_adj-back,in,4.715406894683838,google,False,False
+273,273,0,17,private,continuation,that_no-gap_adj-back,private,7.287718772888184,google,False,False
+274,274,0,19,.,End,that_no-gap_adj-back,.,0.9986698031425476,google,False,False
+275,275,0,20,<eos>,End,that_no-gap_adj-back,<eos>,0.0,google,False,True
+276,276,1,0,I,prefix,that_no-gap_adj-back,I,0.0,google,False,False
+277,277,1,1,know,prefix,that_no-gap_adj-back,know,12.60753345489502,google,False,False
+278,278,1,2,that,that,that_no-gap_adj-back,that,5.9504942893981925,google,False,False
+279,279,1,3,the,adjunct setup,that_no-gap_adj-back,the,7.82368803024292,google,False,False
+280,280,1,4,teacher,adjunct setup,that_no-gap_adj-back,teacher,11.291654586791992,google,False,False
+281,281,1,5,would,adjunct setup,that_no-gap_adj-back,would,4.880916118621826,google,False,False
+282,282,1,6,be,adjunct setup,that_no-gap_adj-back,be,3.1743466854095463,google,False,False
+283,283,1,7,impressed,adjunct setup,that_no-gap_adj-back,impressed,8.0250244140625,google,False,False
+284,284,1,8,if,preposition,that_no-gap_adj-back,if,3.5418190956115723,google,False,False
+285,285,1,9,we,subject,that_no-gap_adj-back,we,5.387869834899902,google,False,False
+286,286,1,10,cleaned,verb,that_no-gap_adj-back,cleaned,14.000615119934082,google,False,False
+287,287,1,11,the,object,that_no-gap_adj-back,the,3.0332486629486084,google,False,False
+288,288,1,12,classroom,object,that_no-gap_adj-back,classroom,6.443904399871826,google,False,False
+289,289,1,13,during,continuation,that_no-gap_adj-back,during,8.879158020019531,google,False,False
+290,290,1,14,the,continuation,that_no-gap_adj-back,the,1.8669296503067017,google,False,False
+291,291,1,15,break,continuation,that_no-gap_adj-back,break,6.695191383361816,google,False,False
+292,292,1,17,.,End,that_no-gap_adj-back,.,0.9376400709152222,google,False,False
+293,293,1,18,<eos>,End,that_no-gap_adj-back,<eos>,0.0,google,False,True
+294,294,2,0,I,prefix,that_no-gap_adj-back,I,0.0,google,False,False
+295,295,2,1,know,prefix,that_no-gap_adj-back,know,12.60753345489502,google,False,False
+296,296,2,2,that,that,that_no-gap_adj-back,that,5.9504942893981925,google,False,False
+297,297,2,3,the,adjunct setup,that_no-gap_adj-back,the,7.82368803024292,google,False,False
+298,298,2,4,bride,adjunct setup,that_no-gap_adj-back,bride,14.727506637573242,google,False,False
+299,299,2,5,would,adjunct setup,that_no-gap_adj-back,would,4.643092632293701,google,False,False
+300,300,2,6,get,adjunct setup,that_no-gap_adj-back,get,7.1528496742248535,google,False,False
+301,301,2,7,very,adjunct setup,that_no-gap_adj-back,very,6.768112182617188,google,False,False
+302,302,2,8,angry,adjunct setup,that_no-gap_adj-back,angry,4.938705921173097,google,False,False
+303,303,2,9,if,preposition,that_no-gap_adj-back,if,2.687197685241699,google,False,False
+304,304,2,10,she,subject,that_no-gap_adj-back,she,1.38175368309021,google,False,False
+305,305,2,11,missed,verb,that_no-gap_adj-back,missed,8.34822940826416,google,False,False
+306,306,2,12,the,object,that_no-gap_adj-back,the,2.2734341621398926,google,False,False
+307,307,2,13,reception,object,that_no-gap_adj-back,reception,9.032440185546877,google,False,False
+308,308,2,14,in,continuation,that_no-gap_adj-back,in,6.145075798034668,google,False,False
+309,309,2,15,the,continuation,that_no-gap_adj-back,the,0.9773890376091005,google,False,False
+310,310,2,16,evening,continuation,that_no-gap_adj-back,evening,5.010138988494873,google,False,False
+311,311,2,18,.,End,that_no-gap_adj-back,.,0.7957033514976501,google,False,False
+312,312,2,19,<eos>,End,that_no-gap_adj-back,<eos>,0.0,google,False,True
+313,313,3,0,I,prefix,that_no-gap_adj-back,I,0.0,google,False,False
+314,314,3,1,know,prefix,that_no-gap_adj-back,know,12.60753345489502,google,False,False
+315,315,3,2,that,that,that_no-gap_adj-back,that,5.9504942893981925,google,False,False
+316,316,3,3,the,adjunct setup,that_no-gap_adj-back,the,7.82368803024292,google,False,False
+317,317,3,4,father,adjunct setup,that_no-gap_adj-back,father,10.843586921691896,google,False,False
+318,318,3,5,would,adjunct setup,that_no-gap_adj-back,would,4.74566650390625,google,False,False
+319,319,3,6,get,adjunct setup,that_no-gap_adj-back,get,7.4119629859924325,google,False,False
+320,320,3,7,really,adjunct setup,that_no-gap_adj-back,really,9.402355194091797,google,False,False
+321,321,3,8,upset,adjunct setup,that_no-gap_adj-back,upset,2.3308496475219727,google,False,False
+322,322,3,9,if,preposition,that_no-gap_adj-back,if,1.7645502090454102,google,False,False
+323,323,3,10,he,subject,that_no-gap_adj-back,he,1.8371278047561648,google,False,False
+324,324,3,11,forgot,verb,that_no-gap_adj-back,forgot,9.230066299438477,google,False,False
+325,325,3,12,the,object,that_no-gap_adj-back,the,3.9233062267303462,google,False,False
+326,326,3,13,diapers,object,that_no-gap_adj-back,diapers,12.7090482711792,google,False,False
+327,327,3,14,in,continuation,that_no-gap_adj-back,in,5.014536380767822,google,False,False
+328,328,3,15,the,continuation,that_no-gap_adj-back,the,1.0521247386932373,google,False,False
+329,329,3,16,car,continuation,that_no-gap_adj-back,car,3.557212352752685,google,False,False
+330,330,3,18,.,End,that_no-gap_adj-back,.,1.0143131017684937,google,False,False
+331,331,3,19,<eos>,End,that_no-gap_adj-back,<eos>,0.0,google,False,True
+332,332,4,0,I,prefix,that_no-gap_adj-back,I,0.0,google,False,False
+333,333,4,1,know,prefix,that_no-gap_adj-back,know,12.60753345489502,google,False,False
+334,334,4,2,that,that,that_no-gap_adj-back,that,5.9504942893981925,google,False,False
+335,335,4,3,the,adjunct setup,that_no-gap_adj-back,the,7.82368803024292,google,False,False
+336,336,4,4,kids,adjunct setup,that_no-gap_adj-back,kids,10.288043975830078,google,False,False
+337,337,4,5,get,adjunct setup,that_no-gap_adj-back,get,7.248885631561278,google,False,False
+338,338,4,6,grumpy,adjunct setup,that_no-gap_adj-back,grumpy,10.085526466369627,google,False,False
+339,339,4,7,if,preposition,that_no-gap_adj-back,if,5.4859347343444815,google,False,False
+340,340,4,8,they,subject,that_no-gap_adj-back,they,0.8334569931030273,google,False,False
+341,341,4,9,are,verb,that_no-gap_adj-back,are,4.3803677558898935,google,False,False
+342,342,4,10,told,verb,that_no-gap_adj-back,told,4.335967063903809,google,False,False
+343,343,4,11,to,verb,that_no-gap_adj-back,to,2.215411901473999,google,False,False
+344,344,4,12,do,verb,that_no-gap_adj-back,do,4.081827163696288,google,False,False
+345,345,4,13,the,object,that_no-gap_adj-back,the,4.389716625213623,google,False,False
+346,346,4,14,homework,object,that_no-gap_adj-back,homework,6.647172927856445,google,False,False
+347,347,4,15,in,continuation,that_no-gap_adj-back,in,5.136096954345703,google,False,False
+348,348,4,16,the,continuation,that_no-gap_adj-back,the,1.885673999786377,google,False,False
+349,349,4,17,morning,continuation,that_no-gap_adj-back,morning,1.9241180419921875,google,False,False
+350,350,4,19,.,End,that_no-gap_adj-back,.,1.1095227003097534,google,False,False
+351,351,4,20,<eos>,End,that_no-gap_adj-back,<eos>,0.0,google,False,True
+352,352,0,0,I,prefix,that_gap_adj-back,I,0.0,google,False,False
+353,353,0,1,know,prefix,that_gap_adj-back,know,12.60753345489502,google,False,False
+354,354,0,2,that,that,that_gap_adj-back,that,5.9504942893981925,google,False,False
+355,355,0,3,the,adjunct setup,that_gap_adj-back,the,7.82368803024292,google,False,False
+356,356,0,4,students,adjunct setup,that_gap_adj-back,students,10.217584609985352,google,False,False
+357,357,0,5,would,adjunct setup,that_gap_adj-back,would,4.87528133392334,google,False,False
+358,358,0,6,be,adjunct setup,that_gap_adj-back,be,3.0808770656585693,google,False,False
+359,359,0,7,really,adjunct setup,that_gap_adj-back,really,8.667393684387207,google,False,False
+360,360,0,8,happy,adjunct setup,that_gap_adj-back,happy,2.913040399551392,google,False,False
+361,361,0,9,if,preposition,that_gap_adj-back,if,3.1489288806915283,google,False,False
+362,362,0,10,they,subject,that_gap_adj-back,they,1.6436564922332764,google,False,False
+363,363,0,11,could,verb,that_gap_adj-back,could,2.531338930130005,google,False,False
+364,364,0,12,speak,verb,that_gap_adj-back,speak,7.216463565826416,google,False,False
+365,365,0,13,to,verb,that_gap_adj-back,to,2.006354093551636,google,False,False
+366,366,0,14,in,continuation,that_gap_adj-back,in,12.077276229858398,google,False,False
+367,367,0,15,private,continuation,that_gap_adj-back,private,6.164350509643555,google,False,False
+368,368,0,17,.,End,that_gap_adj-back,.,2.0258967876434326,google,False,False
+369,369,0,18,<eos>,End,that_gap_adj-back,<eos>,0.0,google,False,True
+370,370,1,0,I,prefix,that_gap_adj-back,I,0.0,google,False,False
+371,371,1,1,know,prefix,that_gap_adj-back,know,12.60753345489502,google,False,False
+372,372,1,2,that,that,that_gap_adj-back,that,5.9504942893981925,google,False,False
+373,373,1,3,the,adjunct setup,that_gap_adj-back,the,7.82368803024292,google,False,False
+374,374,1,4,teacher,adjunct setup,that_gap_adj-back,teacher,11.291654586791992,google,False,False
+375,375,1,5,would,adjunct setup,that_gap_adj-back,would,4.880916118621826,google,False,False
+376,376,1,6,be,adjunct setup,that_gap_adj-back,be,3.1743466854095463,google,False,False
+377,377,1,7,impressed,adjunct setup,that_gap_adj-back,impressed,8.0250244140625,google,False,False
+378,378,1,8,if,preposition,that_gap_adj-back,if,3.5418190956115723,google,False,False
+379,379,1,9,we,subject,that_gap_adj-back,we,5.387869834899902,google,False,False
+380,380,1,10,cleaned,verb,that_gap_adj-back,cleaned,14.000615119934082,google,False,False
+381,381,1,11,during,continuation,that_gap_adj-back,during,13.373126029968262,google,False,False
+382,382,1,12,the,continuation,that_gap_adj-back,the,1.6126115322113037,google,False,False
+383,383,1,13,break,continuation,that_gap_adj-back,break,9.37928867340088,google,False,False
+384,384,1,15,.,End,that_gap_adj-back,.,1.0815163850784302,google,False,False
+385,385,1,16,<eos>,End,that_gap_adj-back,<eos>,0.0,google,False,True
+386,386,2,0,I,prefix,that_gap_adj-back,I,0.0,google,False,False
+387,387,2,1,know,prefix,that_gap_adj-back,know,12.60753345489502,google,False,False
+388,388,2,2,that,that,that_gap_adj-back,that,5.9504942893981925,google,False,False
+389,389,2,3,the,adjunct setup,that_gap_adj-back,the,7.82368803024292,google,False,False
+390,390,2,4,bride,adjunct setup,that_gap_adj-back,bride,14.727506637573242,google,False,False
+391,391,2,5,would,adjunct setup,that_gap_adj-back,would,4.643092632293701,google,False,False
+392,392,2,6,get,adjunct setup,that_gap_adj-back,get,7.1528496742248535,google,False,False
+393,393,2,7,very,adjunct setup,that_gap_adj-back,very,6.768112182617188,google,False,False
+394,394,2,8,angry,adjunct setup,that_gap_adj-back,angry,4.938705921173097,google,False,False
+395,395,2,9,if,preposition,that_gap_adj-back,if,2.687197685241699,google,False,False
+396,396,2,10,she,subject,that_gap_adj-back,she,1.38175368309021,google,False,False
+397,397,2,11,missed,verb,that_gap_adj-back,missed,8.34822940826416,google,False,False
+398,398,2,12,in,continuation,that_gap_adj-back,in,9.22286605834961,google,False,False
+399,399,2,13,the,continuation,that_gap_adj-back,the,1.7987585067749023,google,False,False
+400,400,2,14,evening,continuation,that_gap_adj-back,evening,5.444969177246094,google,False,False
+401,401,2,16,.,End,that_gap_adj-back,.,1.0779426097869873,google,False,False
+402,402,2,17,<eos>,End,that_gap_adj-back,<eos>,0.0,google,False,True
+403,403,3,0,I,prefix,that_gap_adj-back,I,0.0,google,False,False
+404,404,3,1,know,prefix,that_gap_adj-back,know,12.60753345489502,google,False,False
+405,405,3,2,that,that,that_gap_adj-back,that,5.9504942893981925,google,False,False
+406,406,3,3,the,adjunct setup,that_gap_adj-back,the,7.82368803024292,google,False,False
+407,407,3,4,father,adjunct setup,that_gap_adj-back,father,10.843586921691896,google,False,False
+408,408,3,5,would,adjunct setup,that_gap_adj-back,would,4.74566650390625,google,False,False
+409,409,3,6,get,adjunct setup,that_gap_adj-back,get,7.4119629859924325,google,False,False
+410,410,3,7,really,adjunct setup,that_gap_adj-back,really,9.402355194091797,google,False,False
+411,411,3,8,upset,adjunct setup,that_gap_adj-back,upset,2.3308496475219727,google,False,False
+412,412,3,9,if,preposition,that_gap_adj-back,if,1.7645502090454102,google,False,False
+413,413,3,10,he,subject,that_gap_adj-back,he,1.8371278047561648,google,False,False
+414,414,3,11,forgot,verb,that_gap_adj-back,forgot,9.230066299438477,google,False,False
+415,415,3,12,in,continuation,that_gap_adj-back,in,9.769172668457033,google,False,False
+416,416,3,13,the,continuation,that_gap_adj-back,the,2.651507616043091,google,False,False
+417,417,3,14,car,continuation,that_gap_adj-back,car,4.528738021850586,google,False,False
+418,418,3,16,.,End,that_gap_adj-back,.,1.7895650863647459,google,False,False
+419,419,3,17,<eos>,End,that_gap_adj-back,<eos>,0.0,google,False,True
+420,420,4,0,I,prefix,that_gap_adj-back,I,0.0,google,False,False
+421,421,4,1,know,prefix,that_gap_adj-back,know,12.60753345489502,google,False,False
+422,422,4,2,that,that,that_gap_adj-back,that,5.9504942893981925,google,False,False
+423,423,4,3,the,adjunct setup,that_gap_adj-back,the,7.82368803024292,google,False,False
+424,424,4,4,kids,adjunct setup,that_gap_adj-back,kids,10.288043975830078,google,False,False
+425,425,4,5,get,adjunct setup,that_gap_adj-back,get,7.248885631561278,google,False,False
+426,426,4,6,grumpy,adjunct setup,that_gap_adj-back,grumpy,10.085526466369627,google,False,False
+427,427,4,7,if,preposition,that_gap_adj-back,if,5.4859347343444815,google,False,False
+428,428,4,8,they,subject,that_gap_adj-back,they,0.8334569931030273,google,False,False
+429,429,4,9,are,verb,that_gap_adj-back,are,4.3803677558898935,google,False,False
+430,430,4,10,told,verb,that_gap_adj-back,told,4.335967063903809,google,False,False
+431,431,4,11,to,verb,that_gap_adj-back,to,2.215411901473999,google,False,False
+432,432,4,12,do,verb,that_gap_adj-back,do,4.081827163696288,google,False,False
+433,433,4,13,in,continuation,that_gap_adj-back,in,10.596342086791992,google,False,False
+434,434,4,14,the,continuation,that_gap_adj-back,the,2.0826807022094727,google,False,False
+435,435,4,15,morning,continuation,that_gap_adj-back,morning,4.910537242889403,google,False,False
+436,436,4,17,.,End,that_gap_adj-back,.,1.997646808624268,google,False,False
+437,437,4,18,<eos>,End,that_gap_adj-back,<eos>,0.0,google,False,True
+438,438,0,0,I,prefix,what_no-gap_adj-back,I,0.0,google,False,False
+439,439,0,1,know,prefix,what_no-gap_adj-back,know,12.60753345489502,google,False,False
+440,440,0,2,who,what,what_no-gap_adj-back,who,6.528433322906494,google,False,False
+441,441,0,3,the,adjunct setup,what_no-gap_adj-back,the,10.580145835876463,google,False,False
+442,442,0,4,students,adjunct setup,what_no-gap_adj-back,students,9.06511402130127,google,False,False
+443,443,0,5,would,adjunct setup,what_no-gap_adj-back,would,5.481436729431152,google,False,False
+444,444,0,6,be,adjunct setup,what_no-gap_adj-back,be,1.2482668161392212,google,False,False
+445,445,0,7,really,adjunct setup,what_no-gap_adj-back,really,10.515201568603516,google,False,False
+446,446,0,8,happy,adjunct setup,what_no-gap_adj-back,happy,5.232243537902832,google,False,False
+447,447,0,9,if,preposition,what_no-gap_adj-back,if,7.215719699859619,google,False,False
+448,448,0,10,they,subject,what_no-gap_adj-back,they,1.3873261213302612,google,False,False
+449,449,0,11,could,verb,what_no-gap_adj-back,could,3.622577667236328,google,False,False
+450,450,0,12,speak,verb,what_no-gap_adj-back,speak,7.510477066040039,google,False,False
+451,451,0,13,to,verb,what_no-gap_adj-back,to,2.7422845363616943,google,False,False
+452,452,0,14,the,object,what_no-gap_adj-back,the,4.537371635437012,google,False,False
+453,453,0,15,reporter,object,what_no-gap_adj-back,reporter,9.623822212219238,google,False,False
+454,454,0,16,in,continuation,what_no-gap_adj-back,in,4.836240768432617,google,False,False
+455,455,0,17,private,continuation,what_no-gap_adj-back,private,6.862600326538086,google,False,False
+456,456,0,19,.,End,what_no-gap_adj-back,.,0.841533899307251,google,False,False
+457,457,0,20,<eos>,End,what_no-gap_adj-back,<eos>,0.0,google,False,True
+458,458,1,0,I,prefix,what_no-gap_adj-back,I,0.0,google,False,False
+459,459,1,1,know,prefix,what_no-gap_adj-back,know,12.60753345489502,google,False,False
+460,460,1,2,what,what,what_no-gap_adj-back,what,6.455548286437987,google,False,False
+461,461,1,3,the,adjunct setup,what_no-gap_adj-back,the,7.229164600372314,google,False,False
+462,462,1,4,teacher,adjunct setup,what_no-gap_adj-back,teacher,12.550982475280762,google,False,False
+463,463,1,5,would,adjunct setup,what_no-gap_adj-back,would,6.136395454406737,google,False,False
+464,464,1,6,be,adjunct setup,what_no-gap_adj-back,be,2.921713829040528,google,False,False
+465,465,1,7,impressed,adjunct setup,what_no-gap_adj-back,impressed,14.662583351135256,google,False,False
+466,466,1,8,if,preposition,what_no-gap_adj-back,if,7.447145462036133,google,False,False
+467,467,1,9,we,subject,what_no-gap_adj-back,we,5.764725685119629,google,False,False
+468,468,1,10,cleaned,verb,what_no-gap_adj-back,cleaned,14.35173225402832,google,False,False
+469,469,1,11,the,object,what_no-gap_adj-back,the,3.7589638233184814,google,False,False
+470,470,1,12,classroom,object,what_no-gap_adj-back,classroom,6.298251152038574,google,False,False
+471,471,1,13,during,continuation,what_no-gap_adj-back,during,9.902188301086426,google,False,False
+472,472,1,14,the,continuation,what_no-gap_adj-back,the,2.1573836803436284,google,False,False
+473,473,1,15,break,continuation,what_no-gap_adj-back,break,7.1114864349365225,google,False,False
+474,474,1,17,.,End,what_no-gap_adj-back,.,0.935690939426422,google,False,False
+475,475,1,18,<eos>,End,what_no-gap_adj-back,<eos>,0.0,google,False,True
+476,476,2,0,I,prefix,what_no-gap_adj-back,I,0.0,google,False,False
+477,477,2,1,know,prefix,what_no-gap_adj-back,know,12.60753345489502,google,False,False
+478,478,2,2,what,what,what_no-gap_adj-back,what,6.455548286437987,google,False,False
+479,479,2,3,the,adjunct setup,what_no-gap_adj-back,the,7.229164600372314,google,False,False
+480,480,2,4,bride,adjunct setup,what_no-gap_adj-back,bride,16.26412582397461,google,False,False
+481,481,2,5,would,adjunct setup,what_no-gap_adj-back,would,6.0777082443237305,google,False,False
+482,482,2,6,get,adjunct setup,what_no-gap_adj-back,get,9.236309051513672,google,False,False
+483,483,2,7,very,adjunct setup,what_no-gap_adj-back,very,12.12997817993164,google,False,False
+484,484,2,8,angry,adjunct setup,what_no-gap_adj-back,angry,6.630587100982666,google,False,False
+485,485,2,9,if,preposition,what_no-gap_adj-back,if,3.2595255374908447,google,False,False
+486,486,2,10,she,subject,what_no-gap_adj-back,she,1.4661912918090818,google,False,False
+487,487,2,11,missed,verb,what_no-gap_adj-back,missed,8.505960464477539,google,False,False
+488,488,2,12,the,object,what_no-gap_adj-back,the,2.710487604141236,google,False,False
+489,489,2,13,reception,object,what_no-gap_adj-back,reception,9.454389572143556,google,False,False
+490,490,2,14,in,continuation,what_no-gap_adj-back,in,5.969700813293457,google,False,False
+491,491,2,15,the,continuation,what_no-gap_adj-back,the,1.3242379426956177,google,False,False
+492,492,2,16,evening,continuation,what_no-gap_adj-back,evening,5.3094515800476065,google,False,False
+493,493,2,18,.,End,what_no-gap_adj-back,.,0.8275715708732605,google,False,False
+494,494,2,19,<eos>,End,what_no-gap_adj-back,<eos>,0.0,google,False,True
+495,495,3,0,I,prefix,what_no-gap_adj-back,I,0.0,google,False,False
+496,496,3,1,know,prefix,what_no-gap_adj-back,know,12.60753345489502,google,False,False
+497,497,3,2,what,what,what_no-gap_adj-back,what,6.455548286437987,google,False,False
+498,498,3,3,the,adjunct setup,what_no-gap_adj-back,the,7.229164600372314,google,False,False
+499,499,3,4,father,adjunct setup,what_no-gap_adj-back,father,14.141064643859865,google,False,False
+500,500,3,5,would,adjunct setup,what_no-gap_adj-back,would,5.509804248809815,google,False,False
+501,501,3,6,get,adjunct setup,what_no-gap_adj-back,get,9.646608352661133,google,False,False
+502,502,3,7,really,adjunct setup,what_no-gap_adj-back,really,11.474940299987793,google,False,False
+503,503,3,8,upset,adjunct setup,what_no-gap_adj-back,upset,8.604742050170897,google,False,False
+504,504,3,9,if,preposition,what_no-gap_adj-back,if,4.681937217712402,google,False,False
+505,505,3,10,he,subject,what_no-gap_adj-back,he,1.4854215383529663,google,False,False
+506,506,3,11,forgot,verb,what_no-gap_adj-back,forgot,9.94471836090088,google,False,False
+507,507,3,12,the,object,what_no-gap_adj-back,the,4.355578422546387,google,False,False
+508,508,3,13,diapers,object,what_no-gap_adj-back,diapers,12.910625457763672,google,False,False
+509,509,3,14,in,continuation,what_no-gap_adj-back,in,4.788423538208008,google,False,False
+510,510,3,15,the,continuation,what_no-gap_adj-back,the,1.414409637451172,google,False,False
+511,511,3,16,car,continuation,what_no-gap_adj-back,car,3.574447631835937,google,False,False
+512,512,3,18,.,End,what_no-gap_adj-back,.,1.0104552507400513,google,False,False
+513,513,3,19,<eos>,End,what_no-gap_adj-back,<eos>,0.0,google,False,True
+514,514,4,0,I,prefix,what_no-gap_adj-back,I,0.0,google,False,False
+515,515,4,1,know,prefix,what_no-gap_adj-back,know,12.60753345489502,google,False,False
+516,516,4,2,what,what,what_no-gap_adj-back,what,6.455548286437987,google,False,False
+517,517,4,3,the,adjunct setup,what_no-gap_adj-back,the,7.229164600372314,google,False,False
+518,518,4,4,kids,adjunct setup,what_no-gap_adj-back,kids,9.651711463928224,google,False,False
+519,519,4,5,get,adjunct setup,what_no-gap_adj-back,get,8.226655960083008,google,False,False
+520,520,4,6,grumpy,adjunct setup,what_no-gap_adj-back,grumpy,14.239838600158693,google,False,False
+521,521,4,7,if,preposition,what_no-gap_adj-back,if,6.909180641174316,google,False,False
+522,522,4,8,they,subject,what_no-gap_adj-back,they,0.9699837565422058,google,False,False
+523,523,4,9,are,verb,what_no-gap_adj-back,are,4.611454486846924,google,False,False
+524,524,4,10,told,verb,what_no-gap_adj-back,told,5.274011135101318,google,False,False
+525,525,4,11,to,verb,what_no-gap_adj-back,to,1.9584428071975708,google,False,False
+526,526,4,12,do,verb,what_no-gap_adj-back,do,3.8192858695983887,google,False,False
+527,527,4,13,the,object,what_no-gap_adj-back,the,4.8610944747924805,google,False,False
+528,528,4,14,homework,object,what_no-gap_adj-back,homework,6.972294330596924,google,False,False
+529,529,4,15,in,continuation,what_no-gap_adj-back,in,5.118633270263672,google,False,False
+530,530,4,16,the,continuation,what_no-gap_adj-back,the,2.1744966506958012,google,False,False
+531,531,4,17,morning,continuation,what_no-gap_adj-back,morning,1.8411407470703125,google,False,False
+532,532,4,19,.,End,what_no-gap_adj-back,.,1.0479611158370972,google,False,False
+533,533,4,20,<eos>,End,what_no-gap_adj-back,<eos>,0.0,google,False,True
+534,534,0,0,I,prefix,what_gap_adj-back,I,0.0,google,False,False
+535,535,0,1,know,prefix,what_gap_adj-back,know,12.60753345489502,google,False,False
+536,536,0,2,who,what,what_gap_adj-back,who,6.528433322906494,google,False,False
+537,537,0,3,the,adjunct setup,what_gap_adj-back,the,10.580145835876463,google,False,False
+538,538,0,4,students,adjunct setup,what_gap_adj-back,students,9.06511402130127,google,False,False
+539,539,0,5,would,adjunct setup,what_gap_adj-back,would,5.481436729431152,google,False,False
+540,540,0,6,be,adjunct setup,what_gap_adj-back,be,1.2482668161392212,google,False,False
+541,541,0,7,really,adjunct setup,what_gap_adj-back,really,10.515201568603516,google,False,False
+542,542,0,8,happy,adjunct setup,what_gap_adj-back,happy,5.232243537902832,google,False,False
+543,543,0,9,if,preposition,what_gap_adj-back,if,7.215719699859619,google,False,False
+544,544,0,10,they,subject,what_gap_adj-back,they,1.3873261213302612,google,False,False
+545,545,0,11,could,verb,what_gap_adj-back,could,3.622577667236328,google,False,False
+546,546,0,12,speak,verb,what_gap_adj-back,speak,7.510477066040039,google,False,False
+547,547,0,13,to,verb,what_gap_adj-back,to,2.7422845363616943,google,False,False
+548,548,0,14,in,continuation,what_gap_adj-back,in,12.387672424316404,google,False,False
+549,549,0,15,private,continuation,what_gap_adj-back,private,5.824435710906982,google,False,False
+550,550,0,17,.,End,what_gap_adj-back,.,1.7227755784988403,google,False,False
+551,551,0,18,<eos>,End,what_gap_adj-back,<eos>,0.0,google,False,True
+552,552,1,0,I,prefix,what_gap_adj-back,I,0.0,google,False,False
+553,553,1,1,know,prefix,what_gap_adj-back,know,12.60753345489502,google,False,False
+554,554,1,2,what,what,what_gap_adj-back,what,6.455548286437987,google,False,False
+555,555,1,3,the,adjunct setup,what_gap_adj-back,the,7.229164600372314,google,False,False
+556,556,1,4,teacher,adjunct setup,what_gap_adj-back,teacher,12.550982475280762,google,False,False
+557,557,1,5,would,adjunct setup,what_gap_adj-back,would,6.136395454406737,google,False,False
+558,558,1,6,be,adjunct setup,what_gap_adj-back,be,2.921713829040528,google,False,False
+559,559,1,7,impressed,adjunct setup,what_gap_adj-back,impressed,14.662583351135256,google,False,False
+560,560,1,8,if,preposition,what_gap_adj-back,if,7.447145462036133,google,False,False
+561,561,1,9,we,subject,what_gap_adj-back,we,5.764725685119629,google,False,False
+562,562,1,10,cleaned,verb,what_gap_adj-back,cleaned,14.35173225402832,google,False,False
+563,563,1,11,during,continuation,what_gap_adj-back,during,13.943181991577148,google,False,False
+564,564,1,12,the,continuation,what_gap_adj-back,the,1.8648903369903564,google,False,False
+565,565,1,13,break,continuation,what_gap_adj-back,break,9.682291030883787,google,False,False
+566,566,1,15,.,End,what_gap_adj-back,.,1.0830912590026855,google,False,False
+567,567,1,16,<eos>,End,what_gap_adj-back,<eos>,0.0,google,False,True
+568,568,2,0,I,prefix,what_gap_adj-back,I,0.0,google,False,False
+569,569,2,1,know,prefix,what_gap_adj-back,know,12.60753345489502,google,False,False
+570,570,2,2,what,what,what_gap_adj-back,what,6.455548286437987,google,False,False
+571,571,2,3,the,adjunct setup,what_gap_adj-back,the,7.229164600372314,google,False,False
+572,572,2,4,bride,adjunct setup,what_gap_adj-back,bride,16.26412582397461,google,False,False
+573,573,2,5,would,adjunct setup,what_gap_adj-back,would,6.0777082443237305,google,False,False
+574,574,2,6,get,adjunct setup,what_gap_adj-back,get,9.236309051513672,google,False,False
+575,575,2,7,very,adjunct setup,what_gap_adj-back,very,12.12997817993164,google,False,False
+576,576,2,8,angry,adjunct setup,what_gap_adj-back,angry,6.630587100982666,google,False,False
+577,577,2,9,if,preposition,what_gap_adj-back,if,3.2595255374908447,google,False,False
+578,578,2,10,she,subject,what_gap_adj-back,she,1.4661912918090818,google,False,False
+579,579,2,11,missed,verb,what_gap_adj-back,missed,8.505960464477539,google,False,False
+580,580,2,12,in,continuation,what_gap_adj-back,in,9.39244556427002,google,False,False
+581,581,2,13,the,continuation,what_gap_adj-back,the,2.095578670501709,google,False,False
+582,582,2,14,evening,continuation,what_gap_adj-back,evening,6.057816982269287,google,False,False
+583,583,2,16,.,End,what_gap_adj-back,.,0.9784228801727296,google,False,False
+584,584,2,17,<eos>,End,what_gap_adj-back,<eos>,0.0,google,False,True
+585,585,3,0,I,prefix,what_gap_adj-back,I,0.0,google,False,False
+586,586,3,1,know,prefix,what_gap_adj-back,know,12.60753345489502,google,False,False
+587,587,3,2,what,what,what_gap_adj-back,what,6.455548286437987,google,False,False
+588,588,3,3,the,adjunct setup,what_gap_adj-back,the,7.229164600372314,google,False,False
+589,589,3,4,father,adjunct setup,what_gap_adj-back,father,14.141064643859865,google,False,False
+590,590,3,5,would,adjunct setup,what_gap_adj-back,would,5.509804248809815,google,False,False
+591,591,3,6,get,adjunct setup,what_gap_adj-back,get,9.646608352661133,google,False,False
+592,592,3,7,really,adjunct setup,what_gap_adj-back,really,11.474940299987793,google,False,False
+593,593,3,8,upset,adjunct setup,what_gap_adj-back,upset,8.604742050170897,google,False,False
+594,594,3,9,if,preposition,what_gap_adj-back,if,4.681937217712402,google,False,False
+595,595,3,10,he,subject,what_gap_adj-back,he,1.4854215383529663,google,False,False
+596,596,3,11,forgot,verb,what_gap_adj-back,forgot,9.94471836090088,google,False,False
+597,597,3,12,in,continuation,what_gap_adj-back,in,9.78899097442627,google,False,False
+598,598,3,13,the,continuation,what_gap_adj-back,the,3.1166250705718994,google,False,False
+599,599,3,14,car,continuation,what_gap_adj-back,car,3.810012102127075,google,False,False
+600,600,3,16,.,End,what_gap_adj-back,.,1.6007661819458008,google,False,False
+601,601,3,17,<eos>,End,what_gap_adj-back,<eos>,0.0,google,False,True
+602,602,4,0,I,prefix,what_gap_adj-back,I,0.0,google,False,False
+603,603,4,1,know,prefix,what_gap_adj-back,know,12.60753345489502,google,False,False
+604,604,4,2,what,what,what_gap_adj-back,what,6.455548286437987,google,False,False
+605,605,4,3,the,adjunct setup,what_gap_adj-back,the,7.229164600372314,google,False,False
+606,606,4,4,kids,adjunct setup,what_gap_adj-back,kids,9.651711463928224,google,False,False
+607,607,4,5,get,adjunct setup,what_gap_adj-back,get,8.226655960083008,google,False,False
+608,608,4,6,grumpy,adjunct setup,what_gap_adj-back,grumpy,14.239838600158693,google,False,False
+609,609,4,7,if,preposition,what_gap_adj-back,if,6.909180641174316,google,False,False
+610,610,4,8,they,subject,what_gap_adj-back,they,0.9699837565422058,google,False,False
+611,611,4,9,are,verb,what_gap_adj-back,are,4.611454486846924,google,False,False
+612,612,4,10,told,verb,what_gap_adj-back,told,5.274011135101318,google,False,False
+613,613,4,11,to,verb,what_gap_adj-back,to,1.9584428071975708,google,False,False
+614,614,4,12,do,verb,what_gap_adj-back,do,3.8192858695983887,google,False,False
+615,615,4,13,in,continuation,what_gap_adj-back,in,10.671172142028807,google,False,False
+616,616,4,14,the,continuation,what_gap_adj-back,the,2.2143230438232417,google,False,False
+617,617,4,15,morning,continuation,what_gap_adj-back,morning,4.6333961486816415,google,False,False
+618,618,4,17,.,End,what_gap_adj-back,.,1.7335679531097412,google,False,False
+619,619,4,18,<eos>,End,what_gap_adj-back,<eos>,0.0,google,False,True
+620,620,0,0,I,prefix,that_no-gap_adj-front,I,0.0,google,False,False
+621,621,0,1,know,prefix,that_no-gap_adj-front,know,12.60753345489502,google,False,False
+622,622,0,2,that,that,that_no-gap_adj-front,that,5.9504942893981925,google,False,False
+623,623,0,3,if,preposition,that_no-gap_adj-front,if,8.581584930419924,google,False,False
+624,624,0,4,they,subject,that_no-gap_adj-front,they,4.479662895202637,google,False,False
+625,625,0,5,could,verb,that_no-gap_adj-front,could,7.287018775939941,google,False,False
+626,626,0,6,speak,verb,that_no-gap_adj-front,speak,7.726156234741211,google,False,False
+627,627,0,7,to,verb,that_no-gap_adj-front,to,1.9977372884750368,google,False,False
+628,628,0,8,the,object,that_no-gap_adj-front,the,4.643355846405028,google,False,False
+629,629,0,9,reporter,object,that_no-gap_adj-front,reporter,10.364721298217773,google,False,False
+630,630,0,10,in,continuation,that_no-gap_adj-front,in,4.900786876678467,google,False,False
+631,631,0,11,private,continuation,that_no-gap_adj-front,private,6.90166711807251,google,False,False
+632,632,0,12,the,adjunct setup,that_no-gap_adj-front,the,6.236295223236084,google,False,False
+633,633,0,13,students,adjunct setup,that_no-gap_adj-front,students,9.575249671936037,google,False,False
+634,634,0,14,would,adjunct setup,that_no-gap_adj-front,would,0.6203564405441284,google,False,False
+635,635,0,15,be,adjunct setup,that_no-gap_adj-front,be,1.9945427179336548,google,False,False
+636,636,0,16,really,adjunct setup,that_no-gap_adj-front,really,8.693216323852539,google,False,False
+637,637,0,17,happy,adjunct setup,that_no-gap_adj-front,happy,3.2145574092864986,google,False,False
+638,638,0,19,.,End,that_no-gap_adj-front,.,1.4669106006622314,google,False,False
+639,639,0,20,<eos>,End,that_no-gap_adj-front,<eos>,0.0,google,False,True
+640,640,1,0,I,prefix,that_no-gap_adj-front,I,0.0,google,False,False
+641,641,1,1,know,prefix,that_no-gap_adj-front,know,12.60753345489502,google,False,False
+642,642,1,2,that,that,that_no-gap_adj-front,that,5.9504942893981925,google,False,False
+643,643,1,3,if,preposition,that_no-gap_adj-front,if,8.581584930419924,google,False,False
+644,644,1,4,we,subject,that_no-gap_adj-front,we,6.0726380348205575,google,False,False
+645,645,1,5,cleaned,verb,that_no-gap_adj-front,cleaned,15.426676750183105,google,False,False
+646,646,1,6,the,object,that_no-gap_adj-front,the,4.08875036239624,google,False,False
+647,647,1,7,classroom,object,that_no-gap_adj-front,classroom,12.717756271362305,google,False,False
+648,648,1,8,during,continuation,that_no-gap_adj-front,during,9.735115051269533,google,False,False
+649,649,1,9,the,continuation,that_no-gap_adj-front,the,1.5149118900299072,google,False,False
+650,650,1,10,break,continuation,that_no-gap_adj-front,break,8.139803886413574,google,False,False
+651,651,1,11,the,adjunct setup,that_no-gap_adj-front,the,5.058787822723389,google,False,False
+652,652,1,12,teacher,adjunct setup,that_no-gap_adj-front,teacher,5.824423789978027,google,False,False
+653,653,1,13,would,adjunct setup,that_no-gap_adj-front,would,0.6209406852722168,google,False,False
+654,654,1,14,be,adjunct setup,that_no-gap_adj-front,be,2.3190534114837646,google,False,False
+655,655,1,15,impressed,adjunct setup,that_no-gap_adj-front,impressed,9.201749801635742,google,False,False
+656,656,1,17,.,End,that_no-gap_adj-front,.,1.2248879671096802,google,False,False
+657,657,1,18,<eos>,End,that_no-gap_adj-front,<eos>,0.0,google,False,True
+658,658,2,0,I,prefix,that_no-gap_adj-front,I,0.0,google,False,False
+659,659,2,1,know,prefix,that_no-gap_adj-front,know,12.60753345489502,google,False,False
+660,660,2,2,that,that,that_no-gap_adj-front,that,5.9504942893981925,google,False,False
+661,661,2,3,if,preposition,that_no-gap_adj-front,if,8.581584930419924,google,False,False
+662,662,2,4,she,subject,that_no-gap_adj-front,she,8.796287536621094,google,False,False
+663,663,2,5,missed,verb,that_no-gap_adj-front,missed,12.007732391357422,google,False,False
+664,664,2,6,the,object,that_no-gap_adj-front,the,2.801947593688965,google,False,False
+665,665,2,7,reception,object,that_no-gap_adj-front,reception,12.816701889038086,google,False,False
+666,666,2,8,in,continuation,that_no-gap_adj-front,in,6.185938358306885,google,False,False
+667,667,2,9,the,continuation,that_no-gap_adj-front,the,1.3363597393035889,google,False,False
+668,668,2,10,evening,continuation,that_no-gap_adj-front,evening,6.255850791931152,google,False,False
+669,669,2,11,the,adjunct setup,that_no-gap_adj-front,the,6.43930721282959,google,False,False
+670,670,2,12,bride,adjunct setup,that_no-gap_adj-front,bride,12.244077682495115,google,False,False
+671,671,2,13,would,adjunct setup,that_no-gap_adj-front,would,1.3665064573287964,google,False,False
+672,672,2,14,get,adjunct setup,that_no-gap_adj-front,get,6.327979564666747,google,False,False
+673,673,2,15,very,adjunct setup,that_no-gap_adj-front,very,8.046979904174805,google,False,False
+674,674,2,16,angry,adjunct setup,that_no-gap_adj-front,angry,5.309896469116211,google,False,False
+675,675,2,18,.,End,that_no-gap_adj-front,.,1.4683637619018557,google,False,False
+676,676,2,19,<eos>,End,that_no-gap_adj-front,<eos>,0.0,google,False,True
+677,677,3,0,I,prefix,that_no-gap_adj-front,I,0.0,google,False,False
+678,678,3,1,know,prefix,that_no-gap_adj-front,know,12.60753345489502,google,False,False
+679,679,3,2,that,that,that_no-gap_adj-front,that,5.9504942893981925,google,False,False
+680,680,3,3,if,preposition,that_no-gap_adj-front,if,8.581584930419924,google,False,False
+681,681,3,4,he,subject,that_no-gap_adj-front,he,5.423104763031006,google,False,False
+682,682,3,5,forgot,verb,that_no-gap_adj-front,forgot,13.534066200256348,google,False,False
+683,683,3,6,the,object,that_no-gap_adj-front,the,4.011764526367188,google,False,False
+684,684,3,7,diapers,object,that_no-gap_adj-front,diapers,16.108848571777347,google,False,False
+685,685,3,8,in,continuation,that_no-gap_adj-front,in,5.177569389343262,google,False,False
+686,686,3,9,the,continuation,that_no-gap_adj-front,the,1.5984699726104736,google,False,False
+687,687,3,10,car,continuation,that_no-gap_adj-front,car,3.7113850116729736,google,False,False
+688,688,3,11,the,adjunct setup,that_no-gap_adj-front,the,6.072286605834961,google,False,False
+689,689,3,12,father,adjunct setup,that_no-gap_adj-front,father,7.698428153991699,google,False,False
+690,690,3,13,would,adjunct setup,that_no-gap_adj-front,would,1.0506861209869385,google,False,False
+691,691,3,14,get,adjunct setup,that_no-gap_adj-front,get,5.895371913909912,google,False,False
+692,692,3,15,really,adjunct setup,that_no-gap_adj-front,really,9.37446117401123,google,False,False
+693,693,3,16,upset,adjunct setup,that_no-gap_adj-front,upset,1.5231670141220093,google,False,False
+694,694,3,18,.,End,that_no-gap_adj-front,.,1.0429927110671997,google,False,False
+695,695,3,19,<eos>,End,that_no-gap_adj-front,<eos>,0.0,google,False,True
+696,696,4,0,I,prefix,that_no-gap_adj-front,I,0.0,google,False,False
+697,697,4,1,know,prefix,that_no-gap_adj-front,know,12.60753345489502,google,False,False
+698,698,4,2,that,that,that_no-gap_adj-front,that,5.9504942893981925,google,False,False
+699,699,4,3,if,preposition,that_no-gap_adj-front,if,8.581584930419924,google,False,False
+700,700,4,4,they,subject,that_no-gap_adj-front,they,4.479662895202637,google,False,False
+701,701,4,5,are,verb,that_no-gap_adj-front,are,5.151437282562256,google,False,False
+702,702,4,6,told,verb,that_no-gap_adj-front,told,7.362539291381836,google,False,False
+703,703,4,7,to,verb,that_no-gap_adj-front,to,1.7843984365463257,google,False,False
+704,704,4,8,do,verb,that_no-gap_adj-front,do,3.708580732345581,google,False,False
+705,705,4,9,the,object,that_no-gap_adj-front,the,4.837155342102051,google,False,False
+706,706,4,10,homework,object,that_no-gap_adj-front,homework,10.431897163391113,google,False,False
+707,707,4,11,in,continuation,that_no-gap_adj-front,in,5.826085567474365,google,False,False
+708,708,4,12,the,continuation,that_no-gap_adj-front,the,2.4821839332580566,google,False,False
+709,709,4,13,morning,continuation,that_no-gap_adj-front,morning,2.4235703945159908,google,False,False
+710,710,4,14,the,adjunct setup,that_no-gap_adj-front,the,7.2431397438049325,google,False,False
+711,711,4,15,kids,adjunct setup,that_no-gap_adj-front,kids,5.749326229095459,google,False,False
+712,712,4,16,get,adjunct setup,that_no-gap_adj-front,get,6.324465751647949,google,False,False
+713,713,4,17,grumpy,adjunct setup,that_no-gap_adj-front,grumpy,11.381368637084961,google,False,False
+714,714,4,19,.,End,that_no-gap_adj-front,.,1.8034334182739256,google,False,False
+715,715,4,20,<eos>,End,that_no-gap_adj-front,<eos>,0.0,google,False,True
+716,716,0,0,I,prefix,that_gap_adj-front,I,0.0,google,False,False
+717,717,0,1,know,prefix,that_gap_adj-front,know,12.60753345489502,google,False,False
+718,718,0,2,that,that,that_gap_adj-front,that,5.9504942893981925,google,False,False
+719,719,0,3,if,preposition,that_gap_adj-front,if,8.581584930419924,google,False,False
+720,720,0,4,they,subject,that_gap_adj-front,they,4.479662895202637,google,False,False
+721,721,0,5,could,verb,that_gap_adj-front,could,7.287018775939941,google,False,False
+722,722,0,6,speak,verb,that_gap_adj-front,speak,7.726156234741211,google,False,False
+723,723,0,7,to,verb,that_gap_adj-front,to,1.9977372884750368,google,False,False
+724,724,0,8,in,continuation,that_gap_adj-front,in,13.059600830078125,google,False,False
+725,725,0,9,private,continuation,that_gap_adj-front,private,7.258260726928711,google,False,False
+726,726,0,10,the,adjunct setup,that_gap_adj-front,the,3.4349639415740967,google,False,False
+727,727,0,11,students,adjunct setup,that_gap_adj-front,students,11.173030853271484,google,False,False
+728,728,0,12,would,adjunct setup,that_gap_adj-front,would,3.3830299377441406,google,False,False
+729,729,0,13,be,adjunct setup,that_gap_adj-front,be,2.1326115131378174,google,False,False
+730,730,0,14,really,adjunct setup,that_gap_adj-front,really,8.527181625366211,google,False,False
+731,731,0,15,happy,adjunct setup,that_gap_adj-front,happy,3.1482176780700684,google,False,False
+732,732,0,17,.,End,that_gap_adj-front,.,1.9438687562942505,google,False,False
+733,733,0,18,<eos>,End,that_gap_adj-front,<eos>,0.0,google,False,True
+734,734,1,0,I,prefix,that_gap_adj-front,I,0.0,google,False,False
+735,735,1,1,know,prefix,that_gap_adj-front,know,12.60753345489502,google,False,False
+736,736,1,2,that,that,that_gap_adj-front,that,5.9504942893981925,google,False,False
+737,737,1,3,if,preposition,that_gap_adj-front,if,8.581584930419924,google,False,False
+738,738,1,4,we,subject,that_gap_adj-front,we,6.0726380348205575,google,False,False
+739,739,1,5,cleaned,verb,that_gap_adj-front,cleaned,15.426676750183105,google,False,False
+740,740,1,6,during,continuation,that_gap_adj-front,during,14.654120445251465,google,False,False
+741,741,1,7,the,continuation,that_gap_adj-front,the,1.4852460622787476,google,False,False
+742,742,1,8,break,continuation,that_gap_adj-front,break,10.75811004638672,google,False,False
+743,743,1,9,the,adjunct setup,that_gap_adj-front,the,4.031065940856934,google,False,False
+744,744,1,10,teacher,adjunct setup,that_gap_adj-front,teacher,11.896868705749512,google,False,False
+745,745,1,11,would,adjunct setup,that_gap_adj-front,would,0.8584617376327515,google,False,False
+746,746,1,12,be,adjunct setup,that_gap_adj-front,be,2.4415621757507324,google,False,False
+747,747,1,13,impressed,adjunct setup,that_gap_adj-front,impressed,9.681727409362793,google,False,False
+748,748,1,15,.,End,that_gap_adj-front,.,1.4891153573989868,google,False,False
+749,749,1,16,<eos>,End,that_gap_adj-front,<eos>,0.0,google,False,True
+750,750,2,0,I,prefix,that_gap_adj-front,I,0.0,google,False,False
+751,751,2,1,know,prefix,that_gap_adj-front,know,12.60753345489502,google,False,False
+752,752,2,2,that,that,that_gap_adj-front,that,5.9504942893981925,google,False,False
+753,753,2,3,if,preposition,that_gap_adj-front,if,8.581584930419924,google,False,False
+754,754,2,4,she,subject,that_gap_adj-front,she,8.796287536621094,google,False,False
+755,755,2,5,missed,verb,that_gap_adj-front,missed,12.007732391357422,google,False,False
+756,756,2,6,in,continuation,that_gap_adj-front,in,9.263069152832033,google,False,False
+757,757,2,7,the,continuation,that_gap_adj-front,the,2.1684820652008057,google,False,False
+758,758,2,8,evening,continuation,that_gap_adj-front,evening,6.91515588760376,google,False,False
+759,759,2,9,the,adjunct setup,that_gap_adj-front,the,5.7048163414001465,google,False,False
+760,760,2,10,bride,adjunct setup,that_gap_adj-front,bride,13.591964721679688,google,False,False
+761,761,2,11,would,adjunct setup,that_gap_adj-front,would,1.2799378633499146,google,False,False
+762,762,2,12,get,adjunct setup,that_gap_adj-front,get,6.026679515838622,google,False,False
+763,763,2,13,very,adjunct setup,that_gap_adj-front,very,8.261597633361816,google,False,False
+764,764,2,14,angry,adjunct setup,that_gap_adj-front,angry,5.2742958068847665,google,False,False
+765,765,2,16,.,End,that_gap_adj-front,.,1.76011860370636,google,False,False
+766,766,2,17,<eos>,End,that_gap_adj-front,<eos>,0.0,google,False,True
+767,767,3,0,I,prefix,that_gap_adj-front,I,0.0,google,False,False
+768,768,3,1,know,prefix,that_gap_adj-front,know,12.60753345489502,google,False,False
+769,769,3,2,that,that,that_gap_adj-front,that,5.9504942893981925,google,False,False
+770,770,3,3,if,preposition,that_gap_adj-front,if,8.581584930419924,google,False,False
+771,771,3,4,he,subject,that_gap_adj-front,he,5.423104763031006,google,False,False
+772,772,3,5,forgot,verb,that_gap_adj-front,forgot,13.534066200256348,google,False,False
+773,773,3,6,in,continuation,that_gap_adj-front,in,9.85701847076416,google,False,False
+774,774,3,7,the,continuation,that_gap_adj-front,the,2.707347869873047,google,False,False
+775,775,3,8,car,continuation,that_gap_adj-front,car,5.009734630584717,google,False,False
+776,776,3,9,the,adjunct setup,that_gap_adj-front,the,4.1205997467041025,google,False,False
+777,777,3,10,father,adjunct setup,that_gap_adj-front,father,9.644471168518066,google,False,False
+778,778,3,11,would,adjunct setup,that_gap_adj-front,would,1.0187774896621704,google,False,False
+779,779,3,12,get,adjunct setup,that_gap_adj-front,get,6.014993190765381,google,False,False
+780,780,3,13,really,adjunct setup,that_gap_adj-front,really,9.58614444732666,google,False,False
+781,781,3,14,upset,adjunct setup,that_gap_adj-front,upset,1.5973405838012695,google,False,False
+782,782,3,16,.,End,that_gap_adj-front,.,1.229169249534607,google,False,False
+783,783,3,17,<eos>,End,that_gap_adj-front,<eos>,0.0,google,False,True
+784,784,4,0,I,prefix,that_gap_adj-front,I,0.0,google,False,False
+785,785,4,1,know,prefix,that_gap_adj-front,know,12.60753345489502,google,False,False
+786,786,4,2,that,that,that_gap_adj-front,that,5.9504942893981925,google,False,False
+787,787,4,3,if,preposition,that_gap_adj-front,if,8.581584930419924,google,False,False
+788,788,4,4,they,subject,that_gap_adj-front,they,4.479662895202637,google,False,False
+789,789,4,5,are,verb,that_gap_adj-front,are,5.151437282562256,google,False,False
+790,790,4,6,told,verb,that_gap_adj-front,told,7.362539291381836,google,False,False
+791,791,4,7,to,verb,that_gap_adj-front,to,1.7843984365463257,google,False,False
+792,792,4,8,do,verb,that_gap_adj-front,do,3.708580732345581,google,False,False
+793,793,4,9,in,continuation,that_gap_adj-front,in,11.92633819580078,google,False,False
+794,794,4,10,the,continuation,that_gap_adj-front,the,2.549063444137573,google,False,False
+795,795,4,11,morning,continuation,that_gap_adj-front,morning,5.869285583496094,google,False,False
+796,796,4,12,the,adjunct setup,that_gap_adj-front,the,5.987930774688722,google,False,False
+797,797,4,13,kids,adjunct setup,that_gap_adj-front,kids,7.7630066871643075,google,False,False
+798,798,4,14,get,adjunct setup,that_gap_adj-front,get,6.017265319824219,google,False,False
+799,799,4,15,grumpy,adjunct setup,that_gap_adj-front,grumpy,11.43545627593994,google,False,False
+800,800,4,17,.,End,that_gap_adj-front,.,4.147219181060791,google,False,False
+801,801,4,18,<eos>,End,that_gap_adj-front,<eos>,0.0,google,False,True
+802,802,0,0,I,prefix,what_no-gap_adj-front,I,0.0,google,False,False
+803,803,0,1,know,prefix,what_no-gap_adj-front,know,12.60753345489502,google,False,False
+804,804,0,2,who,what,what_no-gap_adj-front,who,6.528433322906494,google,False,False
+805,805,0,3,if,preposition,what_no-gap_adj-front,if,16.483793258666992,google,False,False
+806,806,0,4,they,subject,what_no-gap_adj-front,they,4.423035621643066,google,False,False
+807,807,0,5,could,verb,what_no-gap_adj-front,could,5.908501625061035,google,False,False
+808,808,0,6,speak,verb,what_no-gap_adj-front,speak,8.365744590759277,google,False,False
+809,809,0,7,to,verb,what_no-gap_adj-front,to,2.482980966567993,google,False,False
+810,810,0,8,the,object,what_no-gap_adj-front,the,5.3309597969055185,google,False,False
+811,811,0,9,reporter,object,what_no-gap_adj-front,reporter,9.976339340209961,google,False,False
+812,812,0,10,in,continuation,what_no-gap_adj-front,in,4.943756580352783,google,False,False
+813,813,0,11,private,continuation,what_no-gap_adj-front,private,7.15438175201416,google,False,False
+814,814,0,12,the,adjunct setup,what_no-gap_adj-front,the,8.850621223449707,google,False,False
+815,815,0,13,students,adjunct setup,what_no-gap_adj-front,students,12.17575740814209,google,False,False
+816,816,0,14,would,adjunct setup,what_no-gap_adj-front,would,1.7560018301010132,google,False,False
+817,817,0,15,be,adjunct setup,what_no-gap_adj-front,be,2.174285888671875,google,False,False
+818,818,0,16,really,adjunct setup,what_no-gap_adj-front,really,8.891573905944824,google,False,False
+819,819,0,17,happy,adjunct setup,what_no-gap_adj-front,happy,3.5935826301574707,google,False,False
+820,820,0,19,.,End,what_no-gap_adj-front,.,1.7774033546447754,google,False,False
+821,821,0,20,<eos>,End,what_no-gap_adj-front,<eos>,0.0,google,False,True
+822,822,1,0,I,prefix,what_no-gap_adj-front,I,0.0,google,False,False
+823,823,1,1,know,prefix,what_no-gap_adj-front,know,12.60753345489502,google,False,False
+824,824,1,2,what,what,what_no-gap_adj-front,what,6.455548286437987,google,False,False
+825,825,1,3,if,preposition,what_no-gap_adj-front,if,14.67414665222168,google,False,False
+826,826,1,4,we,subject,what_no-gap_adj-front,we,6.9797630310058585,google,False,False
+827,827,1,5,cleaned,verb,what_no-gap_adj-front,cleaned,13.959195137023926,google,False,False
+828,828,1,6,the,object,what_no-gap_adj-front,the,4.292539119720459,google,False,False
+829,829,1,7,classroom,object,what_no-gap_adj-front,classroom,12.85934352874756,google,False,False
+830,830,1,8,during,continuation,what_no-gap_adj-front,during,9.627266883850098,google,False,False
+831,831,1,9,the,continuation,what_no-gap_adj-front,the,1.7171658277511597,google,False,False
+832,832,1,10,break,continuation,what_no-gap_adj-front,break,7.987349033355713,google,False,False
+833,833,1,11,the,adjunct setup,what_no-gap_adj-front,the,7.899002552032472,google,False,False
+834,834,1,12,teacher,adjunct setup,what_no-gap_adj-front,teacher,6.863184928894043,google,False,False
+835,835,1,13,would,adjunct setup,what_no-gap_adj-front,would,2.395272254943848,google,False,False
+836,836,1,14,be,adjunct setup,what_no-gap_adj-front,be,2.574737310409546,google,False,False
+837,837,1,15,impressed,adjunct setup,what_no-gap_adj-front,impressed,10.084298133850098,google,False,False
+838,838,1,17,.,End,what_no-gap_adj-front,.,1.6509615182876587,google,False,False
+839,839,1,18,<eos>,End,what_no-gap_adj-front,<eos>,0.0,google,False,True
+840,840,2,0,I,prefix,what_no-gap_adj-front,I,0.0,google,False,False
+841,841,2,1,know,prefix,what_no-gap_adj-front,know,12.60753345489502,google,False,False
+842,842,2,2,what,what,what_no-gap_adj-front,what,6.455548286437987,google,False,False
+843,843,2,3,if,preposition,what_no-gap_adj-front,if,14.67414665222168,google,False,False
+844,844,2,4,she,subject,what_no-gap_adj-front,she,8.591705322265625,google,False,False
+845,845,2,5,missed,verb,what_no-gap_adj-front,missed,10.716428756713867,google,False,False
+846,846,2,6,the,object,what_no-gap_adj-front,the,3.431793689727783,google,False,False
+847,847,2,7,reception,object,what_no-gap_adj-front,reception,12.514124870300293,google,False,False
+848,848,2,8,in,continuation,what_no-gap_adj-front,in,5.8296003341674805,google,False,False
+849,849,2,9,the,continuation,what_no-gap_adj-front,the,1.4138848781585691,google,False,False
+850,850,2,10,evening,continuation,what_no-gap_adj-front,evening,6.47065019607544,google,False,False
+851,851,2,11,the,adjunct setup,what_no-gap_adj-front,the,8.57047176361084,google,False,False
+852,852,2,12,bride,adjunct setup,what_no-gap_adj-front,bride,12.022977828979492,google,False,False
+853,853,2,13,would,adjunct setup,what_no-gap_adj-front,would,4.134481430053712,google,False,False
+854,854,2,14,get,adjunct setup,what_no-gap_adj-front,get,5.993042945861816,google,False,False
+855,855,2,15,very,adjunct setup,what_no-gap_adj-front,very,11.30766773223877,google,False,False
+856,856,2,16,angry,adjunct setup,what_no-gap_adj-front,angry,7.2949066162109375,google,False,False
+857,857,2,18,.,End,what_no-gap_adj-front,.,1.893004059791565,google,False,False
+858,858,2,19,<eos>,End,what_no-gap_adj-front,<eos>,0.0,google,False,True
+859,859,3,0,I,prefix,what_no-gap_adj-front,I,0.0,google,False,False
+860,860,3,1,know,prefix,what_no-gap_adj-front,know,12.60753345489502,google,False,False
+861,861,3,2,what,what,what_no-gap_adj-front,what,6.455548286437987,google,False,False
+862,862,3,3,if,preposition,what_no-gap_adj-front,if,14.67414665222168,google,False,False
+863,863,3,4,he,subject,what_no-gap_adj-front,he,5.4439659118652335,google,False,False
+864,864,3,5,forgot,verb,what_no-gap_adj-front,forgot,11.459444046020508,google,False,False
+865,865,3,6,the,object,what_no-gap_adj-front,the,4.453593730926514,google,False,False
+866,866,3,7,diapers,object,what_no-gap_adj-front,diapers,15.06808090209961,google,False,False
+867,867,3,8,in,continuation,what_no-gap_adj-front,in,4.835672378540039,google,False,False
+868,868,3,9,the,continuation,what_no-gap_adj-front,the,1.4391762018203735,google,False,False
+869,869,3,10,car,continuation,what_no-gap_adj-front,car,3.6944949626922607,google,False,False
+870,870,3,11,the,adjunct setup,what_no-gap_adj-front,the,8.341049194335938,google,False,False
+871,871,3,12,father,adjunct setup,what_no-gap_adj-front,father,8.33670711517334,google,False,False
+872,872,3,13,would,adjunct setup,what_no-gap_adj-front,would,3.4998292922973637,google,False,False
+873,873,3,14,get,adjunct setup,what_no-gap_adj-front,get,6.31350040435791,google,False,False
+874,874,3,15,really,adjunct setup,what_no-gap_adj-front,really,13.87031078338623,google,False,False
+875,875,3,16,upset,adjunct setup,what_no-gap_adj-front,upset,4.6701388359069815,google,False,False
+876,876,3,18,.,End,what_no-gap_adj-front,.,2.578671455383301,google,False,False
+877,877,3,19,<eos>,End,what_no-gap_adj-front,<eos>,0.0,google,False,True
+878,878,4,0,I,prefix,what_no-gap_adj-front,I,0.0,google,False,False
+879,879,4,1,know,prefix,what_no-gap_adj-front,know,12.60753345489502,google,False,False
+880,880,4,2,what,what,what_no-gap_adj-front,what,6.455548286437987,google,False,False
+881,881,4,3,if,preposition,what_no-gap_adj-front,if,14.67414665222168,google,False,False
+882,882,4,4,they,subject,what_no-gap_adj-front,they,4.809127330780028,google,False,False
+883,883,4,5,are,verb,what_no-gap_adj-front,are,4.407017230987549,google,False,False
+884,884,4,6,told,verb,what_no-gap_adj-front,told,9.441702842712402,google,False,False
+885,885,4,7,to,verb,what_no-gap_adj-front,to,1.9081157445907595,google,False,False
+886,886,4,8,do,verb,what_no-gap_adj-front,do,3.838728189468384,google,False,False
+887,887,4,9,the,object,what_no-gap_adj-front,the,5.140406608581543,google,False,False
+888,888,4,10,homework,object,what_no-gap_adj-front,homework,10.32048797607422,google,False,False
+889,889,4,11,in,continuation,what_no-gap_adj-front,in,5.517453670501709,google,False,False
+890,890,4,12,the,continuation,what_no-gap_adj-front,the,2.3076560497283936,google,False,False
+891,891,4,13,morning,continuation,what_no-gap_adj-front,morning,1.8083813190460205,google,False,False
+892,892,4,14,the,adjunct setup,what_no-gap_adj-front,the,10.544103622436523,google,False,False
+893,893,4,15,kids,adjunct setup,what_no-gap_adj-front,kids,6.444096565246582,google,False,False
+894,894,4,16,get,adjunct setup,what_no-gap_adj-front,get,6.9051899909973145,google,False,False
+895,895,4,17,grumpy,adjunct setup,what_no-gap_adj-front,grumpy,12.44515609741211,google,False,False
+896,896,4,19,.,End,what_no-gap_adj-front,.,2.1995389461517334,google,False,False
+897,897,4,20,<eos>,End,what_no-gap_adj-front,<eos>,0.0,google,False,True
+898,898,0,0,I,prefix,what_gap_adj-front,I,0.0,google,False,False
+899,899,0,1,know,prefix,what_gap_adj-front,know,12.60753345489502,google,False,False
+900,900,0,2,who,what,what_gap_adj-front,who,6.528433322906494,google,False,False
+901,901,0,3,if,preposition,what_gap_adj-front,if,16.483793258666992,google,False,False
+902,902,0,4,they,subject,what_gap_adj-front,they,4.423035621643066,google,False,False
+903,903,0,5,could,verb,what_gap_adj-front,could,5.908501625061035,google,False,False
+904,904,0,6,speak,verb,what_gap_adj-front,speak,8.365744590759277,google,False,False
+905,905,0,7,to,verb,what_gap_adj-front,to,2.482980966567993,google,False,False
+906,906,0,8,in,continuation,what_gap_adj-front,in,13.223380088806152,google,False,False
+907,907,0,9,private,continuation,what_gap_adj-front,private,7.763588905334473,google,False,False
+908,908,0,10,the,adjunct setup,what_gap_adj-front,the,4.930418968200684,google,False,False
+909,909,0,11,students,adjunct setup,what_gap_adj-front,students,12.274731636047365,google,False,False
+910,910,0,12,would,adjunct setup,what_gap_adj-front,would,6.675326347351074,google,False,False
+911,911,0,13,be,adjunct setup,what_gap_adj-front,be,2.0737671852111816,google,False,False
+912,912,0,14,really,adjunct setup,what_gap_adj-front,really,8.761577606201174,google,False,False
+913,913,0,15,happy,adjunct setup,what_gap_adj-front,happy,3.4902350902557373,google,False,False
+914,914,0,17,.,End,what_gap_adj-front,.,2.0027098655700684,google,False,False
+915,915,0,18,<eos>,End,what_gap_adj-front,<eos>,0.0,google,False,True
+916,916,1,0,I,prefix,what_gap_adj-front,I,0.0,google,False,False
+917,917,1,1,know,prefix,what_gap_adj-front,know,12.60753345489502,google,False,False
+918,918,1,2,what,what,what_gap_adj-front,what,6.455548286437987,google,False,False
+919,919,1,3,if,preposition,what_gap_adj-front,if,14.67414665222168,google,False,False
+920,920,1,4,we,subject,what_gap_adj-front,we,6.9797630310058585,google,False,False
+921,921,1,5,cleaned,verb,what_gap_adj-front,cleaned,13.959195137023926,google,False,False
+922,922,1,6,during,continuation,what_gap_adj-front,during,14.46088981628418,google,False,False
+923,923,1,7,the,continuation,what_gap_adj-front,the,1.3548862934112549,google,False,False
+924,924,1,8,break,continuation,what_gap_adj-front,break,10.357069969177246,google,False,False
+925,925,1,9,the,adjunct setup,what_gap_adj-front,the,5.8765387535095215,google,False,False
+926,926,1,10,teacher,adjunct setup,what_gap_adj-front,teacher,11.612909317016602,google,False,False
+927,927,1,11,would,adjunct setup,what_gap_adj-front,would,1.7312445640563965,google,False,False
+928,928,1,12,be,adjunct setup,what_gap_adj-front,be,2.554013967514038,google,False,False
+929,929,1,13,impressed,adjunct setup,what_gap_adj-front,impressed,9.739497184753418,google,False,False
+930,930,1,15,.,End,what_gap_adj-front,.,1.446265459060669,google,False,False
+931,931,1,16,<eos>,End,what_gap_adj-front,<eos>,0.0,google,False,True
+932,932,2,0,I,prefix,what_gap_adj-front,I,0.0,google,False,False
+933,933,2,1,know,prefix,what_gap_adj-front,know,12.60753345489502,google,False,False
+934,934,2,2,what,what,what_gap_adj-front,what,6.455548286437987,google,False,False
+935,935,2,3,if,preposition,what_gap_adj-front,if,14.67414665222168,google,False,False
+936,936,2,4,she,subject,what_gap_adj-front,she,8.591705322265625,google,False,False
+937,937,2,5,missed,verb,what_gap_adj-front,missed,10.716428756713867,google,False,False
+938,938,2,6,in,continuation,what_gap_adj-front,in,9.69676685333252,google,False,False
+939,939,2,7,the,continuation,what_gap_adj-front,the,1.9920036792755127,google,False,False
+940,940,2,8,evening,continuation,what_gap_adj-front,evening,7.64159631729126,google,False,False
+941,941,2,9,the,adjunct setup,what_gap_adj-front,the,7.666327476501465,google,False,False
+942,942,2,10,bride,adjunct setup,what_gap_adj-front,bride,13.41044807434082,google,False,False
+943,943,2,11,would,adjunct setup,what_gap_adj-front,would,2.476417064666748,google,False,False
+944,944,2,12,get,adjunct setup,what_gap_adj-front,get,5.7807254791259775,google,False,False
+945,945,2,13,very,adjunct setup,what_gap_adj-front,very,10.65256404876709,google,False,False
+946,946,2,14,angry,adjunct setup,what_gap_adj-front,angry,6.592832088470459,google,False,False
+947,947,2,16,.,End,what_gap_adj-front,.,2.129436016082764,google,False,False
+948,948,2,17,<eos>,End,what_gap_adj-front,<eos>,0.0,google,False,True
+949,949,3,0,I,prefix,what_gap_adj-front,I,0.0,google,False,False
+950,950,3,1,know,prefix,what_gap_adj-front,know,12.60753345489502,google,False,False
+951,951,3,2,what,what,what_gap_adj-front,what,6.455548286437987,google,False,False
+952,952,3,3,if,preposition,what_gap_adj-front,if,14.67414665222168,google,False,False
+953,953,3,4,he,subject,what_gap_adj-front,he,5.4439659118652335,google,False,False
+954,954,3,5,forgot,verb,what_gap_adj-front,forgot,11.459444046020508,google,False,False
+955,955,3,6,in,continuation,what_gap_adj-front,in,9.794534683227539,google,False,False
+956,956,3,7,the,continuation,what_gap_adj-front,the,3.182915210723877,google,False,False
+957,957,3,8,car,continuation,what_gap_adj-front,car,4.930932998657227,google,False,False
+958,958,3,9,the,adjunct setup,what_gap_adj-front,the,5.2858757972717285,google,False,False
+959,959,3,10,father,adjunct setup,what_gap_adj-front,father,9.566433906555176,google,False,False
+960,960,3,11,would,adjunct setup,what_gap_adj-front,would,2.229785919189453,google,False,False
+961,961,3,12,get,adjunct setup,what_gap_adj-front,get,5.706362724304199,google,False,False
+962,962,3,13,really,adjunct setup,what_gap_adj-front,really,9.987800598144533,google,False,False
+963,963,3,14,upset,adjunct setup,what_gap_adj-front,upset,1.5806078910827637,google,False,False
+964,964,3,16,.,End,what_gap_adj-front,.,1.7892329692840576,google,False,False
+965,965,3,17,<eos>,End,what_gap_adj-front,<eos>,0.0,google,False,True
+966,966,4,0,I,prefix,what_gap_adj-front,I,0.0,google,False,False
+967,967,4,1,know,prefix,what_gap_adj-front,know,12.60753345489502,google,False,False
+968,968,4,2,what,what,what_gap_adj-front,what,6.455548286437987,google,False,False
+969,969,4,3,if,preposition,what_gap_adj-front,if,14.67414665222168,google,False,False
+970,970,4,4,they,subject,what_gap_adj-front,they,4.809127330780028,google,False,False
+971,971,4,5,are,verb,what_gap_adj-front,are,4.407017230987549,google,False,False
+972,972,4,6,told,verb,what_gap_adj-front,told,9.441702842712402,google,False,False
+973,973,4,7,to,verb,what_gap_adj-front,to,1.9081157445907595,google,False,False
+974,974,4,8,do,verb,what_gap_adj-front,do,3.838728189468384,google,False,False
+975,975,4,9,in,continuation,what_gap_adj-front,in,10.99958324432373,google,False,False
+976,976,4,10,the,continuation,what_gap_adj-front,the,2.5321054458618164,google,False,False
+977,977,4,11,morning,continuation,what_gap_adj-front,morning,4.821348190307617,google,False,False
+978,978,4,12,the,adjunct setup,what_gap_adj-front,the,6.700035572052003,google,False,False
+979,979,4,13,kids,adjunct setup,what_gap_adj-front,kids,6.74388313293457,google,False,False
+980,980,4,14,get,adjunct setup,what_gap_adj-front,get,5.926311016082764,google,False,False
+981,981,4,15,grumpy,adjunct setup,what_gap_adj-front,grumpy,12.328095436096193,google,False,False
+982,982,4,17,.,End,what_gap_adj-front,.,2.5624566078186035,google,False,False
+983,983,4,18,<eos>,End,what_gap_adj-front,<eos>,0.0,google,False,True
+0,0,0,0,I,prefix,that_no-gap_obj,I,0.0,gulordava,False,False
+1,1,0,1,know,prefix,that_no-gap_obj,know,6.27811336517334,gulordava,False,False
+2,2,0,2,that,that,that_no-gap_obj,that,2.352034091949463,gulordava,False,False
+3,3,0,3,they,subject,that_no-gap_obj,they,5.194037437438965,gulordava,False,False
+4,4,0,4,likely,modifier,that_no-gap_obj,likely,13.797528266906738,gulordava,False,False
+5,5,0,5,could,verb,that_no-gap_obj,could,7.124866962432861,gulordava,False,False
+6,6,0,6,speak,verb,that_no-gap_obj,speak,8.98930549621582,gulordava,False,False
+7,7,0,7,to,verb,that_no-gap_obj,to,3.5848257541656494,gulordava,False,False
+8,8,0,8,the,object,that_no-gap_obj,the,2.587965488433838,gulordava,False,False
+9,9,0,9,reporter,object,that_no-gap_obj,reporter,13.352188110351562,gulordava,False,False
+10,10,0,10,in,continuation,that_no-gap_obj,in,5.129819393157959,gulordava,False,False
+11,11,0,11,private,continuation,that_no-gap_obj,private,11.25418186187744,gulordava,False,False
+12,12,0,13,.,End,that_no-gap_obj,.,1.5223968029022217,gulordava,False,False
+13,13,0,14,<eos>,End,that_no-gap_obj,<eos>,-0.0,gulordava,False,True
+14,14,1,0,I,prefix,that_no-gap_obj,I,0.0,gulordava,False,False
+15,15,1,1,know,prefix,that_no-gap_obj,know,6.27811336517334,gulordava,False,False
+16,16,1,2,that,that,that_no-gap_obj,that,2.352034091949463,gulordava,False,False
+17,17,1,3,we,subject,that_no-gap_obj,we,6.250667095184326,gulordava,False,False
+18,18,1,4,sometimes,modifier,that_no-gap_obj,sometimes,11.515029907226562,gulordava,False,False
+19,19,1,5,cleaned,verb,that_no-gap_obj,cleaned,16.811588287353516,gulordava,False,False
+20,20,1,6,the,object,that_no-gap_obj,the,2.8337650299072266,gulordava,False,False
+21,21,1,7,classroom,object,that_no-gap_obj,classroom,14.364521980285645,gulordava,False,False
+22,22,1,8,during,continuation,that_no-gap_obj,during,8.251389503479004,gulordava,False,False
+23,23,1,9,the,continuation,that_no-gap_obj,the,1.244554877281189,gulordava,False,False
+24,24,1,10,break,continuation,that_no-gap_obj,break,10.999451637268066,gulordava,False,False
+25,25,1,12,.,End,that_no-gap_obj,.,1.5399394035339355,gulordava,False,False
+26,26,1,13,<eos>,End,that_no-gap_obj,<eos>,-0.0,gulordava,False,True
+27,27,2,0,I,prefix,that_no-gap_obj,I,0.0,gulordava,False,False
+28,28,2,1,know,prefix,that_no-gap_obj,know,6.27811336517334,gulordava,False,False
+29,29,2,2,that,that,that_no-gap_obj,that,2.352034091949463,gulordava,False,False
+30,30,2,3,she,subject,that_no-gap_obj,she,6.736458778381348,gulordava,False,False
+31,31,2,4,unfortunately,modifier,that_no-gap_obj,unfortunately,17.552637100219727,gulordava,False,False
+32,32,2,5,missed,verb,that_no-gap_obj,missed,8.63020133972168,gulordava,False,False
+33,33,2,6,the,object,that_no-gap_obj,the,1.2250900268554688,gulordava,False,False
+34,34,2,7,reception,object,that_no-gap_obj,reception,11.798653602600098,gulordava,False,False
+35,35,2,8,in,continuation,that_no-gap_obj,in,5.9974236488342285,gulordava,False,False
+36,36,2,9,the,continuation,that_no-gap_obj,the,1.6185613870620728,gulordava,False,False
+37,37,2,10,evening,continuation,that_no-gap_obj,evening,8.346973419189451,gulordava,False,False
+38,38,2,12,.,End,that_no-gap_obj,.,1.9661433696746824,gulordava,False,False
+39,39,2,13,<eos>,End,that_no-gap_obj,<eos>,-0.0,gulordava,False,True
+40,40,3,0,I,prefix,that_no-gap_obj,I,0.0,gulordava,False,False
+41,41,3,1,know,prefix,that_no-gap_obj,know,6.27811336517334,gulordava,False,False
+42,42,3,2,that,that,that_no-gap_obj,that,2.352034091949463,gulordava,False,False
+43,43,3,3,he,subject,that_no-gap_obj,he,4.1809797286987305,gulordava,False,False
+44,44,3,4,often,modifier,that_no-gap_obj,often,11.108988761901855,gulordava,False,False
+45,45,3,5,forgot,verb,that_no-gap_obj,forgot,9.622858047485352,gulordava,False,False
+46,46,3,6,the,object,that_no-gap_obj,the,3.331125497817993,gulordava,False,False
+47,47,3,7,diapers,object,that_no-gap_obj,<unk>,3.5471737384796143,gulordava,True,False
+48,48,3,8,in,continuation,that_no-gap_obj,in,5.6491026878356925,gulordava,False,False
+49,49,3,9,the,continuation,that_no-gap_obj,the,2.2737603187561035,gulordava,False,False
+50,50,3,10,car,continuation,that_no-gap_obj,car,11.493617057800293,gulordava,False,False
+51,51,3,12,.,End,that_no-gap_obj,.,1.7150436639785769,gulordava,False,False
+52,52,3,13,<eos>,End,that_no-gap_obj,<eos>,-0.0,gulordava,False,True
+53,53,4,0,I,prefix,that_no-gap_obj,I,0.0,gulordava,False,False
+54,54,4,1,know,prefix,that_no-gap_obj,know,6.27811336517334,gulordava,False,False
+55,55,4,2,that,that,that_no-gap_obj,that,2.352034091949463,gulordava,False,False
+56,56,4,3,they,subject,that_no-gap_obj,they,5.194037437438965,gulordava,False,False
+57,57,4,4,usually,modifier,that_no-gap_obj,usually,11.452400207519533,gulordava,False,False
+58,58,4,5,are,verb,that_no-gap_obj,are,4.958910465240479,gulordava,False,False
+59,59,4,6,told,verb,that_no-gap_obj,told,10.04674243927002,gulordava,False,False
+60,60,4,7,to,verb,that_no-gap_obj,to,2.637789249420166,gulordava,False,False
+61,61,4,8,do,verb,that_no-gap_obj,do,4.889955520629883,gulordava,False,False
+62,62,4,9,the,object,that_no-gap_obj,the,3.5304510593414307,gulordava,False,False
+63,63,4,10,homework,object,that_no-gap_obj,homework,8.538510322570799,gulordava,False,False
+64,64,4,11,in,continuation,that_no-gap_obj,in,5.177251815795898,gulordava,False,False
+65,65,4,12,the,continuation,that_no-gap_obj,the,2.446540117263794,gulordava,False,False
+66,66,4,13,morning,continuation,that_no-gap_obj,morning,4.494311809539795,gulordava,False,False
+67,67,4,15,.,End,that_no-gap_obj,.,1.5889450311660769,gulordava,False,False
+68,68,4,16,<eos>,End,that_no-gap_obj,<eos>,-0.0,gulordava,False,True
+69,69,0,0,I,prefix,that_gap_obj,I,0.0,gulordava,False,False
+70,70,0,1,know,prefix,that_gap_obj,know,6.27811336517334,gulordava,False,False
+71,71,0,2,that,that,that_gap_obj,that,2.352034091949463,gulordava,False,False
+72,72,0,3,they,subject,that_gap_obj,they,5.194037437438965,gulordava,False,False
+73,73,0,4,likely,modifier,that_gap_obj,likely,13.797528266906738,gulordava,False,False
+74,74,0,5,could,verb,that_gap_obj,could,7.124866962432861,gulordava,False,False
+75,75,0,6,speak,verb,that_gap_obj,speak,8.98930549621582,gulordava,False,False
+76,76,0,7,to,verb,that_gap_obj,to,3.5848257541656494,gulordava,False,False
+77,77,0,8,in,continuation,that_gap_obj,in,11.204512596130373,gulordava,False,False
+78,78,0,9,private,continuation,that_gap_obj,private,10.542085647583008,gulordava,False,False
+79,79,0,11,.,End,that_gap_obj,.,2.291900396347046,gulordava,False,False
+80,80,0,12,<eos>,End,that_gap_obj,<eos>,-0.0,gulordava,False,True
+81,81,1,0,I,prefix,that_gap_obj,I,0.0,gulordava,False,False
+82,82,1,1,know,prefix,that_gap_obj,know,6.27811336517334,gulordava,False,False
+83,83,1,2,that,that,that_gap_obj,that,2.352034091949463,gulordava,False,False
+84,84,1,3,we,subject,that_gap_obj,we,6.250667095184326,gulordava,False,False
+85,85,1,4,sometimes,modifier,that_gap_obj,sometimes,11.515029907226562,gulordava,False,False
+86,86,1,5,cleaned,verb,that_gap_obj,cleaned,16.811588287353516,gulordava,False,False
+87,87,1,6,during,continuation,that_gap_obj,during,14.088805198669435,gulordava,False,False
+88,88,1,7,the,continuation,that_gap_obj,the,1.2675155401229858,gulordava,False,False
+89,89,1,8,break,continuation,that_gap_obj,break,10.982952117919922,gulordava,False,False
+90,90,1,10,.,End,that_gap_obj,.,1.9311085939407349,gulordava,False,False
+91,91,1,11,<eos>,End,that_gap_obj,<eos>,-0.0,gulordava,False,True
+92,92,2,0,I,prefix,that_gap_obj,I,0.0,gulordava,False,False
+93,93,2,1,know,prefix,that_gap_obj,know,6.27811336517334,gulordava,False,False
+94,94,2,2,that,that,that_gap_obj,that,2.352034091949463,gulordava,False,False
+95,95,2,3,she,subject,that_gap_obj,she,6.736458778381348,gulordava,False,False
+96,96,2,4,unfortunately,modifier,that_gap_obj,unfortunately,17.552637100219727,gulordava,False,False
+97,97,2,5,missed,verb,that_gap_obj,missed,8.63020133972168,gulordava,False,False
+98,98,2,6,in,continuation,that_gap_obj,in,8.375382423400879,gulordava,False,False
+99,99,2,7,the,continuation,that_gap_obj,the,1.0300618410110474,gulordava,False,False
+100,100,2,8,evening,continuation,that_gap_obj,evening,7.930935382843018,gulordava,False,False
+101,101,2,10,.,End,that_gap_obj,.,2.2331748008728027,gulordava,False,False
+102,102,2,11,<eos>,End,that_gap_obj,<eos>,-0.0,gulordava,False,True
+103,103,3,0,I,prefix,that_gap_obj,I,0.0,gulordava,False,False
+104,104,3,1,know,prefix,that_gap_obj,know,6.27811336517334,gulordava,False,False
+105,105,3,2,that,that,that_gap_obj,that,2.352034091949463,gulordava,False,False
+106,106,3,3,he,subject,that_gap_obj,he,4.1809797286987305,gulordava,False,False
+107,107,3,4,often,modifier,that_gap_obj,often,11.108988761901855,gulordava,False,False
+108,108,3,5,forgot,verb,that_gap_obj,forgot,9.622858047485352,gulordava,False,False
+109,109,3,6,in,continuation,that_gap_obj,in,7.283825874328612,gulordava,False,False
+110,110,3,7,the,continuation,that_gap_obj,the,2.1733193397521973,gulordava,False,False
+111,111,3,8,car,continuation,that_gap_obj,car,11.885208129882812,gulordava,False,False
+112,112,3,10,.,End,that_gap_obj,.,2.8059003353118896,gulordava,False,False
+113,113,3,11,<eos>,End,that_gap_obj,<eos>,-0.0,gulordava,False,True
+114,114,4,0,I,prefix,that_gap_obj,I,0.0,gulordava,False,False
+115,115,4,1,know,prefix,that_gap_obj,know,6.27811336517334,gulordava,False,False
+116,116,4,2,that,that,that_gap_obj,that,2.352034091949463,gulordava,False,False
+117,117,4,3,they,subject,that_gap_obj,they,5.194037437438965,gulordava,False,False
+118,118,4,4,usually,modifier,that_gap_obj,usually,11.452400207519533,gulordava,False,False
+119,119,4,5,are,verb,that_gap_obj,are,4.958910465240479,gulordava,False,False
+120,120,4,6,told,verb,that_gap_obj,told,10.04674243927002,gulordava,False,False
+121,121,4,7,to,verb,that_gap_obj,to,2.637789249420166,gulordava,False,False
+122,122,4,8,do,verb,that_gap_obj,do,4.889955520629883,gulordava,False,False
+123,123,4,9,in,continuation,that_gap_obj,in,8.886663436889648,gulordava,False,False
+124,124,4,10,the,continuation,that_gap_obj,the,1.8495489358901975,gulordava,False,False
+125,125,4,11,morning,continuation,that_gap_obj,morning,5.6563167572021475,gulordava,False,False
+126,126,4,13,.,End,that_gap_obj,.,1.7629603147506714,gulordava,False,False
+127,127,4,14,<eos>,End,that_gap_obj,<eos>,-0.0,gulordava,False,True
+128,128,0,0,I,prefix,what_no-gap_obj,I,0.0,gulordava,False,False
+129,129,0,1,know,prefix,what_no-gap_obj,know,6.27811336517334,gulordava,False,False
+130,130,0,2,who,what,what_no-gap_obj,who,6.579617977142334,gulordava,False,False
+131,131,0,3,they,subject,what_no-gap_obj,they,6.565585613250732,gulordava,False,False
+132,132,0,4,likely,modifier,what_no-gap_obj,likely,15.094443321228027,gulordava,False,False
+133,133,0,5,could,verb,what_no-gap_obj,could,5.37205696105957,gulordava,False,False
+134,134,0,6,speak,verb,what_no-gap_obj,speak,8.807765007019043,gulordava,False,False
+135,135,0,7,to,verb,what_no-gap_obj,to,4.134007930755615,gulordava,False,False
+136,136,0,8,the,object,what_no-gap_obj,the,3.14475154876709,gulordava,False,False
+137,137,0,9,reporter,object,what_no-gap_obj,reporter,13.361001968383787,gulordava,False,False
+138,138,0,10,in,continuation,what_no-gap_obj,in,5.354931831359863,gulordava,False,False
+139,139,0,11,private,continuation,what_no-gap_obj,private,11.395212173461914,gulordava,False,False
+140,140,0,13,.,End,what_no-gap_obj,.,1.1909587383270264,gulordava,False,False
+141,141,0,14,<eos>,End,what_no-gap_obj,<eos>,-0.0,gulordava,False,True
+142,142,1,0,I,prefix,what_no-gap_obj,I,0.0,gulordava,False,False
+143,143,1,1,know,prefix,what_no-gap_obj,know,6.27811336517334,gulordava,False,False
+144,144,1,2,what,what,what_no-gap_obj,what,4.560976505279541,gulordava,False,False
+145,145,1,3,we,subject,what_no-gap_obj,we,5.75532865524292,gulordava,False,False
+146,146,1,4,sometimes,modifier,what_no-gap_obj,sometimes,12.448291778564453,gulordava,False,False
+147,147,1,5,cleaned,verb,what_no-gap_obj,cleaned,18.60826110839844,gulordava,False,False
+148,148,1,6,the,object,what_no-gap_obj,the,6.770050048828125,gulordava,False,False
+149,149,1,7,classroom,object,what_no-gap_obj,classroom,14.36983585357666,gulordava,False,False
+150,150,1,8,during,continuation,what_no-gap_obj,during,9.191429138183594,gulordava,False,False
+151,151,1,9,the,continuation,what_no-gap_obj,the,1.17137348651886,gulordava,False,False
+152,152,1,10,break,continuation,what_no-gap_obj,break,11.687982559204102,gulordava,False,False
+153,153,1,12,.,End,what_no-gap_obj,.,1.3741111755371094,gulordava,False,False
+154,154,1,13,<eos>,End,what_no-gap_obj,<eos>,-0.0,gulordava,False,True
+155,155,2,0,I,prefix,what_no-gap_obj,I,0.0,gulordava,False,False
+156,156,2,1,know,prefix,what_no-gap_obj,know,6.27811336517334,gulordava,False,False
+157,157,2,2,what,what,what_no-gap_obj,what,4.560976505279541,gulordava,False,False
+158,158,2,3,she,subject,what_no-gap_obj,she,6.608531951904298,gulordava,False,False
+159,159,2,4,unfortunately,modifier,what_no-gap_obj,unfortunately,18.71714401245117,gulordava,False,False
+160,160,2,5,missed,verb,what_no-gap_obj,missed,11.842817306518555,gulordava,False,False
+161,161,2,6,the,object,what_no-gap_obj,the,3.1901149749755864,gulordava,False,False
+162,162,2,7,reception,object,what_no-gap_obj,reception,11.829874038696287,gulordava,False,False
+163,163,2,8,in,continuation,what_no-gap_obj,in,6.3011226654052725,gulordava,False,False
+164,164,2,9,the,continuation,what_no-gap_obj,the,1.6077041625976562,gulordava,False,False
+165,165,2,10,evening,continuation,what_no-gap_obj,evening,7.631404399871826,gulordava,False,False
+166,166,2,12,.,End,what_no-gap_obj,.,1.4209364652633667,gulordava,False,False
+167,167,2,13,<eos>,End,what_no-gap_obj,<eos>,-0.0,gulordava,False,True
+168,168,3,0,I,prefix,what_no-gap_obj,I,0.0,gulordava,False,False
+169,169,3,1,know,prefix,what_no-gap_obj,know,6.27811336517334,gulordava,False,False
+170,170,3,2,what,what,what_no-gap_obj,what,4.560976505279541,gulordava,False,False
+171,171,3,3,he,subject,what_no-gap_obj,he,4.313631057739259,gulordava,False,False
+172,172,3,4,often,modifier,what_no-gap_obj,often,11.735198974609375,gulordava,False,False
+173,173,3,5,forgot,verb,what_no-gap_obj,forgot,11.511147499084473,gulordava,False,False
+174,174,3,6,the,object,what_no-gap_obj,the,7.660819053649902,gulordava,False,False
+175,175,3,7,diapers,object,what_no-gap_obj,<unk>,3.831308841705322,gulordava,True,False
+176,176,3,8,in,continuation,what_no-gap_obj,in,6.0664544105529785,gulordava,False,False
+177,177,3,9,the,continuation,what_no-gap_obj,the,2.17950177192688,gulordava,False,False
+178,178,3,10,car,continuation,what_no-gap_obj,car,10.117667198181152,gulordava,False,False
+179,179,3,12,.,End,what_no-gap_obj,.,1.477546215057373,gulordava,False,False
+180,180,3,13,<eos>,End,what_no-gap_obj,<eos>,-0.0,gulordava,False,True
+181,181,4,0,I,prefix,what_no-gap_obj,I,0.0,gulordava,False,False
+182,182,4,1,know,prefix,what_no-gap_obj,know,6.27811336517334,gulordava,False,False
+183,183,4,2,what,what,what_no-gap_obj,what,4.560976505279541,gulordava,False,False
+184,184,4,3,they,subject,what_no-gap_obj,they,4.785127639770508,gulordava,False,False
+185,185,4,4,usually,modifier,what_no-gap_obj,usually,13.512990951538086,gulordava,False,False
+186,186,4,5,are,verb,what_no-gap_obj,are,5.736767292022705,gulordava,False,False
+187,187,4,6,told,verb,what_no-gap_obj,told,7.629518508911133,gulordava,False,False
+188,188,4,7,to,verb,what_no-gap_obj,to,3.4420387744903564,gulordava,False,False
+189,189,4,8,do,verb,what_no-gap_obj,do,2.707477331161499,gulordava,False,False
+190,190,4,9,the,object,what_no-gap_obj,the,8.407282829284668,gulordava,False,False
+191,191,4,10,homework,object,what_no-gap_obj,homework,10.661420822143556,gulordava,False,False
+192,192,4,11,in,continuation,what_no-gap_obj,in,5.678958415985107,gulordava,False,False
+193,193,4,12,the,continuation,what_no-gap_obj,the,2.4745028018951416,gulordava,False,False
+194,194,4,13,morning,continuation,what_no-gap_obj,morning,4.737673282623291,gulordava,False,False
+195,195,4,15,.,End,what_no-gap_obj,.,1.2467087507247925,gulordava,False,False
+196,196,4,16,<eos>,End,what_no-gap_obj,<eos>,-0.0,gulordava,False,True
+197,197,0,0,I,prefix,what_gap_obj,I,0.0,gulordava,False,False
+198,198,0,1,know,prefix,what_gap_obj,know,6.27811336517334,gulordava,False,False
+199,199,0,2,who,what,what_gap_obj,who,6.579617977142334,gulordava,False,False
+200,200,0,3,they,subject,what_gap_obj,they,6.565585613250732,gulordava,False,False
+201,201,0,4,likely,modifier,what_gap_obj,likely,15.094443321228027,gulordava,False,False
+202,202,0,5,could,verb,what_gap_obj,could,5.37205696105957,gulordava,False,False
+203,203,0,6,speak,verb,what_gap_obj,speak,8.807765007019043,gulordava,False,False
+204,204,0,7,to,verb,what_gap_obj,to,4.134007930755615,gulordava,False,False
+205,205,0,8,in,continuation,what_gap_obj,in,6.633604049682617,gulordava,False,False
+206,206,0,9,private,continuation,what_gap_obj,private,10.648625373840332,gulordava,False,False
+207,207,0,11,.,End,what_gap_obj,.,1.6312377452850342,gulordava,False,False
+208,208,0,12,<eos>,End,what_gap_obj,<eos>,-0.0,gulordava,False,True
+209,209,1,0,I,prefix,what_gap_obj,I,0.0,gulordava,False,False
+210,210,1,1,know,prefix,what_gap_obj,know,6.27811336517334,gulordava,False,False
+211,211,1,2,what,what,what_gap_obj,what,4.560976505279541,gulordava,False,False
+212,212,1,3,we,subject,what_gap_obj,we,5.75532865524292,gulordava,False,False
+213,213,1,4,sometimes,modifier,what_gap_obj,sometimes,12.448291778564453,gulordava,False,False
+214,214,1,5,cleaned,verb,what_gap_obj,cleaned,18.60826110839844,gulordava,False,False
+215,215,1,6,during,continuation,what_gap_obj,during,8.569852828979492,gulordava,False,False
+216,216,1,7,the,continuation,what_gap_obj,the,1.188672661781311,gulordava,False,False
+217,217,1,8,break,continuation,what_gap_obj,break,10.845788955688477,gulordava,False,False
+218,218,1,10,.,End,what_gap_obj,.,1.3115921020507812,gulordava,False,False
+219,219,1,11,<eos>,End,what_gap_obj,<eos>,-0.0,gulordava,False,True
+220,220,2,0,I,prefix,what_gap_obj,I,0.0,gulordava,False,False
+221,221,2,1,know,prefix,what_gap_obj,know,6.27811336517334,gulordava,False,False
+222,222,2,2,what,what,what_gap_obj,what,4.560976505279541,gulordava,False,False
+223,223,2,3,she,subject,what_gap_obj,she,6.608531951904298,gulordava,False,False
+224,224,2,4,unfortunately,modifier,what_gap_obj,unfortunately,18.71714401245117,gulordava,False,False
+225,225,2,5,missed,verb,what_gap_obj,missed,11.842817306518555,gulordava,False,False
+226,226,2,6,in,continuation,what_gap_obj,in,5.009317398071289,gulordava,False,False
+227,227,2,7,the,continuation,what_gap_obj,the,1.2278579473495483,gulordava,False,False
+228,228,2,8,evening,continuation,what_gap_obj,evening,8.475142478942871,gulordava,False,False
+229,229,2,10,.,End,what_gap_obj,.,1.358084201812744,gulordava,False,False
+230,230,2,11,<eos>,End,what_gap_obj,<eos>,-0.0,gulordava,False,True
+231,231,3,0,I,prefix,what_gap_obj,I,0.0,gulordava,False,False
+232,232,3,1,know,prefix,what_gap_obj,know,6.27811336517334,gulordava,False,False
+233,233,3,2,what,what,what_gap_obj,what,4.560976505279541,gulordava,False,False
+234,234,3,3,he,subject,what_gap_obj,he,4.313631057739259,gulordava,False,False
+235,235,3,4,often,modifier,what_gap_obj,often,11.735198974609375,gulordava,False,False
+236,236,3,5,forgot,verb,what_gap_obj,forgot,11.511147499084473,gulordava,False,False
+237,237,3,6,in,continuation,what_gap_obj,in,5.511977195739746,gulordava,False,False
+238,238,3,7,the,continuation,what_gap_obj,the,1.7996882200241089,gulordava,False,False
+239,239,3,8,car,continuation,what_gap_obj,car,11.26632308959961,gulordava,False,False
+240,240,3,10,.,End,what_gap_obj,.,1.4353694915771484,gulordava,False,False
+241,241,3,11,<eos>,End,what_gap_obj,<eos>,-0.0,gulordava,False,True
+242,242,4,0,I,prefix,what_gap_obj,I,0.0,gulordava,False,False
+243,243,4,1,know,prefix,what_gap_obj,know,6.27811336517334,gulordava,False,False
+244,244,4,2,what,what,what_gap_obj,what,4.560976505279541,gulordava,False,False
+245,245,4,3,they,subject,what_gap_obj,they,4.785127639770508,gulordava,False,False
+246,246,4,4,usually,modifier,what_gap_obj,usually,13.512990951538086,gulordava,False,False
+247,247,4,5,are,verb,what_gap_obj,are,5.736767292022705,gulordava,False,False
+248,248,4,6,told,verb,what_gap_obj,told,7.629518508911133,gulordava,False,False
+249,249,4,7,to,verb,what_gap_obj,to,3.4420387744903564,gulordava,False,False
+250,250,4,8,do,verb,what_gap_obj,do,2.707477331161499,gulordava,False,False
+251,251,4,9,in,continuation,what_gap_obj,in,4.275294780731201,gulordava,False,False
+252,252,4,10,the,continuation,what_gap_obj,the,1.470948338508606,gulordava,False,False
+253,253,4,11,morning,continuation,what_gap_obj,morning,5.739053249359131,gulordava,False,False
+254,254,4,13,.,End,what_gap_obj,.,1.2607717514038086,gulordava,False,False
+255,255,4,14,<eos>,End,what_gap_obj,<eos>,-0.0,gulordava,False,True
+256,256,0,0,I,prefix,that_no-gap_adj-back,I,0.0,gulordava,False,False
+257,257,0,1,know,prefix,that_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+258,258,0,2,that,that,that_no-gap_adj-back,that,2.352034091949463,gulordava,False,False
+259,259,0,3,the,adjunct setup,that_no-gap_adj-back,the,2.3551278114318848,gulordava,False,False
+260,260,0,4,students,adjunct setup,that_no-gap_adj-back,students,11.440431594848633,gulordava,False,False
+261,261,0,5,would,adjunct setup,that_no-gap_adj-back,would,6.078172206878662,gulordava,False,False
+262,262,0,6,be,adjunct setup,that_no-gap_adj-back,be,2.583058357238769,gulordava,False,False
+263,263,0,7,really,adjunct setup,that_no-gap_adj-back,really,9.040613174438477,gulordava,False,False
+264,264,0,8,happy,adjunct setup,that_no-gap_adj-back,happy,5.860775947570801,gulordava,False,False
+265,265,0,9,if,preposition,that_no-gap_adj-back,if,7.29829740524292,gulordava,False,False
+266,266,0,10,they,subject,that_no-gap_adj-back,they,1.3096309900283811,gulordava,False,False
+267,267,0,11,could,verb,that_no-gap_adj-back,could,4.75248384475708,gulordava,False,False
+268,268,0,12,speak,verb,that_no-gap_adj-back,speak,7.84624719619751,gulordava,False,False
+269,269,0,13,to,verb,that_no-gap_adj-back,to,3.5343701839447017,gulordava,False,False
+270,270,0,14,the,object,that_no-gap_adj-back,the,2.858414888381958,gulordava,False,False
+271,271,0,15,reporter,object,that_no-gap_adj-back,reporter,12.870160102844238,gulordava,False,False
+272,272,0,16,in,continuation,that_no-gap_adj-back,in,5.810252189636231,gulordava,False,False
+273,273,0,17,private,continuation,that_no-gap_adj-back,private,11.252680778503418,gulordava,False,False
+274,274,0,19,.,End,that_no-gap_adj-back,.,1.2307897806167605,gulordava,False,False
+275,275,0,20,<eos>,End,that_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+276,276,1,0,I,prefix,that_no-gap_adj-back,I,0.0,gulordava,False,False
+277,277,1,1,know,prefix,that_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+278,278,1,2,that,that,that_no-gap_adj-back,that,2.352034091949463,gulordava,False,False
+279,279,1,3,the,adjunct setup,that_no-gap_adj-back,the,2.3551278114318848,gulordava,False,False
+280,280,1,4,teacher,adjunct setup,that_no-gap_adj-back,teacher,13.115328788757324,gulordava,False,False
+281,281,1,5,would,adjunct setup,that_no-gap_adj-back,would,6.102537631988525,gulordava,False,False
+282,282,1,6,be,adjunct setup,that_no-gap_adj-back,be,2.7641520500183105,gulordava,False,False
+283,283,1,7,impressed,adjunct setup,that_no-gap_adj-back,impressed,11.06385612487793,gulordava,False,False
+284,284,1,8,if,preposition,that_no-gap_adj-back,if,8.156023025512695,gulordava,False,False
+285,285,1,9,we,subject,that_no-gap_adj-back,we,6.5875797271728525,gulordava,False,False
+286,286,1,10,cleaned,verb,that_no-gap_adj-back,cleaned,15.514819145202635,gulordava,False,False
+287,287,1,11,the,object,that_no-gap_adj-back,the,2.0915207862854004,gulordava,False,False
+288,288,1,12,classroom,object,that_no-gap_adj-back,classroom,11.063920974731444,gulordava,False,False
+289,289,1,13,during,continuation,that_no-gap_adj-back,during,8.30284595489502,gulordava,False,False
+290,290,1,14,the,continuation,that_no-gap_adj-back,the,1.1495311260223389,gulordava,False,False
+291,291,1,15,break,continuation,that_no-gap_adj-back,break,10.46034336090088,gulordava,False,False
+292,292,1,17,.,End,that_no-gap_adj-back,.,1.400965690612793,gulordava,False,False
+293,293,1,18,<eos>,End,that_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+294,294,2,0,I,prefix,that_no-gap_adj-back,I,0.0,gulordava,False,False
+295,295,2,1,know,prefix,that_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+296,296,2,2,that,that,that_no-gap_adj-back,that,2.352034091949463,gulordava,False,False
+297,297,2,3,the,adjunct setup,that_no-gap_adj-back,the,2.3551278114318848,gulordava,False,False
+298,298,2,4,bride,adjunct setup,that_no-gap_adj-back,bride,14.412259101867676,gulordava,False,False
+299,299,2,5,would,adjunct setup,that_no-gap_adj-back,would,5.346220970153809,gulordava,False,False
+300,300,2,6,get,adjunct setup,that_no-gap_adj-back,get,6.906890869140625,gulordava,False,False
+301,301,2,7,very,adjunct setup,that_no-gap_adj-back,very,7.969651222229004,gulordava,False,False
+302,302,2,8,angry,adjunct setup,that_no-gap_adj-back,angry,6.0724120140075675,gulordava,False,False
+303,303,2,9,if,preposition,that_no-gap_adj-back,if,5.317945957183838,gulordava,False,False
+304,304,2,10,she,subject,that_no-gap_adj-back,she,2.0909223556518555,gulordava,False,False
+305,305,2,11,missed,verb,that_no-gap_adj-back,missed,9.92270565032959,gulordava,False,False
+306,306,2,12,the,object,that_no-gap_adj-back,the,1.339433670043945,gulordava,False,False
+307,307,2,13,reception,object,that_no-gap_adj-back,reception,10.915096282958984,gulordava,False,False
+308,308,2,14,in,continuation,that_no-gap_adj-back,in,6.649369716644287,gulordava,False,False
+309,309,2,15,the,continuation,that_no-gap_adj-back,the,1.776448369026184,gulordava,False,False
+310,310,2,16,evening,continuation,that_no-gap_adj-back,evening,6.570596218109131,gulordava,False,False
+311,311,2,18,.,End,that_no-gap_adj-back,.,1.3193540573120115,gulordava,False,False
+312,312,2,19,<eos>,End,that_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+313,313,3,0,I,prefix,that_no-gap_adj-back,I,0.0,gulordava,False,False
+314,314,3,1,know,prefix,that_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+315,315,3,2,that,that,that_no-gap_adj-back,that,2.352034091949463,gulordava,False,False
+316,316,3,3,the,adjunct setup,that_no-gap_adj-back,the,2.3551278114318848,gulordava,False,False
+317,317,3,4,father,adjunct setup,that_no-gap_adj-back,father,10.76327896118164,gulordava,False,False
+318,318,3,5,would,adjunct setup,that_no-gap_adj-back,would,5.8414855003356925,gulordava,False,False
+319,319,3,6,get,adjunct setup,that_no-gap_adj-back,get,6.9323272705078125,gulordava,False,False
+320,320,3,7,really,adjunct setup,that_no-gap_adj-back,really,11.826189041137695,gulordava,False,False
+321,321,3,8,upset,adjunct setup,that_no-gap_adj-back,upset,5.730034828186035,gulordava,False,False
+322,322,3,9,if,preposition,that_no-gap_adj-back,if,6.451144218444824,gulordava,False,False
+323,323,3,10,he,subject,that_no-gap_adj-back,he,1.879549503326416,gulordava,False,False
+324,324,3,11,forgot,verb,that_no-gap_adj-back,forgot,10.52214813232422,gulordava,False,False
+325,325,3,12,the,object,that_no-gap_adj-back,the,3.340644121170044,gulordava,False,False
+326,326,3,13,diapers,object,that_no-gap_adj-back,<unk>,4.066830635070802,gulordava,True,False
+327,327,3,14,in,continuation,that_no-gap_adj-back,in,6.1424560546875,gulordava,False,False
+328,328,3,15,the,continuation,that_no-gap_adj-back,the,2.0195274353027344,gulordava,False,False
+329,329,3,16,car,continuation,that_no-gap_adj-back,car,9.83965015411377,gulordava,False,False
+330,330,3,18,.,End,that_no-gap_adj-back,.,1.2254929542541504,gulordava,False,False
+331,331,3,19,<eos>,End,that_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+332,332,4,0,I,prefix,that_no-gap_adj-back,I,0.0,gulordava,False,False
+333,333,4,1,know,prefix,that_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+334,334,4,2,that,that,that_no-gap_adj-back,that,2.352034091949463,gulordava,False,False
+335,335,4,3,the,adjunct setup,that_no-gap_adj-back,the,2.3551278114318848,gulordava,False,False
+336,336,4,4,kids,adjunct setup,that_no-gap_adj-back,kids,10.888583183288574,gulordava,False,False
+337,337,4,5,get,adjunct setup,that_no-gap_adj-back,get,5.9129066467285165,gulordava,False,False
+338,338,4,6,grumpy,adjunct setup,that_no-gap_adj-back,<unk>,6.103036403656006,gulordava,True,False
+339,339,4,7,if,preposition,that_no-gap_adj-back,if,9.132633209228516,gulordava,False,False
+340,340,4,8,they,subject,that_no-gap_adj-back,they,1.2462400197982788,gulordava,False,False
+341,341,4,9,are,verb,that_no-gap_adj-back,are,2.849933862686157,gulordava,False,False
+342,342,4,10,told,verb,that_no-gap_adj-back,told,8.805938720703125,gulordava,False,False
+343,343,4,11,to,verb,that_no-gap_adj-back,to,3.059534072875977,gulordava,False,False
+344,344,4,12,do,verb,that_no-gap_adj-back,do,4.0449299812316895,gulordava,False,False
+345,345,4,13,the,object,that_no-gap_adj-back,the,4.005500793457031,gulordava,False,False
+346,346,4,14,homework,object,that_no-gap_adj-back,homework,6.224623680114746,gulordava,False,False
+347,347,4,15,in,continuation,that_no-gap_adj-back,in,6.210793495178223,gulordava,False,False
+348,348,4,16,the,continuation,that_no-gap_adj-back,the,2.5543243885040283,gulordava,False,False
+349,349,4,17,morning,continuation,that_no-gap_adj-back,morning,5.961362361907959,gulordava,False,False
+350,350,4,19,.,End,that_no-gap_adj-back,.,1.1116517782211304,gulordava,False,False
+351,351,4,20,<eos>,End,that_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+352,352,0,0,I,prefix,that_gap_adj-back,I,0.0,gulordava,False,False
+353,353,0,1,know,prefix,that_gap_adj-back,know,6.27811336517334,gulordava,False,False
+354,354,0,2,that,that,that_gap_adj-back,that,2.352034091949463,gulordava,False,False
+355,355,0,3,the,adjunct setup,that_gap_adj-back,the,2.3551278114318848,gulordava,False,False
+356,356,0,4,students,adjunct setup,that_gap_adj-back,students,11.440431594848633,gulordava,False,False
+357,357,0,5,would,adjunct setup,that_gap_adj-back,would,6.078172206878662,gulordava,False,False
+358,358,0,6,be,adjunct setup,that_gap_adj-back,be,2.583058357238769,gulordava,False,False
+359,359,0,7,really,adjunct setup,that_gap_adj-back,really,9.040613174438477,gulordava,False,False
+360,360,0,8,happy,adjunct setup,that_gap_adj-back,happy,5.860775947570801,gulordava,False,False
+361,361,0,9,if,preposition,that_gap_adj-back,if,7.29829740524292,gulordava,False,False
+362,362,0,10,they,subject,that_gap_adj-back,they,1.3096309900283811,gulordava,False,False
+363,363,0,11,could,verb,that_gap_adj-back,could,4.75248384475708,gulordava,False,False
+364,364,0,12,speak,verb,that_gap_adj-back,speak,7.84624719619751,gulordava,False,False
+365,365,0,13,to,verb,that_gap_adj-back,to,3.5343701839447017,gulordava,False,False
+366,366,0,14,in,continuation,that_gap_adj-back,in,12.003121376037598,gulordava,False,False
+367,367,0,15,private,continuation,that_gap_adj-back,private,9.944639205932617,gulordava,False,False
+368,368,0,17,.,End,that_gap_adj-back,.,2.0645310878753658,gulordava,False,False
+369,369,0,18,<eos>,End,that_gap_adj-back,<eos>,-0.0,gulordava,False,True
+370,370,1,0,I,prefix,that_gap_adj-back,I,0.0,gulordava,False,False
+371,371,1,1,know,prefix,that_gap_adj-back,know,6.27811336517334,gulordava,False,False
+372,372,1,2,that,that,that_gap_adj-back,that,2.352034091949463,gulordava,False,False
+373,373,1,3,the,adjunct setup,that_gap_adj-back,the,2.3551278114318848,gulordava,False,False
+374,374,1,4,teacher,adjunct setup,that_gap_adj-back,teacher,13.115328788757324,gulordava,False,False
+375,375,1,5,would,adjunct setup,that_gap_adj-back,would,6.102537631988525,gulordava,False,False
+376,376,1,6,be,adjunct setup,that_gap_adj-back,be,2.7641520500183105,gulordava,False,False
+377,377,1,7,impressed,adjunct setup,that_gap_adj-back,impressed,11.06385612487793,gulordava,False,False
+378,378,1,8,if,preposition,that_gap_adj-back,if,8.156023025512695,gulordava,False,False
+379,379,1,9,we,subject,that_gap_adj-back,we,6.5875797271728525,gulordava,False,False
+380,380,1,10,cleaned,verb,that_gap_adj-back,cleaned,15.514819145202635,gulordava,False,False
+381,381,1,11,during,continuation,that_gap_adj-back,during,14.439273834228516,gulordava,False,False
+382,382,1,12,the,continuation,that_gap_adj-back,the,1.2763713598251345,gulordava,False,False
+383,383,1,13,break,continuation,that_gap_adj-back,break,10.16264820098877,gulordava,False,False
+384,384,1,15,.,End,that_gap_adj-back,.,1.6986517906188965,gulordava,False,False
+385,385,1,16,<eos>,End,that_gap_adj-back,<eos>,-0.0,gulordava,False,True
+386,386,2,0,I,prefix,that_gap_adj-back,I,0.0,gulordava,False,False
+387,387,2,1,know,prefix,that_gap_adj-back,know,6.27811336517334,gulordava,False,False
+388,388,2,2,that,that,that_gap_adj-back,that,2.352034091949463,gulordava,False,False
+389,389,2,3,the,adjunct setup,that_gap_adj-back,the,2.3551278114318848,gulordava,False,False
+390,390,2,4,bride,adjunct setup,that_gap_adj-back,bride,14.412259101867676,gulordava,False,False
+391,391,2,5,would,adjunct setup,that_gap_adj-back,would,5.346220970153809,gulordava,False,False
+392,392,2,6,get,adjunct setup,that_gap_adj-back,get,6.906890869140625,gulordava,False,False
+393,393,2,7,very,adjunct setup,that_gap_adj-back,very,7.969651222229004,gulordava,False,False
+394,394,2,8,angry,adjunct setup,that_gap_adj-back,angry,6.0724120140075675,gulordava,False,False
+395,395,2,9,if,preposition,that_gap_adj-back,if,5.317945957183838,gulordava,False,False
+396,396,2,10,she,subject,that_gap_adj-back,she,2.0909223556518555,gulordava,False,False
+397,397,2,11,missed,verb,that_gap_adj-back,missed,9.92270565032959,gulordava,False,False
+398,398,2,12,in,continuation,that_gap_adj-back,in,9.179858207702637,gulordava,False,False
+399,399,2,13,the,continuation,that_gap_adj-back,the,1.0655769109725952,gulordava,False,False
+400,400,2,14,evening,continuation,that_gap_adj-back,evening,7.096191883087157,gulordava,False,False
+401,401,2,16,.,End,that_gap_adj-back,.,1.5264601707458496,gulordava,False,False
+402,402,2,17,<eos>,End,that_gap_adj-back,<eos>,-0.0,gulordava,False,True
+403,403,3,0,I,prefix,that_gap_adj-back,I,0.0,gulordava,False,False
+404,404,3,1,know,prefix,that_gap_adj-back,know,6.27811336517334,gulordava,False,False
+405,405,3,2,that,that,that_gap_adj-back,that,2.352034091949463,gulordava,False,False
+406,406,3,3,the,adjunct setup,that_gap_adj-back,the,2.3551278114318848,gulordava,False,False
+407,407,3,4,father,adjunct setup,that_gap_adj-back,father,10.76327896118164,gulordava,False,False
+408,408,3,5,would,adjunct setup,that_gap_adj-back,would,5.8414855003356925,gulordava,False,False
+409,409,3,6,get,adjunct setup,that_gap_adj-back,get,6.9323272705078125,gulordava,False,False
+410,410,3,7,really,adjunct setup,that_gap_adj-back,really,11.826189041137695,gulordava,False,False
+411,411,3,8,upset,adjunct setup,that_gap_adj-back,upset,5.730034828186035,gulordava,False,False
+412,412,3,9,if,preposition,that_gap_adj-back,if,6.451144218444824,gulordava,False,False
+413,413,3,10,he,subject,that_gap_adj-back,he,1.879549503326416,gulordava,False,False
+414,414,3,11,forgot,verb,that_gap_adj-back,forgot,10.52214813232422,gulordava,False,False
+415,415,3,12,in,continuation,that_gap_adj-back,in,8.097198486328125,gulordava,False,False
+416,416,3,13,the,continuation,that_gap_adj-back,the,2.217901945114136,gulordava,False,False
+417,417,3,14,car,continuation,that_gap_adj-back,car,10.853009223937988,gulordava,False,False
+418,418,3,16,.,End,that_gap_adj-back,.,1.7760934829711914,gulordava,False,False
+419,419,3,17,<eos>,End,that_gap_adj-back,<eos>,-0.0,gulordava,False,True
+420,420,4,0,I,prefix,that_gap_adj-back,I,0.0,gulordava,False,False
+421,421,4,1,know,prefix,that_gap_adj-back,know,6.27811336517334,gulordava,False,False
+422,422,4,2,that,that,that_gap_adj-back,that,2.352034091949463,gulordava,False,False
+423,423,4,3,the,adjunct setup,that_gap_adj-back,the,2.3551278114318848,gulordava,False,False
+424,424,4,4,kids,adjunct setup,that_gap_adj-back,kids,10.888583183288574,gulordava,False,False
+425,425,4,5,get,adjunct setup,that_gap_adj-back,get,5.9129066467285165,gulordava,False,False
+426,426,4,6,grumpy,adjunct setup,that_gap_adj-back,<unk>,6.103036403656006,gulordava,True,False
+427,427,4,7,if,preposition,that_gap_adj-back,if,9.132633209228516,gulordava,False,False
+428,428,4,8,they,subject,that_gap_adj-back,they,1.2462400197982788,gulordava,False,False
+429,429,4,9,are,verb,that_gap_adj-back,are,2.849933862686157,gulordava,False,False
+430,430,4,10,told,verb,that_gap_adj-back,told,8.805938720703125,gulordava,False,False
+431,431,4,11,to,verb,that_gap_adj-back,to,3.059534072875977,gulordava,False,False
+432,432,4,12,do,verb,that_gap_adj-back,do,4.0449299812316895,gulordava,False,False
+433,433,4,13,in,continuation,that_gap_adj-back,in,9.912090301513672,gulordava,False,False
+434,434,4,14,the,continuation,that_gap_adj-back,the,1.9881951808929443,gulordava,False,False
+435,435,4,15,morning,continuation,that_gap_adj-back,morning,6.441699028015138,gulordava,False,False
+436,436,4,17,.,End,that_gap_adj-back,.,1.1784297227859497,gulordava,False,False
+437,437,4,18,<eos>,End,that_gap_adj-back,<eos>,-0.0,gulordava,False,True
+438,438,0,0,I,prefix,what_no-gap_adj-back,I,0.0,gulordava,False,False
+439,439,0,1,know,prefix,what_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+440,440,0,2,who,what,what_no-gap_adj-back,who,6.579617977142334,gulordava,False,False
+441,441,0,3,the,adjunct setup,what_no-gap_adj-back,the,5.056532382965088,gulordava,False,False
+442,442,0,4,students,adjunct setup,what_no-gap_adj-back,students,11.963228225708008,gulordava,False,False
+443,443,0,5,would,adjunct setup,what_no-gap_adj-back,would,5.614240646362305,gulordava,False,False
+444,444,0,6,be,adjunct setup,what_no-gap_adj-back,be,2.4898793697357178,gulordava,False,False
+445,445,0,7,really,adjunct setup,what_no-gap_adj-back,really,9.390409469604492,gulordava,False,False
+446,446,0,8,happy,adjunct setup,what_no-gap_adj-back,happy,5.284889221191406,gulordava,False,False
+447,447,0,9,if,preposition,what_no-gap_adj-back,if,9.16036319732666,gulordava,False,False
+448,448,0,10,they,subject,what_no-gap_adj-back,they,1.3437011241912842,gulordava,False,False
+449,449,0,11,could,verb,what_no-gap_adj-back,could,4.914046764373778,gulordava,False,False
+450,450,0,12,speak,verb,what_no-gap_adj-back,speak,7.954801082611084,gulordava,False,False
+451,451,0,13,to,verb,what_no-gap_adj-back,to,3.821500062942505,gulordava,False,False
+452,452,0,14,the,object,what_no-gap_adj-back,the,2.870672702789306,gulordava,False,False
+453,453,0,15,reporter,object,what_no-gap_adj-back,reporter,12.80691623687744,gulordava,False,False
+454,454,0,16,in,continuation,what_no-gap_adj-back,in,5.836903095245361,gulordava,False,False
+455,455,0,17,private,continuation,what_no-gap_adj-back,private,11.38450813293457,gulordava,False,False
+456,456,0,19,.,End,what_no-gap_adj-back,.,1.1406075954437256,gulordava,False,False
+457,457,0,20,<eos>,End,what_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+458,458,1,0,I,prefix,what_no-gap_adj-back,I,0.0,gulordava,False,False
+459,459,1,1,know,prefix,what_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+460,460,1,2,what,what,what_no-gap_adj-back,what,4.560976505279541,gulordava,False,False
+461,461,1,3,the,adjunct setup,what_no-gap_adj-back,the,3.557624340057373,gulordava,False,False
+462,462,1,4,teacher,adjunct setup,what_no-gap_adj-back,teacher,12.895139694213867,gulordava,False,False
+463,463,1,5,would,adjunct setup,what_no-gap_adj-back,would,5.557612895965576,gulordava,False,False
+464,464,1,6,be,adjunct setup,what_no-gap_adj-back,be,3.7484221458435063,gulordava,False,False
+465,465,1,7,impressed,adjunct setup,what_no-gap_adj-back,impressed,12.497323036193848,gulordava,False,False
+466,466,1,8,if,preposition,what_no-gap_adj-back,if,8.510861396789549,gulordava,False,False
+467,467,1,9,we,subject,what_no-gap_adj-back,we,6.097418785095215,gulordava,False,False
+468,468,1,10,cleaned,verb,what_no-gap_adj-back,cleaned,15.375722885131836,gulordava,False,False
+469,469,1,11,the,object,what_no-gap_adj-back,the,2.60428786277771,gulordava,False,False
+470,470,1,12,classroom,object,what_no-gap_adj-back,classroom,12.320432662963867,gulordava,False,False
+471,471,1,13,during,continuation,what_no-gap_adj-back,during,8.413002014160156,gulordava,False,False
+472,472,1,14,the,continuation,what_no-gap_adj-back,the,1.112446665763855,gulordava,False,False
+473,473,1,15,break,continuation,what_no-gap_adj-back,break,10.743732452392578,gulordava,False,False
+474,474,1,17,.,End,what_no-gap_adj-back,.,1.0388071537017822,gulordava,False,False
+475,475,1,18,<eos>,End,what_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+476,476,2,0,I,prefix,what_no-gap_adj-back,I,0.0,gulordava,False,False
+477,477,2,1,know,prefix,what_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+478,478,2,2,what,what,what_no-gap_adj-back,what,4.560976505279541,gulordava,False,False
+479,479,2,3,the,adjunct setup,what_no-gap_adj-back,the,3.557624340057373,gulordava,False,False
+480,480,2,4,bride,adjunct setup,what_no-gap_adj-back,bride,14.650943756103516,gulordava,False,False
+481,481,2,5,would,adjunct setup,what_no-gap_adj-back,would,5.1330108642578125,gulordava,False,False
+482,482,2,6,get,adjunct setup,what_no-gap_adj-back,get,6.888730525970459,gulordava,False,False
+483,483,2,7,very,adjunct setup,what_no-gap_adj-back,very,11.425949096679688,gulordava,False,False
+484,484,2,8,angry,adjunct setup,what_no-gap_adj-back,angry,8.523190498352049,gulordava,False,False
+485,485,2,9,if,preposition,what_no-gap_adj-back,if,6.937605381011963,gulordava,False,False
+486,486,2,10,she,subject,what_no-gap_adj-back,she,2.1327807903289795,gulordava,False,False
+487,487,2,11,missed,verb,what_no-gap_adj-back,missed,10.26162052154541,gulordava,False,False
+488,488,2,12,the,object,what_no-gap_adj-back,the,1.3860071897506714,gulordava,False,False
+489,489,2,13,reception,object,what_no-gap_adj-back,reception,11.146692276000977,gulordava,False,False
+490,490,2,14,in,continuation,what_no-gap_adj-back,in,6.542831897735597,gulordava,False,False
+491,491,2,15,the,continuation,what_no-gap_adj-back,the,1.7461826801300049,gulordava,False,False
+492,492,2,16,evening,continuation,what_no-gap_adj-back,evening,6.921096324920653,gulordava,False,False
+493,493,2,18,.,End,what_no-gap_adj-back,.,1.2200809717178345,gulordava,False,False
+494,494,2,19,<eos>,End,what_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+495,495,3,0,I,prefix,what_no-gap_adj-back,I,0.0,gulordava,False,False
+496,496,3,1,know,prefix,what_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+497,497,3,2,what,what,what_no-gap_adj-back,what,4.560976505279541,gulordava,False,False
+498,498,3,3,the,adjunct setup,what_no-gap_adj-back,the,3.557624340057373,gulordava,False,False
+499,499,3,4,father,adjunct setup,what_no-gap_adj-back,father,10.775384902954102,gulordava,False,False
+500,500,3,5,would,adjunct setup,what_no-gap_adj-back,would,5.507193565368652,gulordava,False,False
+501,501,3,6,get,adjunct setup,what_no-gap_adj-back,get,7.2767066955566415,gulordava,False,False
+502,502,3,7,really,adjunct setup,what_no-gap_adj-back,really,11.033299446105957,gulordava,False,False
+503,503,3,8,upset,adjunct setup,what_no-gap_adj-back,upset,9.4374418258667,gulordava,False,False
+504,504,3,9,if,preposition,what_no-gap_adj-back,if,7.614140033721924,gulordava,False,False
+505,505,3,10,he,subject,what_no-gap_adj-back,he,2.5949065685272217,gulordava,False,False
+506,506,3,11,forgot,verb,what_no-gap_adj-back,forgot,10.427664756774902,gulordava,False,False
+507,507,3,12,the,object,what_no-gap_adj-back,the,3.1451663970947266,gulordava,False,False
+508,508,3,13,diapers,object,what_no-gap_adj-back,<unk>,4.047658920288087,gulordava,True,False
+509,509,3,14,in,continuation,what_no-gap_adj-back,in,6.143951892852782,gulordava,False,False
+510,510,3,15,the,continuation,what_no-gap_adj-back,the,1.946492314338684,gulordava,False,False
+511,511,3,16,car,continuation,what_no-gap_adj-back,car,9.823863983154297,gulordava,False,False
+512,512,3,18,.,End,what_no-gap_adj-back,.,1.151189208030701,gulordava,False,False
+513,513,3,19,<eos>,End,what_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+514,514,4,0,I,prefix,what_no-gap_adj-back,I,0.0,gulordava,False,False
+515,515,4,1,know,prefix,what_no-gap_adj-back,know,6.27811336517334,gulordava,False,False
+516,516,4,2,what,what,what_no-gap_adj-back,what,4.560976505279541,gulordava,False,False
+517,517,4,3,the,adjunct setup,what_no-gap_adj-back,the,3.557624340057373,gulordava,False,False
+518,518,4,4,kids,adjunct setup,what_no-gap_adj-back,kids,10.261277198791504,gulordava,False,False
+519,519,4,5,get,adjunct setup,what_no-gap_adj-back,get,6.523132801055907,gulordava,False,False
+520,520,4,6,grumpy,adjunct setup,what_no-gap_adj-back,<unk>,8.921013832092285,gulordava,True,False
+521,521,4,7,if,preposition,what_no-gap_adj-back,if,9.193463325500488,gulordava,False,False
+522,522,4,8,they,subject,what_no-gap_adj-back,they,2.0709059238433842,gulordava,False,False
+523,523,4,9,are,verb,what_no-gap_adj-back,are,2.802235841751098,gulordava,False,False
+524,524,4,10,told,verb,what_no-gap_adj-back,told,8.746614456176758,gulordava,False,False
+525,525,4,11,to,verb,what_no-gap_adj-back,to,3.2137205600738525,gulordava,False,False
+526,526,4,12,do,verb,what_no-gap_adj-back,do,3.898136615753174,gulordava,False,False
+527,527,4,13,the,object,what_no-gap_adj-back,the,3.9881536960601807,gulordava,False,False
+528,528,4,14,homework,object,what_no-gap_adj-back,homework,6.8684020042419425,gulordava,False,False
+529,529,4,15,in,continuation,what_no-gap_adj-back,in,6.168535709381104,gulordava,False,False
+530,530,4,16,the,continuation,what_no-gap_adj-back,the,2.4921751022338867,gulordava,False,False
+531,531,4,17,morning,continuation,what_no-gap_adj-back,morning,6.301241397857666,gulordava,False,False
+532,532,4,19,.,End,what_no-gap_adj-back,.,1.0363556146621704,gulordava,False,False
+533,533,4,20,<eos>,End,what_no-gap_adj-back,<eos>,-0.0,gulordava,False,True
+534,534,0,0,I,prefix,what_gap_adj-back,I,0.0,gulordava,False,False
+535,535,0,1,know,prefix,what_gap_adj-back,know,6.27811336517334,gulordava,False,False
+536,536,0,2,who,what,what_gap_adj-back,who,6.579617977142334,gulordava,False,False
+537,537,0,3,the,adjunct setup,what_gap_adj-back,the,5.056532382965088,gulordava,False,False
+538,538,0,4,students,adjunct setup,what_gap_adj-back,students,11.963228225708008,gulordava,False,False
+539,539,0,5,would,adjunct setup,what_gap_adj-back,would,5.614240646362305,gulordava,False,False
+540,540,0,6,be,adjunct setup,what_gap_adj-back,be,2.4898793697357178,gulordava,False,False
+541,541,0,7,really,adjunct setup,what_gap_adj-back,really,9.390409469604492,gulordava,False,False
+542,542,0,8,happy,adjunct setup,what_gap_adj-back,happy,5.284889221191406,gulordava,False,False
+543,543,0,9,if,preposition,what_gap_adj-back,if,9.16036319732666,gulordava,False,False
+544,544,0,10,they,subject,what_gap_adj-back,they,1.3437011241912842,gulordava,False,False
+545,545,0,11,could,verb,what_gap_adj-back,could,4.914046764373778,gulordava,False,False
+546,546,0,12,speak,verb,what_gap_adj-back,speak,7.954801082611084,gulordava,False,False
+547,547,0,13,to,verb,what_gap_adj-back,to,3.821500062942505,gulordava,False,False
+548,548,0,14,in,continuation,what_gap_adj-back,in,12.135175704956055,gulordava,False,False
+549,549,0,15,private,continuation,what_gap_adj-back,private,10.375391960144043,gulordava,False,False
+550,550,0,17,.,End,what_gap_adj-back,.,1.870198369026184,gulordava,False,False
+551,551,0,18,<eos>,End,what_gap_adj-back,<eos>,-0.0,gulordava,False,True
+552,552,1,0,I,prefix,what_gap_adj-back,I,0.0,gulordava,False,False
+553,553,1,1,know,prefix,what_gap_adj-back,know,6.27811336517334,gulordava,False,False
+554,554,1,2,what,what,what_gap_adj-back,what,4.560976505279541,gulordava,False,False
+555,555,1,3,the,adjunct setup,what_gap_adj-back,the,3.557624340057373,gulordava,False,False
+556,556,1,4,teacher,adjunct setup,what_gap_adj-back,teacher,12.895139694213867,gulordava,False,False
+557,557,1,5,would,adjunct setup,what_gap_adj-back,would,5.557612895965576,gulordava,False,False
+558,558,1,6,be,adjunct setup,what_gap_adj-back,be,3.7484221458435063,gulordava,False,False
+559,559,1,7,impressed,adjunct setup,what_gap_adj-back,impressed,12.497323036193848,gulordava,False,False
+560,560,1,8,if,preposition,what_gap_adj-back,if,8.510861396789549,gulordava,False,False
+561,561,1,9,we,subject,what_gap_adj-back,we,6.097418785095215,gulordava,False,False
+562,562,1,10,cleaned,verb,what_gap_adj-back,cleaned,15.375722885131836,gulordava,False,False
+563,563,1,11,during,continuation,what_gap_adj-back,during,13.70834732055664,gulordava,False,False
+564,564,1,12,the,continuation,what_gap_adj-back,the,1.2635310888290403,gulordava,False,False
+565,565,1,13,break,continuation,what_gap_adj-back,break,10.26585292816162,gulordava,False,False
+566,566,1,15,.,End,what_gap_adj-back,.,1.1388832330703735,gulordava,False,False
+567,567,1,16,<eos>,End,what_gap_adj-back,<eos>,-0.0,gulordava,False,True
+568,568,2,0,I,prefix,what_gap_adj-back,I,0.0,gulordava,False,False
+569,569,2,1,know,prefix,what_gap_adj-back,know,6.27811336517334,gulordava,False,False
+570,570,2,2,what,what,what_gap_adj-back,what,4.560976505279541,gulordava,False,False
+571,571,2,3,the,adjunct setup,what_gap_adj-back,the,3.557624340057373,gulordava,False,False
+572,572,2,4,bride,adjunct setup,what_gap_adj-back,bride,14.650943756103516,gulordava,False,False
+573,573,2,5,would,adjunct setup,what_gap_adj-back,would,5.1330108642578125,gulordava,False,False
+574,574,2,6,get,adjunct setup,what_gap_adj-back,get,6.888730525970459,gulordava,False,False
+575,575,2,7,very,adjunct setup,what_gap_adj-back,very,11.425949096679688,gulordava,False,False
+576,576,2,8,angry,adjunct setup,what_gap_adj-back,angry,8.523190498352049,gulordava,False,False
+577,577,2,9,if,preposition,what_gap_adj-back,if,6.937605381011963,gulordava,False,False
+578,578,2,10,she,subject,what_gap_adj-back,she,2.1327807903289795,gulordava,False,False
+579,579,2,11,missed,verb,what_gap_adj-back,missed,10.26162052154541,gulordava,False,False
+580,580,2,12,in,continuation,what_gap_adj-back,in,9.004351615905762,gulordava,False,False
+581,581,2,13,the,continuation,what_gap_adj-back,the,1.01412832736969,gulordava,False,False
+582,582,2,14,evening,continuation,what_gap_adj-back,evening,7.218672752380371,gulordava,False,False
+583,583,2,16,.,End,what_gap_adj-back,.,1.3623189926147459,gulordava,False,False
+584,584,2,17,<eos>,End,what_gap_adj-back,<eos>,-0.0,gulordava,False,True
+585,585,3,0,I,prefix,what_gap_adj-back,I,0.0,gulordava,False,False
+586,586,3,1,know,prefix,what_gap_adj-back,know,6.27811336517334,gulordava,False,False
+587,587,3,2,what,what,what_gap_adj-back,what,4.560976505279541,gulordava,False,False
+588,588,3,3,the,adjunct setup,what_gap_adj-back,the,3.557624340057373,gulordava,False,False
+589,589,3,4,father,adjunct setup,what_gap_adj-back,father,10.775384902954102,gulordava,False,False
+590,590,3,5,would,adjunct setup,what_gap_adj-back,would,5.507193565368652,gulordava,False,False
+591,591,3,6,get,adjunct setup,what_gap_adj-back,get,7.2767066955566415,gulordava,False,False
+592,592,3,7,really,adjunct setup,what_gap_adj-back,really,11.033299446105957,gulordava,False,False
+593,593,3,8,upset,adjunct setup,what_gap_adj-back,upset,9.4374418258667,gulordava,False,False
+594,594,3,9,if,preposition,what_gap_adj-back,if,7.614140033721924,gulordava,False,False
+595,595,3,10,he,subject,what_gap_adj-back,he,2.5949065685272217,gulordava,False,False
+596,596,3,11,forgot,verb,what_gap_adj-back,forgot,10.427664756774902,gulordava,False,False
+597,597,3,12,in,continuation,what_gap_adj-back,in,8.144741058349611,gulordava,False,False
+598,598,3,13,the,continuation,what_gap_adj-back,the,2.1128742694854736,gulordava,False,False
+599,599,3,14,car,continuation,what_gap_adj-back,car,10.827923774719238,gulordava,False,False
+600,600,3,16,.,End,what_gap_adj-back,.,1.5639384984970093,gulordava,False,False
+601,601,3,17,<eos>,End,what_gap_adj-back,<eos>,-0.0,gulordava,False,True
+602,602,4,0,I,prefix,what_gap_adj-back,I,0.0,gulordava,False,False
+603,603,4,1,know,prefix,what_gap_adj-back,know,6.27811336517334,gulordava,False,False
+604,604,4,2,what,what,what_gap_adj-back,what,4.560976505279541,gulordava,False,False
+605,605,4,3,the,adjunct setup,what_gap_adj-back,the,3.557624340057373,gulordava,False,False
+606,606,4,4,kids,adjunct setup,what_gap_adj-back,kids,10.261277198791504,gulordava,False,False
+607,607,4,5,get,adjunct setup,what_gap_adj-back,get,6.523132801055907,gulordava,False,False
+608,608,4,6,grumpy,adjunct setup,what_gap_adj-back,<unk>,8.921013832092285,gulordava,True,False
+609,609,4,7,if,preposition,what_gap_adj-back,if,9.193463325500488,gulordava,False,False
+610,610,4,8,they,subject,what_gap_adj-back,they,2.0709059238433842,gulordava,False,False
+611,611,4,9,are,verb,what_gap_adj-back,are,2.802235841751098,gulordava,False,False
+612,612,4,10,told,verb,what_gap_adj-back,told,8.746614456176758,gulordava,False,False
+613,613,4,11,to,verb,what_gap_adj-back,to,3.2137205600738525,gulordava,False,False
+614,614,4,12,do,verb,what_gap_adj-back,do,3.898136615753174,gulordava,False,False
+615,615,4,13,in,continuation,what_gap_adj-back,in,9.930858612060547,gulordava,False,False
+616,616,4,14,the,continuation,what_gap_adj-back,the,1.948904275894165,gulordava,False,False
+617,617,4,15,morning,continuation,what_gap_adj-back,morning,6.773218631744385,gulordava,False,False
+618,618,4,17,.,End,what_gap_adj-back,.,1.0445586442947388,gulordava,False,False
+619,619,4,18,<eos>,End,what_gap_adj-back,<eos>,-0.0,gulordava,False,True
+620,620,0,0,I,prefix,that_no-gap_adj-front,I,0.0,gulordava,False,False
+621,621,0,1,know,prefix,that_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+622,622,0,2,that,that,that_no-gap_adj-front,that,2.352034091949463,gulordava,False,False
+623,623,0,3,if,preposition,that_no-gap_adj-front,if,7.320971488952638,gulordava,False,False
+624,624,0,4,they,subject,that_no-gap_adj-front,they,4.94521427154541,gulordava,False,False
+625,625,0,5,could,verb,that_no-gap_adj-front,could,5.745862007141112,gulordava,False,False
+626,626,0,6,speak,verb,that_no-gap_adj-front,speak,8.427326202392576,gulordava,False,False
+627,627,0,7,to,verb,that_no-gap_adj-front,to,3.448655605316162,gulordava,False,False
+628,628,0,8,the,object,that_no-gap_adj-front,the,2.573979139328003,gulordava,False,False
+629,629,0,9,reporter,object,that_no-gap_adj-front,reporter,12.54018497467041,gulordava,False,False
+630,630,0,10,in,continuation,that_no-gap_adj-front,in,5.283212184906006,gulordava,False,False
+631,631,0,11,private,continuation,that_no-gap_adj-front,private,11.790725708007812,gulordava,False,False
+632,632,0,12,the,adjunct setup,that_no-gap_adj-front,the,7.8891053199768075,gulordava,False,False
+633,633,0,13,students,adjunct setup,that_no-gap_adj-front,students,10.919910430908203,gulordava,False,False
+634,634,0,14,would,adjunct setup,that_no-gap_adj-front,would,1.7373920679092407,gulordava,False,False
+635,635,0,15,be,adjunct setup,that_no-gap_adj-front,be,2.609928607940674,gulordava,False,False
+636,636,0,16,really,adjunct setup,that_no-gap_adj-front,really,10.560066223144533,gulordava,False,False
+637,637,0,17,happy,adjunct setup,that_no-gap_adj-front,happy,5.897738456726074,gulordava,False,False
+638,638,0,19,.,End,that_no-gap_adj-front,.,2.0360062122344966,gulordava,False,False
+639,639,0,20,<eos>,End,that_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+640,640,1,0,I,prefix,that_no-gap_adj-front,I,0.0,gulordava,False,False
+641,641,1,1,know,prefix,that_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+642,642,1,2,that,that,that_no-gap_adj-front,that,2.352034091949463,gulordava,False,False
+643,643,1,3,if,preposition,that_no-gap_adj-front,if,7.320971488952638,gulordava,False,False
+644,644,1,4,we,subject,that_no-gap_adj-front,we,4.184651851654054,gulordava,False,False
+645,645,1,5,cleaned,verb,that_no-gap_adj-front,cleaned,16.387590408325195,gulordava,False,False
+646,646,1,6,the,object,that_no-gap_adj-front,the,2.2910516262054443,gulordava,False,False
+647,647,1,7,classroom,object,that_no-gap_adj-front,classroom,15.446724891662598,gulordava,False,False
+648,648,1,8,during,continuation,that_no-gap_adj-front,during,8.472722053527832,gulordava,False,False
+649,649,1,9,the,continuation,that_no-gap_adj-front,the,1.1874512434005735,gulordava,False,False
+650,650,1,10,break,continuation,that_no-gap_adj-front,break,11.03581428527832,gulordava,False,False
+651,651,1,11,the,adjunct setup,that_no-gap_adj-front,the,5.021337032318115,gulordava,False,False
+652,652,1,12,teacher,adjunct setup,that_no-gap_adj-front,teacher,10.423147201538086,gulordava,False,False
+653,653,1,13,would,adjunct setup,that_no-gap_adj-front,would,1.8294837474823,gulordava,False,False
+654,654,1,14,be,adjunct setup,that_no-gap_adj-front,be,3.152000188827514,gulordava,False,False
+655,655,1,15,impressed,adjunct setup,that_no-gap_adj-front,impressed,10.475167274475098,gulordava,False,False
+656,656,1,17,.,End,that_no-gap_adj-front,.,3.6414775848388667,gulordava,False,False
+657,657,1,18,<eos>,End,that_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+658,658,2,0,I,prefix,that_no-gap_adj-front,I,0.0,gulordava,False,False
+659,659,2,1,know,prefix,that_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+660,660,2,2,that,that,that_no-gap_adj-front,that,2.352034091949463,gulordava,False,False
+661,661,2,3,if,preposition,that_no-gap_adj-front,if,7.320971488952638,gulordava,False,False
+662,662,2,4,she,subject,that_no-gap_adj-front,she,6.9045753479003915,gulordava,False,False
+663,663,2,5,missed,verb,that_no-gap_adj-front,missed,10.198898315429688,gulordava,False,False
+664,664,2,6,the,object,that_no-gap_adj-front,the,1.516033172607422,gulordava,False,False
+665,665,2,7,reception,object,that_no-gap_adj-front,reception,12.183305740356445,gulordava,False,False
+666,666,2,8,in,continuation,that_no-gap_adj-front,in,6.203866958618164,gulordava,False,False
+667,667,2,9,the,continuation,that_no-gap_adj-front,the,1.7913439273834229,gulordava,False,False
+668,668,2,10,evening,continuation,that_no-gap_adj-front,evening,7.69848108291626,gulordava,False,False
+669,669,2,11,the,adjunct setup,that_no-gap_adj-front,the,6.1968994140625,gulordava,False,False
+670,670,2,12,bride,adjunct setup,that_no-gap_adj-front,bride,12.069186210632324,gulordava,False,False
+671,671,2,13,would,adjunct setup,that_no-gap_adj-front,would,1.1909148693084717,gulordava,False,False
+672,672,2,14,get,adjunct setup,that_no-gap_adj-front,get,6.382987022399902,gulordava,False,False
+673,673,2,15,very,adjunct setup,that_no-gap_adj-front,very,8.484463691711426,gulordava,False,False
+674,674,2,16,angry,adjunct setup,that_no-gap_adj-front,angry,5.42316198348999,gulordava,False,False
+675,675,2,18,.,End,that_no-gap_adj-front,.,1.8355296850204468,gulordava,False,False
+676,676,2,19,<eos>,End,that_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+677,677,3,0,I,prefix,that_no-gap_adj-front,I,0.0,gulordava,False,False
+678,678,3,1,know,prefix,that_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+679,679,3,2,that,that,that_no-gap_adj-front,that,2.352034091949463,gulordava,False,False
+680,680,3,3,if,preposition,that_no-gap_adj-front,if,7.320971488952638,gulordava,False,False
+681,681,3,4,he,subject,that_no-gap_adj-front,he,4.514440059661865,gulordava,False,False
+682,682,3,5,forgot,verb,that_no-gap_adj-front,forgot,10.94054126739502,gulordava,False,False
+683,683,3,6,the,object,that_no-gap_adj-front,the,3.0099148750305176,gulordava,False,False
+684,684,3,7,diapers,object,that_no-gap_adj-front,<unk>,3.90474271774292,gulordava,True,False
+685,685,3,8,in,continuation,that_no-gap_adj-front,in,5.983081340789795,gulordava,False,False
+686,686,3,9,the,continuation,that_no-gap_adj-front,the,1.95460057258606,gulordava,False,False
+687,687,3,10,car,continuation,that_no-gap_adj-front,car,11.613739013671875,gulordava,False,False
+688,688,3,11,the,adjunct setup,that_no-gap_adj-front,the,6.563982963562013,gulordava,False,False
+689,689,3,12,father,adjunct setup,that_no-gap_adj-front,father,11.270139694213867,gulordava,False,False
+690,690,3,13,would,adjunct setup,that_no-gap_adj-front,would,1.584790587425232,gulordava,False,False
+691,691,3,14,get,adjunct setup,that_no-gap_adj-front,get,5.7899489402771,gulordava,False,False
+692,692,3,15,really,adjunct setup,that_no-gap_adj-front,really,11.58672332763672,gulordava,False,False
+693,693,3,16,upset,adjunct setup,that_no-gap_adj-front,upset,5.961117267608643,gulordava,False,False
+694,694,3,18,.,End,that_no-gap_adj-front,.,1.605376362800598,gulordava,False,False
+695,695,3,19,<eos>,End,that_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+696,696,4,0,I,prefix,that_no-gap_adj-front,I,0.0,gulordava,False,False
+697,697,4,1,know,prefix,that_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+698,698,4,2,that,that,that_no-gap_adj-front,that,2.352034091949463,gulordava,False,False
+699,699,4,3,if,preposition,that_no-gap_adj-front,if,7.320971488952638,gulordava,False,False
+700,700,4,4,they,subject,that_no-gap_adj-front,they,4.94521427154541,gulordava,False,False
+701,701,4,5,are,verb,that_no-gap_adj-front,are,2.850584983825684,gulordava,False,False
+702,702,4,6,told,verb,that_no-gap_adj-front,told,9.846829414367676,gulordava,False,False
+703,703,4,7,to,verb,that_no-gap_adj-front,to,3.0295438766479488,gulordava,False,False
+704,704,4,8,do,verb,that_no-gap_adj-front,do,4.269683837890625,gulordava,False,False
+705,705,4,9,the,object,that_no-gap_adj-front,the,4.128666877746582,gulordava,False,False
+706,706,4,10,homework,object,that_no-gap_adj-front,homework,8.974313735961914,gulordava,False,False
+707,707,4,11,in,continuation,that_no-gap_adj-front,in,6.5772881507873535,gulordava,False,False
+708,708,4,12,the,continuation,that_no-gap_adj-front,the,2.5426621437072754,gulordava,False,False
+709,709,4,13,morning,continuation,that_no-gap_adj-front,morning,5.3253583908081055,gulordava,False,False
+710,710,4,14,the,adjunct setup,that_no-gap_adj-front,the,8.041197776794434,gulordava,False,False
+711,711,4,15,kids,adjunct setup,that_no-gap_adj-front,kids,6.0170722007751465,gulordava,False,False
+712,712,4,16,get,adjunct setup,that_no-gap_adj-front,get,4.368894100189209,gulordava,False,False
+713,713,4,17,grumpy,adjunct setup,that_no-gap_adj-front,<unk>,6.154319286346436,gulordava,True,False
+714,714,4,19,.,End,that_no-gap_adj-front,.,2.687448740005493,gulordava,False,False
+715,715,4,20,<eos>,End,that_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+716,716,0,0,I,prefix,that_gap_adj-front,I,0.0,gulordava,False,False
+717,717,0,1,know,prefix,that_gap_adj-front,know,6.27811336517334,gulordava,False,False
+718,718,0,2,that,that,that_gap_adj-front,that,2.352034091949463,gulordava,False,False
+719,719,0,3,if,preposition,that_gap_adj-front,if,7.320971488952638,gulordava,False,False
+720,720,0,4,they,subject,that_gap_adj-front,they,4.94521427154541,gulordava,False,False
+721,721,0,5,could,verb,that_gap_adj-front,could,5.745862007141112,gulordava,False,False
+722,722,0,6,speak,verb,that_gap_adj-front,speak,8.427326202392576,gulordava,False,False
+723,723,0,7,to,verb,that_gap_adj-front,to,3.448655605316162,gulordava,False,False
+724,724,0,8,in,continuation,that_gap_adj-front,in,12.363198280334473,gulordava,False,False
+725,725,0,9,private,continuation,that_gap_adj-front,private,10.939338684082033,gulordava,False,False
+726,726,0,10,the,adjunct setup,that_gap_adj-front,the,8.243047714233397,gulordava,False,False
+727,727,0,11,students,adjunct setup,that_gap_adj-front,students,9.72414779663086,gulordava,False,False
+728,728,0,12,would,adjunct setup,that_gap_adj-front,would,2.1021983623504643,gulordava,False,False
+729,729,0,13,be,adjunct setup,that_gap_adj-front,be,2.510223865509033,gulordava,False,False
+730,730,0,14,really,adjunct setup,that_gap_adj-front,really,10.230976104736328,gulordava,False,False
+731,731,0,15,happy,adjunct setup,that_gap_adj-front,happy,5.741425037384032,gulordava,False,False
+732,732,0,17,.,End,that_gap_adj-front,.,1.9985636472702024,gulordava,False,False
+733,733,0,18,<eos>,End,that_gap_adj-front,<eos>,-0.0,gulordava,False,True
+734,734,1,0,I,prefix,that_gap_adj-front,I,0.0,gulordava,False,False
+735,735,1,1,know,prefix,that_gap_adj-front,know,6.27811336517334,gulordava,False,False
+736,736,1,2,that,that,that_gap_adj-front,that,2.352034091949463,gulordava,False,False
+737,737,1,3,if,preposition,that_gap_adj-front,if,7.320971488952638,gulordava,False,False
+738,738,1,4,we,subject,that_gap_adj-front,we,4.184651851654054,gulordava,False,False
+739,739,1,5,cleaned,verb,that_gap_adj-front,cleaned,16.387590408325195,gulordava,False,False
+740,740,1,6,during,continuation,that_gap_adj-front,during,14.45284938812256,gulordava,False,False
+741,741,1,7,the,continuation,that_gap_adj-front,the,1.368677854537964,gulordava,False,False
+742,742,1,8,break,continuation,that_gap_adj-front,break,11.462281227111815,gulordava,False,False
+743,743,1,9,the,adjunct setup,that_gap_adj-front,the,3.674691915512085,gulordava,False,False
+744,744,1,10,teacher,adjunct setup,that_gap_adj-front,teacher,14.716681480407715,gulordava,False,False
+745,745,1,11,would,adjunct setup,that_gap_adj-front,would,2.0980794429779053,gulordava,False,False
+746,746,1,12,be,adjunct setup,that_gap_adj-front,be,2.9261901378631587,gulordava,False,False
+747,747,1,13,impressed,adjunct setup,that_gap_adj-front,impressed,11.034757614135742,gulordava,False,False
+748,748,1,15,.,End,that_gap_adj-front,.,3.675338268280029,gulordava,False,False
+749,749,1,16,<eos>,End,that_gap_adj-front,<eos>,-0.0,gulordava,False,True
+750,750,2,0,I,prefix,that_gap_adj-front,I,0.0,gulordava,False,False
+751,751,2,1,know,prefix,that_gap_adj-front,know,6.27811336517334,gulordava,False,False
+752,752,2,2,that,that,that_gap_adj-front,that,2.352034091949463,gulordava,False,False
+753,753,2,3,if,preposition,that_gap_adj-front,if,7.320971488952638,gulordava,False,False
+754,754,2,4,she,subject,that_gap_adj-front,she,6.9045753479003915,gulordava,False,False
+755,755,2,5,missed,verb,that_gap_adj-front,missed,10.198898315429688,gulordava,False,False
+756,756,2,6,in,continuation,that_gap_adj-front,in,8.231172561645508,gulordava,False,False
+757,757,2,7,the,continuation,that_gap_adj-front,the,1.2602330446243286,gulordava,False,False
+758,758,2,8,evening,continuation,that_gap_adj-front,evening,7.840889930725098,gulordava,False,False
+759,759,2,9,the,adjunct setup,that_gap_adj-front,the,5.4694180488586435,gulordava,False,False
+760,760,2,10,bride,adjunct setup,that_gap_adj-front,bride,12.885191917419435,gulordava,False,False
+761,761,2,11,would,adjunct setup,that_gap_adj-front,would,1.324777364730835,gulordava,False,False
+762,762,2,12,get,adjunct setup,that_gap_adj-front,get,6.2701659202575675,gulordava,False,False
+763,763,2,13,very,adjunct setup,that_gap_adj-front,very,8.433744430541992,gulordava,False,False
+764,764,2,14,angry,adjunct setup,that_gap_adj-front,angry,5.336468696594238,gulordava,False,False
+765,765,2,16,.,End,that_gap_adj-front,.,1.9045190811157229,gulordava,False,False
+766,766,2,17,<eos>,End,that_gap_adj-front,<eos>,-0.0,gulordava,False,True
+767,767,3,0,I,prefix,that_gap_adj-front,I,0.0,gulordava,False,False
+768,768,3,1,know,prefix,that_gap_adj-front,know,6.27811336517334,gulordava,False,False
+769,769,3,2,that,that,that_gap_adj-front,that,2.352034091949463,gulordava,False,False
+770,770,3,3,if,preposition,that_gap_adj-front,if,7.320971488952638,gulordava,False,False
+771,771,3,4,he,subject,that_gap_adj-front,he,4.514440059661865,gulordava,False,False
+772,772,3,5,forgot,verb,that_gap_adj-front,forgot,10.94054126739502,gulordava,False,False
+773,773,3,6,in,continuation,that_gap_adj-front,in,7.722568035125732,gulordava,False,False
+774,774,3,7,the,continuation,that_gap_adj-front,the,2.371790170669556,gulordava,False,False
+775,775,3,8,car,continuation,that_gap_adj-front,car,12.557313919067385,gulordava,False,False
+776,776,3,9,the,adjunct setup,that_gap_adj-front,the,5.736621379852295,gulordava,False,False
+777,777,3,10,father,adjunct setup,that_gap_adj-front,father,11.010492324829102,gulordava,False,False
+778,778,3,11,would,adjunct setup,that_gap_adj-front,would,1.7155159711837769,gulordava,False,False
+779,779,3,12,get,adjunct setup,that_gap_adj-front,get,5.744493007659912,gulordava,False,False
+780,780,3,13,really,adjunct setup,that_gap_adj-front,really,11.875675201416016,gulordava,False,False
+781,781,3,14,upset,adjunct setup,that_gap_adj-front,upset,5.893198013305664,gulordava,False,False
+782,782,3,16,.,End,that_gap_adj-front,.,1.987470030784607,gulordava,False,False
+783,783,3,17,<eos>,End,that_gap_adj-front,<eos>,-0.0,gulordava,False,True
+784,784,4,0,I,prefix,that_gap_adj-front,I,0.0,gulordava,False,False
+785,785,4,1,know,prefix,that_gap_adj-front,know,6.27811336517334,gulordava,False,False
+786,786,4,2,that,that,that_gap_adj-front,that,2.352034091949463,gulordava,False,False
+787,787,4,3,if,preposition,that_gap_adj-front,if,7.320971488952638,gulordava,False,False
+788,788,4,4,they,subject,that_gap_adj-front,they,4.94521427154541,gulordava,False,False
+789,789,4,5,are,verb,that_gap_adj-front,are,2.850584983825684,gulordava,False,False
+790,790,4,6,told,verb,that_gap_adj-front,told,9.846829414367676,gulordava,False,False
+791,791,4,7,to,verb,that_gap_adj-front,to,3.0295438766479488,gulordava,False,False
+792,792,4,8,do,verb,that_gap_adj-front,do,4.269683837890625,gulordava,False,False
+793,793,4,9,in,continuation,that_gap_adj-front,in,10.0054292678833,gulordava,False,False
+794,794,4,10,the,continuation,that_gap_adj-front,the,2.00280499458313,gulordava,False,False
+795,795,4,11,morning,continuation,that_gap_adj-front,morning,6.0836029052734375,gulordava,False,False
+796,796,4,12,the,adjunct setup,that_gap_adj-front,the,6.4146833419799805,gulordava,False,False
+797,797,4,13,kids,adjunct setup,that_gap_adj-front,kids,8.16632080078125,gulordava,False,False
+798,798,4,14,get,adjunct setup,that_gap_adj-front,get,4.838244438171387,gulordava,False,False
+799,799,4,15,grumpy,adjunct setup,that_gap_adj-front,<unk>,6.2059288024902335,gulordava,True,False
+800,800,4,17,.,End,that_gap_adj-front,.,2.742978096008301,gulordava,False,False
+801,801,4,18,<eos>,End,that_gap_adj-front,<eos>,-0.0,gulordava,False,True
+802,802,0,0,I,prefix,what_no-gap_adj-front,I,0.0,gulordava,False,False
+803,803,0,1,know,prefix,what_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+804,804,0,2,who,what,what_no-gap_adj-front,who,6.579617977142334,gulordava,False,False
+805,805,0,3,if,preposition,what_no-gap_adj-front,if,10.826467514038086,gulordava,False,False
+806,806,0,4,they,subject,what_no-gap_adj-front,they,4.401124954223633,gulordava,False,False
+807,807,0,5,could,verb,what_no-gap_adj-front,could,4.858880043029785,gulordava,False,False
+808,808,0,6,speak,verb,what_no-gap_adj-front,speak,8.330388069152832,gulordava,False,False
+809,809,0,7,to,verb,what_no-gap_adj-front,to,3.5957851409912114,gulordava,False,False
+810,810,0,8,the,object,what_no-gap_adj-front,the,2.5560333728790283,gulordava,False,False
+811,811,0,9,reporter,object,what_no-gap_adj-front,reporter,12.685343742370605,gulordava,False,False
+812,812,0,10,in,continuation,what_no-gap_adj-front,in,5.461243152618408,gulordava,False,False
+813,813,0,11,private,continuation,what_no-gap_adj-front,private,11.58229923248291,gulordava,False,False
+814,814,0,12,the,adjunct setup,what_no-gap_adj-front,the,8.667646408081055,gulordava,False,False
+815,815,0,13,students,adjunct setup,what_no-gap_adj-front,students,11.146313667297363,gulordava,False,False
+816,816,0,14,would,adjunct setup,what_no-gap_adj-front,would,2.5796244144439697,gulordava,False,False
+817,817,0,15,be,adjunct setup,what_no-gap_adj-front,be,2.6790142059326167,gulordava,False,False
+818,818,0,16,really,adjunct setup,what_no-gap_adj-front,really,10.654010772705078,gulordava,False,False
+819,819,0,17,happy,adjunct setup,what_no-gap_adj-front,happy,5.791521072387695,gulordava,False,False
+820,820,0,19,.,End,what_no-gap_adj-front,.,1.989370942115784,gulordava,False,False
+821,821,0,20,<eos>,End,what_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+822,822,1,0,I,prefix,what_no-gap_adj-front,I,0.0,gulordava,False,False
+823,823,1,1,know,prefix,what_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+824,824,1,2,what,what,what_no-gap_adj-front,what,4.560976505279541,gulordava,False,False
+825,825,1,3,if,preposition,what_no-gap_adj-front,if,8.953145027160645,gulordava,False,False
+826,826,1,4,we,subject,what_no-gap_adj-front,we,4.438665390014648,gulordava,False,False
+827,827,1,5,cleaned,verb,what_no-gap_adj-front,cleaned,16.270469665527347,gulordava,False,False
+828,828,1,6,the,object,what_no-gap_adj-front,the,2.605642080307007,gulordava,False,False
+829,829,1,7,classroom,object,what_no-gap_adj-front,classroom,15.305109024047852,gulordava,False,False
+830,830,1,8,during,continuation,what_no-gap_adj-front,during,9.089486122131348,gulordava,False,False
+831,831,1,9,the,continuation,what_no-gap_adj-front,the,1.1165218353271484,gulordava,False,False
+832,832,1,10,break,continuation,what_no-gap_adj-front,break,11.21597671508789,gulordava,False,False
+833,833,1,11,the,adjunct setup,what_no-gap_adj-front,the,6.413215637207031,gulordava,False,False
+834,834,1,12,teacher,adjunct setup,what_no-gap_adj-front,teacher,10.45798110961914,gulordava,False,False
+835,835,1,13,would,adjunct setup,what_no-gap_adj-front,would,2.782858371734619,gulordava,False,False
+836,836,1,14,be,adjunct setup,what_no-gap_adj-front,be,3.572506666183472,gulordava,False,False
+837,837,1,15,impressed,adjunct setup,what_no-gap_adj-front,impressed,11.774438858032227,gulordava,False,False
+838,838,1,17,.,End,what_no-gap_adj-front,.,2.1102933883666988,gulordava,False,False
+839,839,1,18,<eos>,End,what_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+840,840,2,0,I,prefix,what_no-gap_adj-front,I,0.0,gulordava,False,False
+841,841,2,1,know,prefix,what_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+842,842,2,2,what,what,what_no-gap_adj-front,what,4.560976505279541,gulordava,False,False
+843,843,2,3,if,preposition,what_no-gap_adj-front,if,8.953145027160645,gulordava,False,False
+844,844,2,4,she,subject,what_no-gap_adj-front,she,6.242524147033691,gulordava,False,False
+845,845,2,5,missed,verb,what_no-gap_adj-front,missed,10.68496036529541,gulordava,False,False
+846,846,2,6,the,object,what_no-gap_adj-front,the,1.6132687330245972,gulordava,False,False
+847,847,2,7,reception,object,what_no-gap_adj-front,reception,12.538153648376465,gulordava,False,False
+848,848,2,8,in,continuation,what_no-gap_adj-front,in,6.338319778442383,gulordava,False,False
+849,849,2,9,the,continuation,what_no-gap_adj-front,the,1.6550953388214111,gulordava,False,False
+850,850,2,10,evening,continuation,what_no-gap_adj-front,evening,7.974387168884277,gulordava,False,False
+851,851,2,11,the,adjunct setup,what_no-gap_adj-front,the,7.868171215057372,gulordava,False,False
+852,852,2,12,bride,adjunct setup,what_no-gap_adj-front,bride,12.39989185333252,gulordava,False,False
+853,853,2,13,would,adjunct setup,what_no-gap_adj-front,would,2.0904278755187993,gulordava,False,False
+854,854,2,14,get,adjunct setup,what_no-gap_adj-front,get,6.213284492492676,gulordava,False,False
+855,855,2,15,very,adjunct setup,what_no-gap_adj-front,very,8.765807151794434,gulordava,False,False
+856,856,2,16,angry,adjunct setup,what_no-gap_adj-front,angry,5.408782005310059,gulordava,False,False
+857,857,2,18,.,End,what_no-gap_adj-front,.,1.5846298933029177,gulordava,False,False
+858,858,2,19,<eos>,End,what_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+859,859,3,0,I,prefix,what_no-gap_adj-front,I,0.0,gulordava,False,False
+860,860,3,1,know,prefix,what_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+861,861,3,2,what,what,what_no-gap_adj-front,what,4.560976505279541,gulordava,False,False
+862,862,3,3,if,preposition,what_no-gap_adj-front,if,8.953145027160645,gulordava,False,False
+863,863,3,4,he,subject,what_no-gap_adj-front,he,4.086101055145264,gulordava,False,False
+864,864,3,5,forgot,verb,what_no-gap_adj-front,forgot,10.922588348388672,gulordava,False,False
+865,865,3,6,the,object,what_no-gap_adj-front,the,2.9381122589111333,gulordava,False,False
+866,866,3,7,diapers,object,what_no-gap_adj-front,<unk>,3.5932319164276123,gulordava,True,False
+867,867,3,8,in,continuation,what_no-gap_adj-front,in,6.035908222198486,gulordava,False,False
+868,868,3,9,the,continuation,what_no-gap_adj-front,the,1.800427794456482,gulordava,False,False
+869,869,3,10,car,continuation,what_no-gap_adj-front,car,11.030637741088867,gulordava,False,False
+870,870,3,11,the,adjunct setup,what_no-gap_adj-front,the,8.081423759460451,gulordava,False,False
+871,871,3,12,father,adjunct setup,what_no-gap_adj-front,father,11.097855567932127,gulordava,False,False
+872,872,3,13,would,adjunct setup,what_no-gap_adj-front,would,2.792379856109619,gulordava,False,False
+873,873,3,14,get,adjunct setup,what_no-gap_adj-front,get,5.855216979980469,gulordava,False,False
+874,874,3,15,really,adjunct setup,what_no-gap_adj-front,really,12.027799606323242,gulordava,False,False
+875,875,3,16,upset,adjunct setup,what_no-gap_adj-front,upset,8.028336524963379,gulordava,False,False
+876,876,3,18,.,End,what_no-gap_adj-front,.,1.4511755704879759,gulordava,False,False
+877,877,3,19,<eos>,End,what_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+878,878,4,0,I,prefix,what_no-gap_adj-front,I,0.0,gulordava,False,False
+879,879,4,1,know,prefix,what_no-gap_adj-front,know,6.27811336517334,gulordava,False,False
+880,880,4,2,what,what,what_no-gap_adj-front,what,4.560976505279541,gulordava,False,False
+881,881,4,3,if,preposition,what_no-gap_adj-front,if,8.953145027160645,gulordava,False,False
+882,882,4,4,they,subject,what_no-gap_adj-front,they,4.026456356048584,gulordava,False,False
+883,883,4,5,are,verb,what_no-gap_adj-front,are,3.3102946281433105,gulordava,False,False
+884,884,4,6,told,verb,what_no-gap_adj-front,told,9.307376861572266,gulordava,False,False
+885,885,4,7,to,verb,what_no-gap_adj-front,to,3.8018736839294434,gulordava,False,False
+886,886,4,8,do,verb,what_no-gap_adj-front,do,4.406028270721436,gulordava,False,False
+887,887,4,9,the,object,what_no-gap_adj-front,the,3.781384706497192,gulordava,False,False
+888,888,4,10,homework,object,what_no-gap_adj-front,homework,8.717194557189941,gulordava,False,False
+889,889,4,11,in,continuation,what_no-gap_adj-front,in,6.336216449737549,gulordava,False,False
+890,890,4,12,the,continuation,what_no-gap_adj-front,the,2.4909112453460693,gulordava,False,False
+891,891,4,13,morning,continuation,what_no-gap_adj-front,morning,6.20689582824707,gulordava,False,False
+892,892,4,14,the,adjunct setup,what_no-gap_adj-front,the,9.182533264160156,gulordava,False,False
+893,893,4,15,kids,adjunct setup,what_no-gap_adj-front,kids,6.270630836486816,gulordava,False,False
+894,894,4,16,get,adjunct setup,what_no-gap_adj-front,get,4.008028030395509,gulordava,False,False
+895,895,4,17,grumpy,adjunct setup,what_no-gap_adj-front,<unk>,6.256667137145996,gulordava,True,False
+896,896,4,19,.,End,what_no-gap_adj-front,.,2.2416253089904785,gulordava,False,False
+897,897,4,20,<eos>,End,what_no-gap_adj-front,<eos>,-0.0,gulordava,False,True
+898,898,0,0,I,prefix,what_gap_adj-front,I,0.0,gulordava,False,False
+899,899,0,1,know,prefix,what_gap_adj-front,know,6.27811336517334,gulordava,False,False
+900,900,0,2,who,what,what_gap_adj-front,who,6.579617977142334,gulordava,False,False
+901,901,0,3,if,preposition,what_gap_adj-front,if,10.826467514038086,gulordava,False,False
+902,902,0,4,they,subject,what_gap_adj-front,they,4.401124954223633,gulordava,False,False
+903,903,0,5,could,verb,what_gap_adj-front,could,4.858880043029785,gulordava,False,False
+904,904,0,6,speak,verb,what_gap_adj-front,speak,8.330388069152832,gulordava,False,False
+905,905,0,7,to,verb,what_gap_adj-front,to,3.5957851409912114,gulordava,False,False
+906,906,0,8,in,continuation,what_gap_adj-front,in,12.127806663513185,gulordava,False,False
+907,907,0,9,private,continuation,what_gap_adj-front,private,10.934155464172363,gulordava,False,False
+908,908,0,10,the,adjunct setup,what_gap_adj-front,the,8.851325035095215,gulordava,False,False
+909,909,0,11,students,adjunct setup,what_gap_adj-front,students,10.431142807006836,gulordava,False,False
+910,910,0,12,would,adjunct setup,what_gap_adj-front,would,2.974604845046997,gulordava,False,False
+911,911,0,13,be,adjunct setup,what_gap_adj-front,be,2.500870943069458,gulordava,False,False
+912,912,0,14,really,adjunct setup,what_gap_adj-front,really,10.188189506530762,gulordava,False,False
+913,913,0,15,happy,adjunct setup,what_gap_adj-front,happy,5.635594844818115,gulordava,False,False
+914,914,0,17,.,End,what_gap_adj-front,.,1.880577087402344,gulordava,False,False
+915,915,0,18,<eos>,End,what_gap_adj-front,<eos>,-0.0,gulordava,False,True
+916,916,1,0,I,prefix,what_gap_adj-front,I,0.0,gulordava,False,False
+917,917,1,1,know,prefix,what_gap_adj-front,know,6.27811336517334,gulordava,False,False
+918,918,1,2,what,what,what_gap_adj-front,what,4.560976505279541,gulordava,False,False
+919,919,1,3,if,preposition,what_gap_adj-front,if,8.953145027160645,gulordava,False,False
+920,920,1,4,we,subject,what_gap_adj-front,we,4.438665390014648,gulordava,False,False
+921,921,1,5,cleaned,verb,what_gap_adj-front,cleaned,16.270469665527347,gulordava,False,False
+922,922,1,6,during,continuation,what_gap_adj-front,during,14.535407066345215,gulordava,False,False
+923,923,1,7,the,continuation,what_gap_adj-front,the,1.182069182395935,gulordava,False,False
+924,924,1,8,break,continuation,what_gap_adj-front,break,11.415018081665039,gulordava,False,False
+925,925,1,9,the,adjunct setup,what_gap_adj-front,the,4.584898471832275,gulordava,False,False
+926,926,1,10,teacher,adjunct setup,what_gap_adj-front,teacher,14.378898620605467,gulordava,False,False
+927,927,1,11,would,adjunct setup,what_gap_adj-front,would,2.8976943492889404,gulordava,False,False
+928,928,1,12,be,adjunct setup,what_gap_adj-front,be,2.9804787635803223,gulordava,False,False
+929,929,1,13,impressed,adjunct setup,what_gap_adj-front,impressed,11.56304931640625,gulordava,False,False
+930,930,1,15,.,End,what_gap_adj-front,.,2.3250653743743896,gulordava,False,False
+931,931,1,16,<eos>,End,what_gap_adj-front,<eos>,-0.0,gulordava,False,True
+932,932,2,0,I,prefix,what_gap_adj-front,I,0.0,gulordava,False,False
+933,933,2,1,know,prefix,what_gap_adj-front,know,6.27811336517334,gulordava,False,False
+934,934,2,2,what,what,what_gap_adj-front,what,4.560976505279541,gulordava,False,False
+935,935,2,3,if,preposition,what_gap_adj-front,if,8.953145027160645,gulordava,False,False
+936,936,2,4,she,subject,what_gap_adj-front,she,6.242524147033691,gulordava,False,False
+937,937,2,5,missed,verb,what_gap_adj-front,missed,10.68496036529541,gulordava,False,False
+938,938,2,6,in,continuation,what_gap_adj-front,in,7.462449550628662,gulordava,False,False
+939,939,2,7,the,continuation,what_gap_adj-front,the,1.1779389381408691,gulordava,False,False
+940,940,2,8,evening,continuation,what_gap_adj-front,evening,8.121294975280763,gulordava,False,False
+941,941,2,9,the,adjunct setup,what_gap_adj-front,the,7.301163673400879,gulordava,False,False
+942,942,2,10,bride,adjunct setup,what_gap_adj-front,bride,13.209827423095705,gulordava,False,False
+943,943,2,11,would,adjunct setup,what_gap_adj-front,would,2.1199572086334233,gulordava,False,False
+944,944,2,12,get,adjunct setup,what_gap_adj-front,get,6.112346649169923,gulordava,False,False
+945,945,2,13,very,adjunct setup,what_gap_adj-front,very,8.582125663757324,gulordava,False,False
+946,946,2,14,angry,adjunct setup,what_gap_adj-front,angry,5.195653915405273,gulordava,False,False
+947,947,2,16,.,End,what_gap_adj-front,.,1.6542993783950806,gulordava,False,False
+948,948,2,17,<eos>,End,what_gap_adj-front,<eos>,-0.0,gulordava,False,True
+949,949,3,0,I,prefix,what_gap_adj-front,I,0.0,gulordava,False,False
+950,950,3,1,know,prefix,what_gap_adj-front,know,6.27811336517334,gulordava,False,False
+951,951,3,2,what,what,what_gap_adj-front,what,4.560976505279541,gulordava,False,False
+952,952,3,3,if,preposition,what_gap_adj-front,if,8.953145027160645,gulordava,False,False
+953,953,3,4,he,subject,what_gap_adj-front,he,4.086101055145264,gulordava,False,False
+954,954,3,5,forgot,verb,what_gap_adj-front,forgot,10.922588348388672,gulordava,False,False
+955,955,3,6,in,continuation,what_gap_adj-front,in,8.139476776123049,gulordava,False,False
+956,956,3,7,the,continuation,what_gap_adj-front,the,1.9464774131774905,gulordava,False,False
+957,957,3,8,car,continuation,what_gap_adj-front,car,11.9533109664917,gulordava,False,False
+958,958,3,9,the,adjunct setup,what_gap_adj-front,the,6.814802169799805,gulordava,False,False
+959,959,3,10,father,adjunct setup,what_gap_adj-front,father,11.0468168258667,gulordava,False,False
+960,960,3,11,would,adjunct setup,what_gap_adj-front,would,2.548035860061645,gulordava,False,False
+961,961,3,12,get,adjunct setup,what_gap_adj-front,get,5.6355156898498535,gulordava,False,False
+962,962,3,13,really,adjunct setup,what_gap_adj-front,really,11.494901657104492,gulordava,False,False
+963,963,3,14,upset,adjunct setup,what_gap_adj-front,upset,6.553843975067139,gulordava,False,False
+964,964,3,16,.,End,what_gap_adj-front,.,1.5183486938476562,gulordava,False,False
+965,965,3,17,<eos>,End,what_gap_adj-front,<eos>,-0.0,gulordava,False,True
+966,966,4,0,I,prefix,what_gap_adj-front,I,0.0,gulordava,False,False
+967,967,4,1,know,prefix,what_gap_adj-front,know,6.27811336517334,gulordava,False,False
+968,968,4,2,what,what,what_gap_adj-front,what,4.560976505279541,gulordava,False,False
+969,969,4,3,if,preposition,what_gap_adj-front,if,8.953145027160645,gulordava,False,False
+970,970,4,4,they,subject,what_gap_adj-front,they,4.026456356048584,gulordava,False,False
+971,971,4,5,are,verb,what_gap_adj-front,are,3.3102946281433105,gulordava,False,False
+972,972,4,6,told,verb,what_gap_adj-front,told,9.307376861572266,gulordava,False,False
+973,973,4,7,to,verb,what_gap_adj-front,to,3.8018736839294434,gulordava,False,False
+974,974,4,8,do,verb,what_gap_adj-front,do,4.406028270721436,gulordava,False,False
+975,975,4,9,in,continuation,what_gap_adj-front,in,9.302169799804688,gulordava,False,False
+976,976,4,10,the,continuation,what_gap_adj-front,the,1.8287854194641116,gulordava,False,False
+977,977,4,11,morning,continuation,what_gap_adj-front,morning,6.755702018737793,gulordava,False,False
+978,978,4,12,the,adjunct setup,what_gap_adj-front,the,7.512044906616211,gulordava,False,False
+979,979,4,13,kids,adjunct setup,what_gap_adj-front,kids,8.165553092956543,gulordava,False,False
+980,980,4,14,get,adjunct setup,what_gap_adj-front,get,4.407888889312744,gulordava,False,False
+981,981,4,15,grumpy,adjunct setup,what_gap_adj-front,<unk>,6.333881378173827,gulordava,True,False
+982,982,4,17,.,End,what_gap_adj-front,.,2.1796104907989498,gulordava,False,False
+983,983,4,18,<eos>,End,what_gap_adj-front,<eos>,-0.0,gulordava,False,True

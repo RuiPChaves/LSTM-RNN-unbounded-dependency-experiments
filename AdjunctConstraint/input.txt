@@ -1,0 +1,60 @@
+I know that they likely could speak to the reporter in private . <eos>
+I know that the students sometimes cleaned the classroom during the break . <eos>
+I know that she unfortunately missed the reception in the evening . <eos>
+I know that he often forgot the diapers in the car . <eos>
+I know that they usually are told to do the homework in the morning . <eos>
+I know that they likely could speak to in private . <eos>
+I know that the students sometimes cleaned during the break . <eos>
+I know that she unfortunately missed in the evening . <eos>
+I know that he often forgot in the car . <eos>
+I know that they usually are told to do in the morning . <eos>
+I know who they likely could speak to the reporter in private . <eos>
+I know what the students sometimes cleaned the classroom during the break . <eos>
+I know what she unfortunately missed the reception in the evening . <eos>
+I know what he often forgot the diapers in the car . <eos>
+I know what they usually are told to do the homework in the morning . <eos>
+I know who they likely could speak to in private . <eos>
+I know what the students sometimes cleaned during the break . <eos>
+I know what she unfortunately missed in the evening . <eos>
+I know what he often forgot in the car . <eos>
+I know what they usually are told to do in the morning . <eos>
+I know that the kids would be really happy if they could speak to the reporter in private . <eos>
+I know that the teacher would be impressed if the students cleaned the classroom during the break . <eos>
+I know that she would get very angry if she missed the reception in the evening . <eos>
+I know that the boy would get really upset if he forgot the diapers in the car . <eos>
+I know that the kids get grumpy if they are told to do the homework in the morning . <eos>
+I know that the kids would be really happy if they could speak to in private . <eos>
+I know that the teacher would be impressed if the students cleaned during the break . <eos>
+I know that she would get very angry if she missed in the evening . <eos>
+I know that the boy would get really upset if he forgot in the car . <eos>
+I know that the kids get grumpy if they are told to do in the morning . <eos>
+I know who the kids would be really happy if they could speak to the reporter in private . <eos>
+I know what the teacher would be impressed if the students cleaned the classroom during the break . <eos>
+I know what she would get very angry if she missed the reception in the evening . <eos>
+I know what the boy would get really upset if he forgot the diapers in the car . <eos>
+I know what the kids get grumpy if they are told to do the homework in the morning . <eos>
+I know who the kids would be really happy if they could speak to in private . <eos>
+I know what the teacher would be impressed if the students cleaned during the break . <eos>
+I know what she would get very angry if she missed in the evening . <eos>
+I know what the boy would get really upset if he forgot in the car . <eos>
+I know what the kids get grumpy if they are told to do in the morning . <eos>
+I know that if they could speak to the reporter in private the kids would be really happy . <eos>
+I know that if the students cleaned the classroom during the break the teacher would be impressed . <eos>
+I know that if she missed the reception in the evening she would get very angry . <eos>
+I know that if he forgot the diapers in the car the boy would get really upset . <eos>
+I know that if they are told to do the homework in the morning the kids get grumpy . <eos>
+I know that if they could speak to in private the kids would be really happy . <eos>
+I know that if the students cleaned during the break the teacher would be impressed . <eos>
+I know that if she missed in the evening she would get very angry . <eos>
+I know that if he forgot in the car the boy would get really upset . <eos>
+I know that if they are told to do in the morning the kids get grumpy . <eos>
+I know who if they could speak to the reporter in private the kids would be really happy . <eos>
+I know what if the students cleaned the classroom during the break the teacher would be impressed . <eos>
+I know what if she missed the reception in the evening she would get very angry . <eos>
+I know what if he forgot the diapers in the car the boy would get really upset . <eos>
+I know what if they are told to do the homework in the morning the kids get grumpy . <eos>
+I know who if they could speak to in private the kids would be really happy . <eos>
+I know what if the students cleaned during the break the teacher would be impressed . <eos>
+I know what if she missed in the evening she would get very angry . <eos>
+I know what if he forgot in the car the boy would get really upset . <eos>
+I know what if they are told to do in the morning the kids get grumpy . <eos>

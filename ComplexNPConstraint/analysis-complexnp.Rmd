@@ -1,0 +1,79 @@
+---
+Load data
+---
+```{r}
+rm(list = ls())
+library(tidyverse)
+library(plotrix)
+library(stringr)
+library(readxl)
+
+remove_na = function(x) {
+  x[!is.na(x)]
+}
+
+d = read_csv("combined_results.csv") %>%
+  select(-1, -2) %>%
+  separate(condition, sep="_", into=c("wh", "gap",  "island"))
+
+d$island <- factor(d$island)
+d$wh <- factor(d$wh)
+summary(d$island)
+summary(d$wh)
+
+d_agg = d %>%
+  group_by(model, region, island, sent_index, wh, gap) %>% 
+    summarise(surprisal=sum(surprisal), unk=any(unk)) %>%
+    ungroup() %>% 
+  filter(!unk) %>%
+  mutate(wh_numeric=if_else(wh == "what", 1, -1),
+         wh=factor(wh, levels=c("what", "that")),
+         gap=factor(gap, levels=c("no-gap", "gap")))
+
+d_contrib = d_agg %>%
+  filter(region == "End") %>%
+  select(-wh_numeric) %>%
+  select(-island) %>%
+  spread(wh, surprisal) %>%
+  mutate(wh_effect=what-`that`)
+
+d_contrib %>% 
+  group_by(model,gap) %>%
+    summarise(m=mean(wh_effect),
+              s=std.error(wh_effect),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+      ungroup() %>%
+  ggplot(aes(x=model, y=m, ymin=lower, ymax=upper,fill=gap)) +
+    geom_bar(stat="identity", position="dodge") +
+  theme_bw(base_size=20) + 
+  ylab("Surprisal with wh-phrase vs. without wh-phrase") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9)) +
+  ggsave("cnpc.pdf",height=7,width=7)
+
+
+```
+
+Tests:
+
+         
+```{r}
+lm1 = d_contrib %>%
+  filter(model == "google")
+
+attach(lm1)
+summary(lm(wh_effect ~ gap, data=lm1))
+detach(lm1)    
+
+lm2 = d_contrib %>%
+  filter(model == "gulordava")
+
+attach(lm2)
+summary(lm(wh_effect ~ gap, data=lm2))
+detach(lm2)    
+
+```
+
+
+
+
