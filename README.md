@@ -1,6 +1,5 @@
 # LSTM-RNN-unbounded-dependency-experiments
 
-Stimuli for the LSTM RNN computational psycholinguistic experiments reported in "What Don’t RNN Language Models Learn
-About Filler-Gap Dependencies?", Python pre-processing, and R analysis (R Studio).
+Stimuli, Python pre-processing, and R analysis (R Studio) for the experiments reported in:
 
-(More details to follow)
+Chaves, Rui P. (2020) "What Don't RNN Language Models Learn About Filler-Gap Dependencies?", 3rd Annual Meeting of the Society for Computation in Linguistics (SCiL), pp.13
